@@ -1,0 +1,55 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "identifier": "com.voc-collector-serp.app",
+  "productName": "VOC Collector (SerpApi)",
+  "version": "1.5.0",
+  "build": {
+    "frontendDist": "../frontend/dist",
+    "devUrl": "http://localhost:5173",
+    "beforeBuildCommand": "npm run build",
+    "beforeDevCommand": ""
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "VOC Collector (SerpApi) — 글로벌 VOC 수집 시스템",
+        "width": 1280,
+        "height": 860,
+        "minWidth": 960,
+        "minHeight": 640,
+        "center": true,
+        "resizable": true
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["nsis"],
+    "externalBin": ["binaries/voc-backend"],
+    "icon": [
+      "icons/icon.ico"
+    ],
+    "resources": [],
+    "windows": {
+      "nsis": {
+        "displayLanguageSelector": false,
+        "languages": ["Korean"],
+        "installerHooks": "nsis/kill-backend.nsh"
+      }
+    }
+  },
+  "plugins": {
+    "shell": {},
+    "updater": {
+      "pubkey": "",
+      "endpoints": [
+        "https://github.com/YOUR_GITHUB_USER/voc-collector/releases/latest/download/latest.json"
+      ],
+      "dialog": true,
+      "headers": {}
+    }
+  }
+}

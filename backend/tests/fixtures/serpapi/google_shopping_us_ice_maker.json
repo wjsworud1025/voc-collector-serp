@@ -1,0 +1,56 @@
+{
+  "search_metadata": {"id": "google_shopping_us_dry_run", "status": "Success", "created_at": "2026-04-07"},
+  "search_parameters": {"engine": "google_shopping", "q": "portable ice maker", "gl": "us"},
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "IKICH Portable Ice Maker Machine",
+      "link": "https://www.amazon.com/dp/B07KQVZZ4N",
+      "price": "$89.99",
+      "source": "Amazon",
+      "snippet": "Makes 9 bullet ice cubes in 6 minutes, 26 lbs/day capacity.",
+      "reviews": {"rating": 4.4, "count": 15234},
+      "thumbnail": "https://shopping.google.com/img/abc123.jpg"
+    },
+    {
+      "position": 2,
+      "title": "Silonn Countertop Ice Maker 26lbs",
+      "link": "https://www.walmart.com/ip/Silonn-Ice-Maker/234567890",
+      "price": "$79.99",
+      "source": "Walmart",
+      "snippet": "Self-cleaning portable ice maker with LCD display. Ready in 6 min.",
+      "reviews": {"rating": 4.5, "count": 8743},
+      "thumbnail": "https://shopping.google.com/img/def456.jpg"
+    },
+    {
+      "position": 3,
+      "title": "GE Profile Opal Nugget Ice Maker",
+      "link": "https://www.homedepot.com/p/GE-Profile-Opal/345678901",
+      "price": "$499.00",
+      "source": "The Home Depot",
+      "snippet": "Countertop nugget ice maker with WiFi. Soft, chewable ice cubes.",
+      "reviews": {"rating": 4.6, "count": 2134},
+      "thumbnail": "https://shopping.google.com/img/ghi789.jpg"
+    },
+    {
+      "position": 4,
+      "title": "Igloo 26 lb Portable Ice Maker",
+      "link": "https://www.bestbuy.com/site/igloo-ice-maker/6789012",
+      "price": "$89.99",
+      "source": "Best Buy",
+      "snippet": "Compact design, 2 ice size options, easy-clean function.",
+      "reviews": {"rating": 3.9, "count": 654},
+      "thumbnail": "https://shopping.google.com/img/jkl012.jpg"
+    },
+    {
+      "position": 5,
+      "title": "Antarctic Star Portable Ice Maker 26lbs Daily",
+      "link": "https://www.costco.com/antarctic-star-icemaker.product.100987654.html",
+      "price": "$69.99",
+      "source": "Costco",
+      "snippet": "Fast ice production, self-cleaning, 2 ice sizes available.",
+      "reviews": {"rating": 3.8, "count": 4521},
+      "thumbnail": "https://shopping.google.com/img/mno345.jpg"
+    }
+  ]
+}

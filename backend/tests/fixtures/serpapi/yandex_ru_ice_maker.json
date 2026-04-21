@@ -1,0 +1,36 @@
+{
+  "search_metadata": {"id": "yandex_ru_dry_run", "status": "Success", "created_at": "2026-04-07"},
+  "search_parameters": {"engine": "yandex", "text": "ледогенератор отзывы"},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Ледогенератор для дома: рейтинг лучших моделей — Яндекс Маркет",
+      "link": "https://market.yandex.ru/catalog/56832/list",
+      "snippet": "Рейтинг ледогенераторов для домашнего использования. Сравнение цен, характеристик и отзывов покупателей."
+    },
+    {
+      "position": 2,
+      "title": "Отзывы о ледогенераторах - iRecommend.ru",
+      "link": "https://irecommend.ru/content/leodogenerator-dlya-doma",
+      "snippet": "Реальные отзывы покупателей о домашних ледогенераторах. Достоинства и недостатки по мнению пользователей."
+    },
+    {
+      "position": 3,
+      "title": "Почему ледогенератор не делает лёд? Решение проблемы",
+      "link": "https://club.dns-shop.ru/blog/t-126-ledogeneratory/leod-ne-delaet-led",
+      "snippet": "Основные причины неисправности ледогенератора: засорение фильтра, проблемы с компрессором, недостаток воды."
+    },
+    {
+      "position": 4,
+      "title": "Ледогенератор для пикника — стоит ли покупать?",
+      "link": "https://otzovik.com/reviews/ledogenerator_dlya_piknika/",
+      "snippet": "Ледогенератор для выезда на природу: плюсы и минусы использования. Отзывы туристов и любителей отдыха."
+    },
+    {
+      "position": 5,
+      "title": "Лучший ледогенератор до 5000 рублей — тест и сравнение",
+      "link": "https://ixbt.com/live/gadgets/ledogenerator-test",
+      "snippet": "Тестирование бюджетных ледогенераторов. Скорость заморозки, шум, надёжность — подробный обзор и сравнение."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "search_metadata": {"id": "yahoo_jp_dry_run", "status": "Success", "created_at": "2026-04-07"},
+  "search_parameters": {"engine": "yahoo_jp", "p": "製氷機 口コミ"},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "製氷機おすすめランキング2026年 - kakaku.com",
+      "link": "https://kakaku.com/kaden/ice-maker/ranking_2162/",
+      "snippet": "製氷機の価格比較、スペック比較、口コミランキング。家庭用製氷機のおすすめ機種を徹底比較。"
+    },
+    {
+      "position": 2,
+      "title": "製氷機 口コミ・評判 - Amazon.co.jp",
+      "link": "https://www.amazon.co.jp/s?k=%E8%A3%BD%E6%B0%B7%E6%A9%9F",
+      "snippet": "Amazon.co.jpで製氷機の口コミと評価をチェック。購入者レビューで人気製品を確認。"
+    },
+    {
+      "position": 3,
+      "title": "製氷機が壊れた！よくある故障原因と対処法",
+      "link": "https://kaden.watch.impress.co.jp/docs/review/icemaker_trouble",
+      "snippet": "製氷機が突然動かなくなった場合の対処法。製氷量が少ない、氷が小さいなどのトラブル解決法を解説。"
+    },
+    {
+      "position": 4,
+      "title": "ポータブル製氷機 使ってみた感想 - 家電Watch",
+      "link": "https://kaden.watch.impress.co.jp/docs/review/portable_icemaker",
+      "snippet": "キャンプや家庭用に人気のポータブル製氷機を実際に使ってレビュー。製氷スピードや音量を検証。"
+    },
+    {
+      "position": 5,
+      "title": "製氷機 デメリット まとめ - Yahoo! 知恵袋",
+      "link": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12345678",
+      "snippet": "製氷機のデメリットとして電気代、音、メンテナンスの手間が挙げられます。購入前に確認しましょう。"
+    }
+  ]
+}

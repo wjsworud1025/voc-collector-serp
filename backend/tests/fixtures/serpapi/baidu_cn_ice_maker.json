@@ -1,0 +1,36 @@
+{
+  "search_metadata": {"id": "baidu_cn_dry_run", "status": "Success", "created_at": "2026-04-07"},
+  "search_parameters": {"engine": "baidu", "q": "制冰机 评测 推荐"},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "家用制冰机哪款好？2026年最值得买的制冰机推荐 - 什么值得买",
+      "link": "https://www.smzdm.com/fenlei/zhidingjixiangguanpin/",
+      "snippet": "2026年制冰机推荐，包含制冰速度、噪音、耐用性等多维度评测，帮你选出最值得买的制冰机。"
+    },
+    {
+      "position": 2,
+      "title": "制冰机使用评测体验帖 - 京东商品评价",
+      "link": "https://item.jd.com/10072345678.html",
+      "snippet": "京东用户真实评价：制冰速度快，噪音有点大，耗电量在接受范围内。客服处理问题及时。"
+    },
+    {
+      "position": 3,
+      "title": "制冰机买什么牌子好？知乎高赞回答",
+      "link": "https://www.zhihu.com/question/398765432",
+      "snippet": "知乎网友推荐：国内品牌性价比高，进口品牌质量更稳定，根据预算选择合适的款式。"
+    },
+    {
+      "position": 4,
+      "title": "制冰机不出冰怎么办？常见故障处理方法",
+      "link": "https://tieba.baidu.com/f?kw=%E5%88%B6%E5%86%B0%E6%9C%BA",
+      "snippet": "贴吧用户分享：制冰机不出冰的原因有水位传感器故障、压缩机问题或管路堵塞，可以尝试以下方法解决。"
+    },
+    {
+      "position": 5,
+      "title": "小型制冰机适合家庭用吗？优缺点分析",
+      "link": "https://www.xiaohongshu.com/explore?keyword=制冰机",
+      "snippet": "小红书博主测评：小型制冰机优点是节省空间，缺点是产冰量少，适合2-3人小家庭使用。"
+    }
+  ]
+}

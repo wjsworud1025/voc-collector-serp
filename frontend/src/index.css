@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* 기본 폰트 — 한국어 우선 + 다국어 폴백 (Windows 시스템 폰트 활용) */
+body {
+  font-family:
+    "Pretendard Variable",
+    "Pretendard",
+    -apple-system,
+    BlinkMacSystemFont,
+    system-ui,
+    "Segoe UI",          /* Cyrillic(러시아어) + 라틴 */
+    "Malgun Gothic",     /* 한국어 — Windows 기본 */
+    "Yu Gothic UI",      /* 일본어 — Windows 10+ */
+    "Meiryo",            /* 일본어 — 레거시 */
+    "Microsoft YaHei",   /* 중국어 간체 */
+    "Microsoft JhengHei",/* 중국어 번체 */
+    Roboto,
+    "Noto Sans KR",
+    sans-serif;
+}

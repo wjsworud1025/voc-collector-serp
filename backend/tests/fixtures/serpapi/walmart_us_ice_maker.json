@@ -1,0 +1,46 @@
+{
+  "search_metadata": {"id": "walmart_us_dry_run", "status": "Success", "created_at": "2026-04-07"},
+  "search_parameters": {"engine": "walmart", "query": "portable ice maker"},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Igloo ICEB26AQ Automatic Portable Electric Countertop Ice Maker Machine",
+      "product_page_url": "https://www.walmart.com/ip/Igloo-ICEB26AQ-Portable-Ice-Maker/123456789",
+      "rating": 4.2,
+      "reviews": 2341,
+      "description": "Makes up to 26 lbs of ice per day. Ready in 6 minutes. 2 ice cube sizes."
+    },
+    {
+      "position": 2,
+      "title": "FRIGIDAIRE EFIC108 Compact Ice Maker, Makes 26 lbs per day",
+      "product_page_url": "https://www.walmart.com/ip/FRIGIDAIRE-EFIC108-Compact-Ice-Maker/234567890",
+      "rating": 3.9,
+      "reviews": 1876,
+      "description": "Compact design fits on countertop. Produces 9 bullet-shaped ice cubes per cycle. Quiet operation."
+    },
+    {
+      "position": 3,
+      "title": "hOmeLabs Portable Ice Maker Machine - Makes 26 lbs Ice per Day",
+      "product_page_url": "https://www.walmart.com/ip/hOmeLabs-Portable-Ice-Maker/345678901",
+      "rating": 4.4,
+      "reviews": 987,
+      "description": "Self-cleaning mode, see-through window, easy-to-read control panel."
+    },
+    {
+      "position": 4,
+      "title": "Magic Chef MCIM22B Portable Ice Maker, 27 lbs per day, Black",
+      "product_page_url": "https://www.walmart.com/ip/Magic-Chef-Portable-Ice-Maker/456789012",
+      "rating": 3.6,
+      "reviews": 543,
+      "description": "Compact and portable design. Makes ice in as little as 7 minutes."
+    },
+    {
+      "position": 5,
+      "title": "Countertop Ice Maker by Costway - 26 lbs/Day - Energy Efficient",
+      "product_page_url": "https://www.walmart.com/ip/Costway-Countertop-Ice-Maker/567890123",
+      "rating": 4.0,
+      "reviews": 412,
+      "description": "Energy efficient design, 2 ice sizes, bullet ice cubes, stainless exterior."
+    }
+  ]
+}

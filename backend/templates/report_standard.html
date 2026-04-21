@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8"/>
+<title>VOC 보고서 — {{ project_name }}</title>
+<style>
+  @font-face { font-family: Freesentation; src: url('Freesentation-4Regular.ttf'); }
+  @font-face { font-family: Freesentation; src: url('Freesentation-7Bold.ttf'); font-weight: bold; }
+  @font-face { font-family: Freesentation-Bold; src: url('Freesentation-7Bold.ttf'); }
+  /* ── 다국어 폰트 (Windows 시스템 폰트) ── */
+  @font-face { font-family: MultiCJK; src: url('malgun.ttf'); }
+  @font-face { font-family: MultiCJK; src: url('malgunbd.ttf'); font-weight: bold; }
+  @font-face { font-family: MultiCJK-Bold; src: url('malgunbd.ttf'); }
+  @font-face { font-family: MultiSWA; src: url('tahoma.ttf'); }
+  @font-face { font-family: MultiSWA; src: url('tahomabd.ttf'); font-weight: bold; }
+  @font-face { font-family: MultiSWA-Bold; src: url('tahomabd.ttf'); }
+  /* 언어별 텍스트 클래스 */
+  .lang-ko  { font-family: Freesentation, MultiCJK, Helvetica, sans-serif; }
+  .lang-cjk { font-family: MultiCJK, Freesentation, Helvetica, sans-serif; }
+  .lang-swa { font-family: MultiSWA, Helvetica, sans-serif; }
+  .lang-cyr { font-family: MultiSWA, Freesentation, Helvetica, sans-serif; }
+  @page {
+    size: A4;
+    margin: 15mm 15mm 20mm 15mm;
+  }
+
+  body {
+    font-family: Freesentation, Helvetica, sans-serif;
+    font-size: 10pt;
+    color: #1a1a2e;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* ── 커버 ── */
+  .cover {
+    background-color: #f0f4ff;
+    padding: 50px 40px;
+    margin-bottom: 20px;
+  }
+  .cover-badge {
+    background-color: #4f46e5;
+    color: #ffffff;
+    font-size: 8pt;
+    font-weight: bold;
+    padding: 3px 10px;
+  }
+  .cover h1 {
+    font-size: 22pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #1e1b4b;
+    margin: 16px 0 6px 0;
+  }
+  .cover .subtitle {
+    font-size: 11pt;
+    color: #6366f1;
+    margin-bottom: 24px;
+  }
+  .cover hr {
+    border: none;
+    border-top: 2px solid #c7d2fe;
+    margin: 20px 0;
+  }
+  .cover .meta {
+    font-size: 9pt;
+    color: #6b7280;
+    line-height: 2;
+  }
+  .cover .request-label {
+    font-size: 8pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #6366f1;
+    margin-bottom: 4px;
+  }
+  .cover .request-box {
+    background-color: #ffffff;
+    border-left: 4px solid #6366f1;
+    padding: 10px 14px;
+    font-size: 9.5pt;
+    color: #374151;
+  }
+
+  /* ── 섹션 ── */
+  .section {
+    padding: 20px 0;
+  }
+  .section-title {
+    font-size: 13pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #1e1b4b;
+    border-bottom: 2px solid #e0e7ff;
+    padding-bottom: 6px;
+    margin-bottom: 16px;
+  }
+  .page-break {
+    page-break-before: always;
+  }
+
+  /* ── 통계 테이블 ── */
+  .stats-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 18px;
+  }
+  .stats-table td {
+    padding: 4px;
+    width: 25%;
+    vertical-align: top;
+  }
+  .stat-card {
+    background-color: #f8faff;
+    border: 1px solid #e0e7ff;
+    padding: 12px;
+    text-align: center;
+  }
+  .stat-number {
+    font-size: 18pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #4f46e5;
+  }
+  .stat-num-green { color: #10b981; }
+  .stat-num-red   { color: #ef4444; }
+  .stat-num-amber { color: #f59e0b; }
+  .stat-label {
+    font-size: 8pt;
+    color: #6b7280;
+    margin-top: 2px;
+  }
+
+  /* ── 감성 분포 ── */
+  .dist-label {
+    font-size: 9pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    margin-bottom: 6px;
+    color: #374151;
+  }
+  .dist-row {
+    margin-bottom: 5px;
+    font-size: 9pt;
+  }
+  .dist-name-pos { color: #065f46; font-family: Freesentation-Bold, Helvetica, sans-serif; }
+  .dist-name-neg { color: #991b1b; font-family: Freesentation-Bold, Helvetica, sans-serif; }
+  .dist-name-neu { color: #92400e; font-family: Freesentation-Bold, Helvetica, sans-serif; }
+
+  /* ── 플랫폼 / 토픽 ── */
+  .platform-chip {
+    background-color: #ede9fe;
+    color: #5b21b6;
+    font-size: 8pt;
+    padding: 2px 8px;
+    margin: 2px;
+    display: inline;
+  }
+  .topic-chip {
+    background-color: #dbeafe;
+    color: #1d4ed8;
+    font-size: 8pt;
+    padding: 2px 8px;
+    margin: 2px;
+    display: inline;
+  }
+
+  /* ── VOC 섹션 제목 ── */
+  .voc-group-title {
+    font-size: 11pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    padding: 6px 10px;
+    margin: 14px 0 8px 0;
+  }
+  .title-pos { background-color: #d1fae5; color: #065f46; }
+  .title-neg { background-color: #fee2e2; color: #991b1b; }
+  .title-neu { background-color: #fef3c7; color: #92400e; }
+
+  /* ── VOC 카드 ── */
+  .voc-card {
+    border: 1px solid #e5e7eb;
+    padding: 10px 12px;
+    margin-bottom: 8px;
+    page-break-inside: avoid;
+  }
+  .voc-card-pos { border-left: 4px solid #10b981; }
+  .voc-card-neg { border-left: 4px solid #ef4444; }
+  .voc-card-neu { border-left: 4px solid #f59e0b; }
+
+  .voc-meta {
+    font-size: 8pt;
+    color: #6b7280;
+    margin-bottom: 5px;
+  }
+  .badge {
+    font-size: 7.5pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    padding: 1px 5px;
+    margin-right: 3px;
+  }
+  .badge-sure   { background-color: #d1fae5; color: #065f46; }
+  .badge-est    { background-color: #fef3c7; color: #92400e; }
+  .badge-plat   { background-color: #eff6ff; color: #1d4ed8; }
+
+  .voc-original {
+    background-color: #f9fafb;
+    padding: 6px 8px;
+    font-size: 9pt;
+    color: #374151;
+    margin-bottom: 5px;
+    line-height: 1.5;
+  }
+  .voc-translated {
+    background-color: #eef2ff;
+    padding: 6px 8px;
+    font-size: 9pt;
+    color: #312e81;
+    margin-bottom: 5px;
+    line-height: 1.5;
+  }
+  .voc-url {
+    font-size: 7.5pt;
+    color: #6366f1;
+    word-break: break-all;
+  }
+  .voc-topics {
+    margin-top: 4px;
+    font-size: 7pt;
+  }
+  .topic-mini {
+    background-color: #dbeafe;
+    color: #1d4ed8;
+    padding: 1px 5px;
+    margin: 1px;
+    display: inline;
+  }
+
+  /* ── 푸터 안내문 ── */
+  .footer-note {
+    text-align: center;
+    color: #9ca3af;
+    font-size: 8pt;
+    padding-top: 10px;
+    page-break-inside: avoid;
+  }
+</style>
+</head>
+<body>
+
+<!-- ══ 커버 페이지 ══ -->
+<div class="cover">
+  <div class="cover-badge">VOC COLLECTOR</div>
+  <h1>글로벌 VOC 수집 분석 보고서</h1>
+  <div class="subtitle">{{ project_name }}</div>
+  <hr/>
+  <div class="meta">
+    생성일시 : {{ generated_at }}<br/>
+    프로젝트 : {{ project_id }}<br/>
+    수집 VOC : 총 {{ total }}건 (승인 완료)
+  </div>
+  <hr/>
+  <div class="request-label">사용자 조사 요청</div>
+  <div class="request-box">{{ user_request }}</div>
+</div>
+
+<!-- ══ 수집 요약 ══ -->
+<div class="section page-break">
+  <div class="section-title">01. 수집 요약</div>
+
+  <!-- 통계 4칸 -->
+  <table class="stats-table">
+    <tr>
+      <td>
+        <div class="stat-card">
+          <div class="stat-number">{{ total }}</div>
+          <div class="stat-label">총 VOC (승인)</div>
+        </div>
+      </td>
+      <td>
+        <div class="stat-card">
+          <div class="stat-number stat-num-green">{{ sentiment_counts.positive }}</div>
+          <div class="stat-label">긍정</div>
+        </div>
+      </td>
+      <td>
+        <div class="stat-card">
+          <div class="stat-number stat-num-red">{{ sentiment_counts.negative }}</div>
+          <div class="stat-label">부정</div>
+        </div>
+      </td>
+      <td>
+        <div class="stat-card">
+          <div class="stat-number stat-num-amber">{{ sentiment_counts.neutral }}</div>
+          <div class="stat-label">중립</div>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <!-- 감성 분포 -->
+  <div style="margin-bottom:16px;">
+    <div class="dist-label">감성 분포</div>
+    {% if total > 0 %}
+    <div class="dist-row">
+      <span class="dist-name-pos">긍정</span>
+      &nbsp;{{ sentiment_counts.positive }}건 ({{ (sentiment_counts.positive / total * 100)|int }}%)
+    </div>
+    <div class="dist-row">
+      <span class="dist-name-neg">부정</span>
+      &nbsp;{{ sentiment_counts.negative }}건 ({{ (sentiment_counts.negative / total * 100)|int }}%)
+    </div>
+    <div class="dist-row">
+      <span class="dist-name-neu">중립</span>
+      &nbsp;{{ sentiment_counts.neutral }}건 ({{ (sentiment_counts.neutral / total * 100)|int }}%)
+    </div>
+    {% endif %}
+  </div>
+
+  <!-- 수집 플랫폼 -->
+  <div style="margin-bottom:16px;">
+    <div class="dist-label">수집 플랫폼</div>
+    {% for platform, count in platform_counts.items() %}
+    <span class="platform-chip">{{ platform | platform_label }} {{ count }}건</span>
+    {% endfor %}
+  </div>
+
+  <!-- 주요 토픽 -->
+  {% if top_topics %}
+  <div>
+    <div class="dist-label">주요 토픽 (상위 10)</div>
+    {% for topic, cnt in top_topics %}
+    <span class="topic-chip">#{{ topic }} ({{ cnt }})</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+
+<!-- ══ VOC 상세 ══ -->
+<div class="section page-break">
+  <div class="section-title">02. VOC 상세 목록</div>
+
+  {% for sentiment_key, label, title_cls, card_cls in [
+      ('positive', '긍정 의견', 'title-pos', 'voc-card-pos'),
+      ('negative', '부정 의견', 'title-neg', 'voc-card-neg'),
+      ('neutral',  '중립 의견', 'title-neu', 'voc-card-neu'),
+  ] %}
+  {% if grouped[sentiment_key] %}
+
+  <div class="voc-group-title {{ title_cls }}">
+    {{ label }} ({{ grouped[sentiment_key]|length }}건)
+  </div>
+
+  {% for item in grouped[sentiment_key] %}
+  <div class="voc-card {{ card_cls }}">
+    <div class="voc-meta">
+      <span class="badge {{ 'badge-sure' if item.confidence_label == '확실' else 'badge-est' }}">
+        {{ item.confidence_label }} ({{ (item.confidence * 100)|int }}%)
+      </span>
+      <span class="badge badge-plat">{{ item.platform | platform_label }}</span>
+      {% if item.author %}&nbsp;@{{ item.author }}{% endif %}
+      {% if item.date %}&nbsp;&nbsp;{{ item.date }}{% endif %}
+    </div>
+
+    <div class="voc-original {{ item.original_text | script_class }}">
+      {{ item.original_text[:400] }}{% if item.original_text|length > 400 %}...{% endif %}
+    </div>
+
+    {% if item.translated_text %}
+    <div class="voc-translated lang-ko">
+      {{ item.translated_text[:400] }}{% if item.translated_text|length > 400 %}...{% endif %}
+    </div>
+    {% endif %}
+
+    <div class="voc-url">{{ item.source_url }}</div>
+
+    {% if item.topics %}
+    <div class="voc-topics">
+      {% for t in item.topics %}<span class="topic-mini">#{{ t }}</span>{% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  {% endfor %}
+
+  {% endif %}
+  {% endfor %}
+</div>
+
+<!-- ══ 안내 ══ -->
+<div class="footer-note">
+  이 보고서는 VOC Collector 자동화 시스템에 의해 생성되었습니다.<br/>
+  수집된 데이터는 L1~L4 검증을 통과한 항목만 포함됩니다.
+</div>
+
+</body>
+</html>

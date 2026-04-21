@@ -1,0 +1,46 @@
+{
+  "search_metadata": {"id": "home_depot_us_dry_run", "status": "Success", "created_at": "2026-04-07"},
+  "search_parameters": {"engine": "home_depot", "q": "portable ice maker"},
+  "products": [
+    {
+      "position": 1,
+      "title": "FRIGIDAIRE 26 lb. Portable Countertop Ice Maker in Stainless Steel",
+      "link": "https://www.homedepot.com/p/FRIGIDAIRE-26-lb/301234567",
+      "reviews": {"rating": 4.1, "count": 876},
+      "price": "$119.00",
+      "description": "This ice maker produces up to 26 lbs. of bullet ice per day, with 2 ice size settings."
+    },
+    {
+      "position": 2,
+      "title": "NewAir 50 lb. Portable Ice Maker with Self-Cleaning Function",
+      "link": "https://www.homedepot.com/p/NewAir-50-lb/234567890",
+      "reviews": {"rating": 3.7, "count": 432},
+      "price": "$199.99",
+      "description": "50 lb daily capacity, self-cleaning, transparent lid to monitor ice production."
+    },
+    {
+      "position": 3,
+      "title": "GE Profile Opal Nugget Ice Maker - Connects to WiFi",
+      "link": "https://www.homedepot.com/p/GE-Profile-Opal/345678901",
+      "reviews": {"rating": 4.6, "count": 2134},
+      "price": "$499.00",
+      "description": "Makes soft, chewable nugget ice like your favorite restaurant. WiFi enabled via SmartHQ app."
+    },
+    {
+      "position": 4,
+      "title": "Igloo Automatic Portable Ice Maker, 26 lbs per Day, Black",
+      "link": "https://www.homedepot.com/p/Igloo-26-lbs/456789012",
+      "reviews": {"rating": 3.9, "count": 654},
+      "price": "$89.99",
+      "description": "Compact portable ice maker in black finish. 9 ice cubes per cycle."
+    },
+    {
+      "position": 5,
+      "title": "Whynter IMC-490SS Stainless Steel 49 lb Ice Maker with Drain Pump",
+      "link": "https://www.homedepot.com/p/Whynter-49-lb/567890123",
+      "reviews": {"rating": 4.3, "count": 321},
+      "price": "$279.00",
+      "description": "Freestanding stainless steel ice maker with built-in drain pump. 49 lb daily production."
+    }
+  ]
+}

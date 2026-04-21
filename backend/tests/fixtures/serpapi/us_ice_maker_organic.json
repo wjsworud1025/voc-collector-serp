@@ -1,0 +1,461 @@
+{
+  "search_metadata": {
+    "id": "69d4a6edb7942f31bf7e5637",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1MABgEhxc2ca0stdL3a59Q/69d4a6edb7942f31bf7e5637.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/1MABgEhxc2ca0stdL3a59Q/69d4a6edb7942f31bf7e5637.json_with_pixel_position",
+    "created_at": "2026-04-07 06:40:45 UTC",
+    "processed_at": "2026-04-07 06:40:45 UTC",
+    "google_url": "https://www.google.com/search?q=portable+ice+maker+review+complaints&oq=portable+ice+maker+review+complaints&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/1MABgEhxc2ca0stdL3a59Q/69d4a6edb7942f31bf7e5637.html",
+    "total_time_taken": 1.44
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "portable ice maker review complaints",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "portable ice maker review complaints",
+    "total_results": 71800000,
+    "time_taken_displayed": 0.38,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Don't Buy a Portable Ice Maker Until You See THIS",
+      "link": "https://www.youtube.com/watch?v=Uy06OKWWoP0",
+      "thumbnail": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/_uWIKBhtqGmFjnmKOWU3req2rKoGPI2bYl_SjekMKbw.jpeg",
+      "channel": "FRUGAL CHOISE",
+      "platform": "YouTube"
+    },
+    {
+      "position": 2,
+      "title": "Is This Portable Ice Maker Worth It? Full Review & Honest ...",
+      "link": "https://www.youtube.com/watch?v=JaSyhK4wDzo",
+      "thumbnail": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/TURibANbwP8tf9O48jTXQHVZwT23fDi8_Er3GVf7VAc.jpeg",
+      "channel": "Reviewsinside",
+      "platform": "YouTube"
+    },
+    {
+      "position": 3,
+      "title": "Don't Buy a Countertop Ice Maker Until You Watch This",
+      "link": "https://www.youtube.com/watch?v=itcLcGtNOeY",
+      "thumbnail": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PKVdbbUKfM0sStx0QxqG9OMswGcPHtZ46LbteklzpMc.jpeg",
+      "channel": "The Smart Kitchen",
+      "platform": "YouTube"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the best rated portable ice maker?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VVRkU1pEWndjMGRyUW01UVZWb3hiR2RVUlVRdGVtMXJNamhIWmpkVGFHWk9iVXRvU0VoeWRuSnNOMXBuZDB4TU9XMUJjMEp6Vkd0SGRFNXFaV05SVjBKWWIwNURSWFExWVhreE5UUlNXbWRPV2trelVYVjFkV1l4TW1KVFNUSkpSR0kyY2psTE4zQTViMnM0UldKS2RtVmtiRkZCT1RGZkxXaHhXVzExV1VodGFFbE9TRzhTRnpkeFlsVmhZek5CUlU4MmRtbE1UVkIzU1Rad01FRXdHaUpCU2t0TVJtMU1kbVpvTFZkSWRETkhSa1ZTWjFoNVFrUXdWRXR3Y1dVemMyNVIiLCJmY3YiOiIzIiwiZWkiOiI3cWJVYWMzQUVPNnZpTE1Qd0k2cDBBMCIsInFjIjoiQ2lSd2IzSjBZV0pzWlNCcFkyVWdiV0ZyWlhJZ2NtVjJhV1YzSUdOdmJYQnNZV2x1ZEhNUUFIMFZKRHNfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHJhdGVkIHBvcnRhYmxlIGljZSBtYWtlcj8iLCJsayI6IkdpbDNhR0YwSUdseklIUm9aU0JpWlhOMElISmhkR1ZrSUhCdmNuUmhZbXhsSUdsalpTQnRZV3RsY2ciLCJicyI6ImMtT0s1TklLejBnc1VjZ3NWaWpKU0ZWSVNpMHVVU2hLTEVsTlVTaklMeXBKVE1wSlZjaE1UbFhJVGN4T0xiSTMwcGJTTENkV05aYzdsNkpqVVNvV21XS0ZjcUJZaGtKbWliMlJrcFJDSWdGRlhINWN1c2h1ek1sTVN5MHVTTXhUeUU5VFNNVHFURmtwYVV4aHVENHVYeTRWWlBOeTgwRy1TTTNKUkRkR1ZVcTVuTEE2QVVZQSIsImlkIjoiZmNfN3FiVWFjM0FFTzZ2aUxNUHdJNnAwQTBfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VVRkU1pEWndjMGRyUW01UVZWb3hiR2RVUlVRdGVtMXJNamhIWmpkVGFHWk9iVXRvU0VoeWRuSnNOMXBuZDB4TU9XMUJjMEp6Vkd0SGRFNXFaV05SVjBKWWIwNURSWFExWVhreE5UUlNXbWRPV2trelVYVjFkV1l4TW1KVFNUSkpSR0kyY2psTE4zQTViMnM0UldKS2RtVmtiRkZCT1RGZkxXaHhXVzExV1VodGFFbE9TRzhTRnpkeFlsVmhZek5CUlU4MmRtbE1UVkIzU1Rad01FRXdHaUpCU2t0TVJtMU1kbVpvTFZkSWRETkhSa1ZTWjFoNVFrUXdWRXR3Y1dVemMyNVIiLCJmY3YiOiIzIiwiZWkiOiI3cWJVYWMzQUVPNnZpTE1Qd0k2cDBBMCIsInFjIjoiQ2lSd2IzSjBZV0pzWlNCcFkyVWdiV0ZyWlhJZ2NtVjJhV1YzSUdOdmJYQnNZV2x1ZEhNUUFIMFZKRHNfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHJhdGVkIHBvcnRhYmxlIGljZSBtYWtlcj8iLCJsayI6IkdpbDNhR0YwSUdseklIUm9aU0JpWlhOMElISmhkR1ZrSUhCdmNuUmhZbXhsSUdsalpTQnRZV3RsY2ciLCJicyI6ImMtT0s1TklLejBnc1VjZ3NWaWpKU0ZWSVNpMHVVU2hLTEVsTlVTaklMeXBKVE1wSlZjaE1UbFhJVGN4T0xiSTMwcGJTTENkV05aYzdsNkpqVVNvV21XS0ZjcUJZaGtKbWliMlJrcFJDSWdGRlhINWN1c2h1ek1sTVN5MHVTTXhUeUU5VFNNVHFURmtwYVV4aHVENHVYeTRWWlBOeTgwRy1TTTNKUkRkR1ZVcTVuTEE2QVVZQSIsImlkIjoiZmNfN3FiVWFjM0FFTzZ2aUxNUHdJNnAwQTBfMyJ9"
+    },
+    {
+      "question": "Are portable ice makers worth it?",
+      "type": "featured_snippet",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&hl=en&gl=us&udm=50&q=Are+portable+ice+makers+worth+it%3F+List+the+best+portable+ice+maker+brands&aep=64&sa=X&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQy8AQKAB6BAgVEAc",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VTBwSFduSjRlRTlNVm1wdk9WaHlWVWRuVFhaWFdGUkRSM0JDYVdkZmMxZGtSMFl3YW5ScFlqWTRkRFJGUlVGd1FTMDJXV1JaWmw5eE5HdHRjRzB3TlVsVVVqRmpMV0ZuYW10TVh6QlJaV3RVVHpaVVdIbzFPQzF0VFVkQmFsbGtSbW8xVTJGaU9WZEJaVTE2YzFsbFFXRk1YeTFDWTA1MVR6UXpNWGcxT0V0UFYyazBjelp0VUV0NlFreHdNbFZ4ZGs5aFpGOWtiVkJCTm14bkVoYzNjV0pWWVdNelFVVlBOblpwVEUxUWQwazJjREJCTUJvaVFVcExURVp0U1VzNGRrNWpWa0oxVEhSUFVrZHVVMVl6YnpaU1QydEViM2MzVVEiLCJmY3YiOiIzIiwiZWkiOiI3cWJVYWMzQUVPNnZpTE1Qd0k2cDBBMCIsInFjIjoiQ2lSd2IzSjBZV0pzWlNCcFkyVWdiV0ZyWlhJZ2NtVjJhV1YzSUdOdmJYQnNZV2x1ZEhNUUFIMFZKRHNfIiwicXVlc3Rpb24iOiJBcmUgcG9ydGFibGUgaWNlIG1ha2VycyB3b3J0aCBpdD8iLCJsayI6IkdpQmhjbVVnY0c5eWRHRmliR1VnYVdObElHMWhhMlZ5Y3lCM2IzSjBhQ0JwZEEiLCJicyI6ImMtT0s1TklLejBnc1VjZ3NWaWpKU0ZWSVNpMHVVU2hLTEVsTlVTaklMeXBKVE1wSlZjaE1UbFhJVGN4T0xiSTMwcGJTTENkV05aYzdsNkpqVVNvV21XS0ZjcUJZaGtKbWliMlJrcFJDSWdGRlhINWN1c2h1ek1sTVN5MHVTTXhUeUU5VFNNVHFURmtwYVV4aHVENHVYeTRWWlBOeTgwRy1TTTNKUkRkR1ZVcTVuTEE2QVVZQSIsImlkIjoiZmNfN3FiVWFjM0FFTzZ2aUxNUHdJNnAwQTBfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VTBwSFduSjRlRTlNVm1wdk9WaHlWVWRuVFhaWFdGUkRSM0JDYVdkZmMxZGtSMFl3YW5ScFlqWTRkRFJGUlVGd1FTMDJXV1JaWmw5eE5HdHRjRzB3TlVsVVVqRmpMV0ZuYW10TVh6QlJaV3RVVHpaVVdIbzFPQzF0VFVkQmFsbGtSbW8xVTJGaU9WZEJaVTE2YzFsbFFXRk1YeTFDWTA1MVR6UXpNWGcxT0V0UFYyazBjelp0VUV0NlFreHdNbFZ4ZGs5aFpGOWtiVkJCTm14bkVoYzNjV0pWWVdNelFVVlBOblpwVEUxUWQwazJjREJCTUJvaVFVcExURVp0U1VzNGRrNWpWa0oxVEhSUFVrZHVVMVl6YnpaU1QydEViM2MzVVEiLCJmY3YiOiIzIiwiZWkiOiI3cWJVYWMzQUVPNnZpTE1Qd0k2cDBBMCIsInFjIjoiQ2lSd2IzSjBZV0pzWlNCcFkyVWdiV0ZyWlhJZ2NtVjJhV1YzSUdOdmJYQnNZV2x1ZEhNUUFIMFZKRHNfIiwicXVlc3Rpb24iOiJBcmUgcG9ydGFibGUgaWNlIG1ha2VycyB3b3J0aCBpdD8iLCJsayI6IkdpQmhjbVVnY0c5eWRHRmliR1VnYVdObElHMWhhMlZ5Y3lCM2IzSjBhQ0JwZEEiLCJicyI6ImMtT0s1TklLejBnc1VjZ3NWaWpKU0ZWSVNpMHVVU2hLTEVsTlVTaklMeXBKVE1wSlZjaE1UbFhJVGN4T0xiSTMwcGJTTENkV05aYzdsNkpqVVNvV21XS0ZjcUJZaGtKbWliMlJrcFJDSWdGRlhINWN1c2h1ek1sTVN5MHVTTXhUeUU5VFNNVHFURmtwYVV4aHVENHVYeTRWWlBOeTgwRy1TTTNKUkRkR1ZVcTVuTEE2QVVZQSIsImlkIjoiZmNfN3FiVWFjM0FFTzZ2aUxNUHdJNnAwQTBfNSJ9"
+    },
+    {
+      "question": "What is the lifespan of a portable ice maker?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VWpWdlozcFRSVUpRYTJ4YVlWRldZMVpVYTBWcVh6aG9PV2xKVjBsVGEzbHVaR28xU1hORmFsVkZOamx0WmtjNGNIVjViMTluTFZOd2NtVktYMGxyWmpNMlRXTm5MWE00UlVoa1lVeGFNakpRYjNodE1FNVpTM1ZNZW5WM09XdG1UbmRaYW1ZNFNIZEJNSGhsZEhaRUxXRmxWbk5XWmxKWFIzaENSbWRyUlRkS2NHOWtPVFpZYm14NWF6ZEdSVE5pU0RWbmQxRTRXVTlIVFdKQkVoYzNjV0pWWVdNelFVVlBOblpwVEUxUWQwazJjREJCTUJvaVFVcExURVp0U3pKelRYaDNTa1V5Tm0xNk1YUkhUVGxhZFV0WlowZGtablpCUVEiLCJmY3YiOiIzIiwiZWkiOiI3cWJVYWMzQUVPNnZpTE1Qd0k2cDBBMCIsInFjIjoiQ2lSd2IzSjBZV0pzWlNCcFkyVWdiV0ZyWlhJZ2NtVjJhV1YzSUdOdmJYQnNZV2x1ZEhNUUFIMFZKRHNfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsaWZlc3BhbiBvZiBhIHBvcnRhYmxlIGljZSBtYWtlcj8iLCJsayI6IkdodHdiM0owWVdKc1pTQnBZMlVnYldGclpYSWdiR2xtWlhOd1lXNCIsImJzIjoiYy1PSzVOSUt6MGdzVWNnc1ZpakpTRlZJU2kwdVVTaEtMRWxOVVNqSUx5cEpUTXBKVmNoTVRsWElUY3hPTGJJMzBwYlNMQ2RXTlpjN2w2SmpVU29XbVdLRmNxQlloa0ptaWIyUmtwUkNJZ0ZGWEg1Y3VzaHV6TWxNU3kwdVNNeFR5RTlUU01UcVRGa3BhVXhodUQ0dVh5NFZaUE55ODBHLVNNM0pSRGRHVlVxNW5MQTZBVVlBIiwiaWQiOiJmY183cWJVYWMzQUVPNnZpTE1Qd0k2cDBBMF8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VWpWdlozcFRSVUpRYTJ4YVlWRldZMVpVYTBWcVh6aG9PV2xKVjBsVGEzbHVaR28xU1hORmFsVkZOamx0WmtjNGNIVjViMTluTFZOd2NtVktYMGxyWmpNMlRXTm5MWE00UlVoa1lVeGFNakpRYjNodE1FNVpTM1ZNZW5WM09XdG1UbmRaYW1ZNFNIZEJNSGhsZEhaRUxXRmxWbk5XWmxKWFIzaENSbWRyUlRkS2NHOWtPVFpZYm14NWF6ZEdSVE5pU0RWbmQxRTRXVTlIVFdKQkVoYzNjV0pWWVdNelFVVlBOblpwVEUxUWQwazJjREJCTUJvaVFVcExURVp0U3pKelRYaDNTa1V5Tm0xNk1YUkhUVGxhZFV0WlowZGtablpCUVEiLCJmY3YiOiIzIiwiZWkiOiI3cWJVYWMzQUVPNnZpTE1Qd0k2cDBBMCIsInFjIjoiQ2lSd2IzSjBZV0pzWlNCcFkyVWdiV0ZyWlhJZ2NtVjJhV1YzSUdOdmJYQnNZV2x1ZEhNUUFIMFZKRHNfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsaWZlc3BhbiBvZiBhIHBvcnRhYmxlIGljZSBtYWtlcj8iLCJsayI6IkdodHdiM0owWVdKc1pTQnBZMlVnYldGclpYSWdiR2xtWlhOd1lXNCIsImJzIjoiYy1PSzVOSUt6MGdzVWNnc1ZpakpTRlZJU2kwdVVTaEtMRWxOVVNqSUx5cEpUTXBKVmNoTVRsWElUY3hPTGJJMzBwYlNMQ2RXTlpjN2w2SmpVU29XbVdLRmNxQlloa0ptaWIyUmtwUkNJZ0ZGWEg1Y3VzaHV6TWxNU3kwdVNNeFR5RTlUU01UcVRGa3BhVXhodUQ0dVh5NFZaUE55ODBHLVNNM0pSRGRHVlVxNW5MQTZBVVlBIiwiaWQiOiJmY183cWJVYWMzQUVPNnZpTE1Qd0k2cDBBMF8yIn0%3D"
+    },
+    {
+      "question": "What is the most reliable ice maker?",
+      "type": "featured_snippet",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&hl=en&gl=us&udm=50&q=What+is+the+most+reliable+ice+maker%3F+Compare+the+GE+Opal+to+the+Igloo&aep=64&sa=X&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQy8AQKAB6BAgYEAc",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VWsxT1ZXc3dhMVJmY0RoV1IwcHVUM0ZSYzNaUVp6WldiWEJqTlhwVVRYbDNXRjlmT0RaYVFrZHVhM2REV0VoQlJUWklkR1pXVmxWdVR6Tm1Nbm8xYTBoa1ZscHVXRTB4VERSTFRHYzNUMGRxYWxKTFVGVkxNMWRoTmxvd1VUbFNWMlJXZEZSWlJWVnZNV1pIT0dOcE9HUlJOMU5WZEVGM2RuVkhVVTlJV1RoQk9WaDBTSE1TRnpkeFlsVmhZek5CUlU4MmRtbE1UVkIzU1Rad01FRXdHaUpCU2t0TVJtMUpWRFpQUVc1ME1EZEJiRmhFTTJkVk5sTmxjSGxUWVhRelRVRjMiLCJmY3YiOiIzIiwiZWkiOiI3cWJVYWMzQUVPNnZpTE1Qd0k2cDBBMCIsInFjIjoiQ2lSd2IzSjBZV0pzWlNCcFkyVWdiV0ZyWlhJZ2NtVjJhV1YzSUdOdmJYQnNZV2x1ZEhNUUFIMFZKRHNfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtb3N0IHJlbGlhYmxlIGljZSBtYWtlcj8iLCJsayI6IkdpTjNhR0YwSUdseklIUm9aU0J0YjNOMElISmxiR2xoWW14bElHbGpaU0J0WVd0bGNnIiwiYnMiOiJjLU9LNU5JS3owZ3NVY2dzVmlqSlNGVklTaTB1VVNoS0xFbE5VU2pJTHlwSlRNcEpWY2hNVGxYSVRjeE9MYkkzMHBiU0xDZFdOWmM3bDZKalVTb1dtV0tGY3FCWWhrSm1pYjJSa3BSQ0lnRkZYSDVjdXNodXpNbE1TeTB1U014VHlFOVRTTVRxVEZrcGFVeGh1RDR1WHk0VlpQTnk4MEctU00zSlJEZEdWVXE1bkxBNkFVWUEiLCJpZCI6ImZjXzdxYlVhYzNBRU82dmlMTVB3STZwMEEwXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VWsxT1ZXc3dhMVJmY0RoV1IwcHVUM0ZSYzNaUVp6WldiWEJqTlhwVVRYbDNXRjlmT0RaYVFrZHVhM2REV0VoQlJUWklkR1pXVmxWdVR6Tm1Nbm8xYTBoa1ZscHVXRTB4VERSTFRHYzNUMGRxYWxKTFVGVkxNMWRoTmxvd1VUbFNWMlJXZEZSWlJWVnZNV1pIT0dOcE9HUlJOMU5WZEVGM2RuVkhVVTlJV1RoQk9WaDBTSE1TRnpkeFlsVmhZek5CUlU4MmRtbE1UVkIzU1Rad01FRXdHaUpCU2t0TVJtMUpWRFpQUVc1ME1EZEJiRmhFTTJkVk5sTmxjSGxUWVhRelRVRjMiLCJmY3YiOiIzIiwiZWkiOiI3cWJVYWMzQUVPNnZpTE1Qd0k2cDBBMCIsInFjIjoiQ2lSd2IzSjBZV0pzWlNCcFkyVWdiV0ZyWlhJZ2NtVjJhV1YzSUdOdmJYQnNZV2x1ZEhNUUFIMFZKRHNfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtb3N0IHJlbGlhYmxlIGljZSBtYWtlcj8iLCJsayI6IkdpTjNhR0YwSUdseklIUm9aU0J0YjNOMElISmxiR2xoWW14bElHbGpaU0J0WVd0bGNnIiwiYnMiOiJjLU9LNU5JS3owZ3NVY2dzVmlqSlNGVklTaTB1VVNoS0xFbE5VU2pJTHlwSlRNcEpWY2hNVGxYSVRjeE9MYkkzMHBiU0xDZFdOWmM3bDZKalVTb1dtV0tGY3FCWWhrSm1pYjJSa3BSQ0lnRkZYSDVjdXNodXpNbE1TeTB1U014VHlFOVRTTVRxVEZrcGFVeGh1RDR1WHk0VlpQTnk4MEctU00zSlJEZEdWVXE1bkxBNkFVWUEiLCJpZCI6ImZjXzdxYlVhYzNBRU82dmlMTVB3STZwMEEwXzEifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "4vwCDHicxZbbkqJIEIbv9z2Gm54WPI8dQWwUJSh2q12e2u4bgmOBnBRQ1Lt5l32qfZot8FTa0jGzERtbEVBYZmVmZX78-vMvzwncv_-AdpIs4yeWTdO0hMMQe2ZJD31WjXeBzlqhF0e6_aft8WbAYI9fx8xuw1cZPebLjOnwzZU2VfUqEIeNjfPSf03lxpIDHJNv5xVNjc0F8b5dxKzCkpv7rdomH0pxyQxK8-bz7mMYvE68sFThyq3SkFV9YgD-g4FhdhPIBSCQ71mICLTTwv2ykNsABPrnpdwPvDJrZzbkEjEmk1TkDaKDOxlCBIDiVy0M3otzJ1EvQzh8FHs2uSMgZInfGXcWT0vSFzYFy_J5mwzO_cGfzISTB6qQUwA2pPACZXX4Fp4CSVuhQ4Wtkz6YKexAUNQOUmKpD2ru6-5uFpcBkeynz8fndIAAZg1MCONYLSJTmXV0W88fojgDD05aXCjWe1N_sG9sFK1fndhv7ntZm24f-2FlD1hdI3ZeqBqmodgK9z1HXI_PjMc04z17utKq61m9iUovJaFMAQ7zUtK5ZyWW73ZEPEJFW9KHpJ4FdNggEE-IMoSYAzoAL2nWBnIR0knJEb6Kl2fzCfCTZzodIJ2SCcG5A3RaEIyOa5fsdKpXkJrb2TQ4J3H9-iNAHRwAB-WnO5JBm2auEYJSlqgkH_13r3xBqt7ECoky2XE-6ymr3sltrhhAIFM_i5dCBMk2mMfJPcmHak8FKsGDMwpcDOagtZU64N4oeAEvjm7k5d7AJ5Zv0KSR7g60R_C4x5OdK_Q2b8jaTox1-pGupG56RDj0td_Qaf3_gfyo4ln5oSjfhRx9BTlRcfyVih8hb58gP6p4EeQoh_xKxYshxxBRkH-l4hTk6Bcgn98U6hgf3YdcuoUcF0Keq_gF8hsV71EqTkH-b1Qc_r6K58Sbh-la0tcLXCztzR7W1-tOQ7JCO53H1cgMZnVr29kP8Gdpt_zkSTW874pjPAmVXrIzmBW_DKNE1TzzwdHNB191zeghMjeOmT6QV2jpqU6QxIzvRSHPqbXgxbFmRjhLl0LXUiNDfHOHu_rwMZ74UBk1FWc8rribWnWiNqQfqxESu65sjUaW-epFi_7IG405Y8ZVm-rk3QXTd9hqbgO7OfpoRB1Pb5pzWSU_rnMxWbhKsmx4KooqY3nasmY9JXkWwtUK7nfdsCx3vO2oA209TyzmU-PHeLmJO0JAUlWN2CR_5vxI50kfahiQAr_lIDOxripmvOFrNUtVa5ZZ0SvlislpjI-T3ZKvlZk4iPjyP1oJ9SY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4vwCDHicxZbbkqJIEIbv9z2Gm54WPI8dQWwUJSh2q12e2u4bgmOBnBRQ1Lt5l32qfZot8FTa0jGzERtbEVBYZmVmZX78-vMvzwncv_-AdpIs4yeWTdO0hMMQe2ZJD31WjXeBzlqhF0e6_aft8WbAYI9fx8xuw1cZPebLjOnwzZU2VfUqEIeNjfPSf03lxpIDHJNv5xVNjc0F8b5dxKzCkpv7rdomH0pxyQxK8-bz7mMYvE68sFThyq3SkFV9YgD-g4FhdhPIBSCQ71mICLTTwv2ykNsABPrnpdwPvDJrZzbkEjEmk1TkDaKDOxlCBIDiVy0M3otzJ1EvQzh8FHs2uSMgZInfGXcWT0vSFzYFy_J5mwzO_cGfzISTB6qQUwA2pPACZXX4Fp4CSVuhQ4Wtkz6YKexAUNQOUmKpD2ru6-5uFpcBkeynz8fndIAAZg1MCONYLSJTmXV0W88fojgDD05aXCjWe1N_sG9sFK1fndhv7ntZm24f-2FlD1hdI3ZeqBqmodgK9z1HXI_PjMc04z17utKq61m9iUovJaFMAQ7zUtK5ZyWW73ZEPEJFW9KHpJ4FdNggEE-IMoSYAzoAL2nWBnIR0knJEb6Kl2fzCfCTZzodIJ2SCcG5A3RaEIyOa5fsdKpXkJrb2TQ4J3H9-iNAHRwAB-WnO5JBm2auEYJSlqgkH_13r3xBqt7ECoky2XE-6ymr3sltrhhAIFM_i5dCBMk2mMfJPcmHak8FKsGDMwpcDOagtZU64N4oeAEvjm7k5d7AJ5Zv0KSR7g60R_C4x5OdK_Q2b8jaTox1-pGupG56RDj0td_Qaf3_gfyo4ln5oSjfhRx9BTlRcfyVih8hb58gP6p4EeQoh_xKxYshxxBRkH-l4hTk6Bcgn98U6hgf3YdcuoUcF0Keq_gF8hsV71EqTkH-b1Qc_r6K58Sbh-la0tcLXCztzR7W1-tOQ7JCO53H1cgMZnVr29kP8Gdpt_zkSTW874pjPAmVXrIzmBW_DKNE1TzzwdHNB191zeghMjeOmT6QV2jpqU6QxIzvRSHPqbXgxbFmRjhLl0LXUiNDfHOHu_rwMZ74UBk1FWc8rribWnWiNqQfqxESu65sjUaW-epFi_7IG405Y8ZVm-rk3QXTd9hqbgO7OfpoRB1Pb5pzWSU_rnMxWbhKsmx4KooqY3nasmY9JXkWwtUK7nfdsCx3vO2oA209TyzmU-PHeLmJO0JAUlWN2CR_5vxI50kfahiQAr_lIDOxripmvOFrNUtVa5ZZ0SvlislpjI-T3ZKvlZk4iPjyP1oJ9SY"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Customer reviews for Mainstays Portable Countertop Ice ...",
+      "link": "https://www.walmart.com/reviews/product/14980763295",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.walmart.com/reviews/product/14980763295&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQFnoECCwQAQ",
+      "displayed_link": "https://www.walmart.com › ... › Countertop Ice Makers",
+      "favicon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWTENO2ukSxSOiPZP5os08jI.png",
+      "snippet": "My only complaint is that this ice machine is a little slow making ice and some of it melts before the ice bucket fills up due to how long it takes to make the ...",
+      "snippet_highlighted_words": [
+        "this ice machine is a little slow making ice"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Free 90-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "My only complaint is that this ice machine is a little slow making ice and some of it melts before the ice bucket fills up due to how long it takes to make the ...",
+          "source_info_link": "https://www.walmart.com/reviews/product/14980763295",
+          "icon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWV-nBxoF3vvDpjydTGX_Md6kl1IvOend7prEwrOJO2E9.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.walmart.com/reviews/product/14980763295&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.walmart.com%2Freviews%2Fproduct%2F14980763295",
+      "source": "Walmart"
+    },
+    {
+      "position": 2,
+      "title": "Customer Reviews: 26-Lb. Portable Ice Maker",
+      "link": "https://www.bestbuy.com/site/reviews/26-lb-portable-ice-maker/5466601",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bestbuy.com/site/reviews/26-lb-portable-ice-maker/5466601&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQFnoECCYQAQ",
+      "displayed_link": "https://www.bestbuy.com › ... › 26-Lb. Portable Ice Maker",
+      "favicon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWWNbO5lAtmhGbXg8A9SW1kA.png",
+      "snippet": "Overall, I am very pleased with this machine. I got it for a great price. It makes ice cubes very quickly (9 small cubes in under 10 minutes) saving me lots of ...",
+      "snippet_highlighted_words": [
+        "Overall, I am very pleased with this machine"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "reviews": 1265
+          },
+          "extensions": [
+            "4.5(1,265)",
+            "15-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Overall, I am very pleased with this machine. I got it for a great price. It makes ice cubes very quickly (9 small cubes in under 10 minutes) saving me lots of ...",
+          "source_info_link": "https://www.bestbuy.com/site/reviews/26-lb-portable-ice-maker/5466601",
+          "icon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWc8YGQ-5TzGtCq2_sDHzKmDI11z_Podto8kCkC96Mz7V.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.bestbuy.com/site/reviews/26-lb-portable-ice-maker/5466601&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Freviews%2F26-lb-portable-ice-maker%2F5466601",
+      "source": "Best Buy"
+    },
+    {
+      "position": 3,
+      "title": "The best countertop ice makers in 2026, tried and tested",
+      "link": "https://www.cnn.com/cnn-underscored/reviews/best-countertop-ice-maker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnn.com/cnn-underscored/reviews/best-countertop-ice-maker&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQFnoECC0QAQ",
+      "displayed_link": "https://www.cnn.com › cnn-underscored › reviews › be...",
+      "favicon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWVqCarQnoJb-yRDyz4ewlJc.png",
+      "date": "Feb 17, 2026",
+      "snippet": "This mini commercial-style ice maker takes up a considerable amount of space and has a clunky control panel that doesn't always work properly.",
+      "snippet_highlighted_words": [
+        "lunky control panel that doesn't always work properly"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This mini commercial-style ice maker takes up a considerable amount of space and has a clunky control panel that doesn't always work properly.",
+          "source_info_link": "https://www.cnn.com/cnn-underscored/reviews/best-countertop-ice-maker",
+          "icon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWYqP8OYKHY1e1D-qdxvuIwUQCVdfx4SLVg28DwPv_uXG.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.cnn.com/cnn-underscored/reviews/best-countertop-ice-maker&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.cnn.com%2Fcnn-underscored%2Freviews%2Fbest-countertop-ice-maker",
+      "missing": [
+        "complaints"
+      ],
+      "must_include": {
+        "word": "complaints",
+        "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&hl=en&gl=us&q=portable+ice+maker+review+%22complaints%22&sa=X&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ5t4CegQIRhAB"
+      },
+      "source": "CNN"
+    },
+    {
+      "position": 4,
+      "title": "Portable ice maker review and experience",
+      "link": "https://www.facebook.com/groups/aldiaisleofshame/posts/2002614207296165/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/aldiaisleofshame/posts/2002614207296165/&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQFnoECC4QAQ",
+      "displayed_link": "10+ comments · 9 months ago",
+      "favicon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWVYiFCRHz4NVsHGD5EkiYVU.png",
+      "snippet": "I think some people have commented that it is too noisy. About the only time I hear anything is when it dumps the ice in the basket. I even love ...",
+      "snippet_highlighted_words": [
+        "it is too noisy"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I think some people have commented that it is too noisy. About the only time I hear anything is when it dumps the ice in the basket. I even love ...",
+          "source_info_link": "https://www.facebook.com/groups/aldiaisleofshame/posts/2002614207296165/",
+          "icon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWYtwvVhIdowttq5pYh4cxpQSaRvKk2GUuNCtXSvwApJ1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/aldiaisleofshame/posts/2002614207296165/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2Faldiaisleofshame%2Fposts%2F2002614207296165%2F",
+      "source": "Facebook · ALDI Aisle of Shame Community"
+    },
+    {
+      "position": 5,
+      "title": "Countertop Ice Maker, yay or nay? : r/Costco",
+      "link": "https://www.reddit.com/r/Costco/comments/1oqnmrw/countertop_ice_maker_yay_or_nay/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Costco/comments/1oqnmrw/countertop_ice_maker_yay_or_nay/&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQFnoECC8QAQ",
+      "displayed_link": "140+ comments · 5 months ago",
+      "favicon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWRFyBO_SvcFo-ibJz2_tRO4.png",
+      "snippet": "Same. Love it. Only use distilled water, and it makes enough surprisingly quickly, to completely fill a thermoflask (obviously also from Costco- ...",
+      "snippet_highlighted_words": [
+        "Love it"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Same. Love it. Only use distilled water, and it makes enough surprisingly quickly, to completely fill a thermoflask (obviously also from Costco- ...",
+          "source_info_link": "https://www.reddit.com/r/Costco/comments/1oqnmrw/countertop_ice_maker_yay_or_nay/",
+          "icon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWTf8DJZEGPtwbFHTbE-14QH9rcIONgBU6RTPD0RAU-Nf.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/Costco/comments/1oqnmrw/countertop_ice_maker_yay_or_nay/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FCostco%2Fcomments%2F1oqnmrw%2Fcountertop_ice_maker_yay_or_nay%2F",
+      "source": "Reddit · r/Costco"
+    },
+    {
+      "position": 6,
+      "title": "Reviews for Frigidaire 26 lb. Portable Countertop Ice Maker ...",
+      "link": "https://www.homedepot.com/p/reviews/Frigidaire-26-lb-Portable-Countertop-Ice-Maker-in-Stainless-Steel-EFIC117-SS/305186649/1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.homedepot.com/p/reviews/Frigidaire-26-lb-Portable-Countertop-Ice-Maker-in-Stainless-Steel-EFIC117-SS/305186649/1&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQFnoECCgQAQ",
+      "displayed_link": "https://www.homedepot.com › reviews › Frigidaire-26-lb...",
+      "favicon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWVSklbb3NeZfCbFwdNKtJ6A.png",
+      "snippet": "This ice machine works very well. It makes ice very fast and is easy to operate. I am very impressed with it. Ian glad I bought this ice machine.",
+      "snippet_highlighted_words": [
+        "works very well"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "rating": 4.3,
+            "reviews": 508
+          },
+          "extensions": [
+            "4.3(508)",
+            "Free in-store returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This ice machine works very well. It makes ice very fast and is easy to operate. I am very impressed with it. Ian glad I bought this ice machine.",
+          "source_info_link": "https://www.homedepot.com/p/reviews/Frigidaire-26-lb-Portable-Countertop-Ice-Maker-in-Stainless-Steel-EFIC117-SS/305186649/1",
+          "icon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWQzeBk9mvRCnlcvBRmuEr8blkknfxwMJh1C4N5N2G0-P.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.homedepot.com/p/reviews/Frigidaire-26-lb-Portable-Countertop-Ice-Maker-in-Stainless-Steel-EFIC117-SS/305186649/1&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.homedepot.com%2Fp%2Freviews%2FFrigidaire-26-lb-Portable-Countertop-Ice-Maker-in-Stainless-Steel-EFIC117-SS%2F305186649%2F1",
+      "source": "The Home Depot"
+    },
+    {
+      "position": 7,
+      "title": "anyone use an icemaker? pros and cons?",
+      "link": "https://www.tnttt.com/threads/anyone-use-an-icemaker-pros-and-cons.1082682/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tnttt.com/threads/anyone-use-an-icemaker-pros-and-cons.1082682/&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQFnoECCcQAQ",
+      "displayed_link": "https://www.tnttt.com › ... › Cargo Trailer Conversions",
+      "favicon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWbbb6TYwCNzRcUBBYDmhCtI.png",
+      "date": "May 11, 2020",
+      "snippet": "I have this cozy Portable Ice Maker upstairs and that alone raised my drinking of cold water. The ice cubes are empty on the inside of an ...",
+      "snippet_highlighted_words": [
+        "Portable Ice Maker"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I have this cozy Portable Ice Maker upstairs and that alone raised my drinking of cold water. The ice cubes are empty on the inside of an ...",
+          "source_info_link": "https://www.tnttt.com/threads/anyone-use-an-icemaker-pros-and-cons.1082682/",
+          "icon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWbQ7YlaOmw84ZvNDcGaCVt_YBpwcUM5Q14cYu67UAMmu.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tnttt.com/threads/anyone-use-an-icemaker-pros-and-cons.1082682/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tnttt.com%2Fthreads%2Fanyone-use-an-icemaker-pros-and-cons.1082682%2F",
+      "source": "Teardrops n Tiny Travel Trailers"
+    },
+    {
+      "position": 8,
+      "title": "Best Countertop Ice Maker Reviews [Hands-On]",
+      "link": "https://www.topfirearmreviews.com/post/best-countertop-ice-makers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.topfirearmreviews.com/post/best-countertop-ice-makers&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQFnoECCUQAQ",
+      "displayed_link": "https://www.topfirearmreviews.com › post › best-count...",
+      "favicon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWW-E3LtBpiUAqTq0k-EAqv0.png",
+      "snippet": "I tested and ranked the best portable ice makers from brands like Frigidaire and Igloo, but the GE Profile Opal is still my no.1. Read my hands-on reviews.",
+      "snippet_highlighted_words": [
+        "GE Profile Opal"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I tested and ranked the best portable ice makers from brands like Frigidaire and Igloo, but the GE Profile Opal is still my no.1. Read my hands-on reviews.",
+          "source_info_link": "https://www.topfirearmreviews.com/post/best-countertop-ice-makers",
+          "icon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWVZ8_NFflasb0iVnYOGzE-EYs7O4XQZmcsAEesb0NLNX.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.topfirearmreviews.com/post/best-countertop-ice-makers&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.topfirearmreviews.com%2Fpost%2Fbest-countertop-ice-makers",
+      "source": "Top Firearm Reviews"
+    },
+    {
+      "position": 9,
+      "title": "Anyone Use a Portable Ice Maker While Camping?",
+      "link": "https://www.classbforum.com/threads/anyone-use-a-portable-ice-maker-while-camping.645697/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.classbforum.com/threads/anyone-use-a-portable-ice-maker-while-camping.645697/&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQFnoECCkQAQ",
+      "displayed_link": "https://www.classbforum.com › ... › The Kitchen",
+      "favicon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWfWod78SzyhycF4jREDdxC0.png",
+      "date": "Oct 21, 2016",
+      "snippet": "I use one all the time, works fantastic, I usually start it making ice about an hour before we get to a camp spot and the ice is full and ready to party.",
+      "snippet_highlighted_words": [
+        "works fantastic"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I use one all the time, works fantastic, I usually start it making ice about an hour before we get to a camp spot and the ice is full and ready to party.",
+          "source_info_link": "https://www.classbforum.com/threads/anyone-use-a-portable-ice-maker-while-camping.645697/",
+          "icon": "https://serpapi.com/searches/69d4a6edb7942f31bf7e5637/images/PXxiH9Mb5eX-B9IAWiuIWZkq8nYHIjY2rm7jewlKqKvbs28tJxO21lTJ5ZfqWgqr.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.classbforum.com/threads/anyone-use-a-portable-ice-maker-while-camping.645697/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.classbforum.com%2Fthreads%2Fanyone-use-a-portable-ice-maker-while-camping.645697%2F",
+      "source": "Class B Forums"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Whirlpool portable ice maker review complaints",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&hl=en&gl=us&q=Whirlpool+portable+ice+maker+review+complaints&sa=X&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Whirlpool+portable+ice+maker+review+complaints"
+    },
+    {
+      "block_position": 1,
+      "query": "Portable ice maker review complaints consumer reports",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&hl=en&gl=us&q=Portable+ice+maker+review+complaints+consumer+reports&sa=X&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Portable+ice+maker+review+complaints+consumer+reports"
+    },
+    {
+      "block_position": 1,
+      "query": "Countertop portable ice maker review complaints",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&hl=en&gl=us&q=Countertop+portable+ice+maker+review+complaints&sa=X&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Countertop+portable+ice+maker+review+complaints"
+    },
+    {
+      "block_position": 1,
+      "query": "Best portable ice maker review complaints",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&hl=en&gl=us&q=Best+portable+ice+maker+review+complaints&sa=X&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+portable+ice+maker+review+complaints"
+    },
+    {
+      "block_position": 1,
+      "query": "Mainstay Countertop ice maker reviews",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&hl=en&gl=us&q=Mainstay+Countertop+ice+maker+reviews&sa=X&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mainstay+Countertop+ice+maker+reviews"
+    },
+    {
+      "block_position": 1,
+      "query": "Avanti Ice Maker reviews",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&hl=en&gl=us&q=Avanti+Ice+Maker+reviews&sa=X&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Avanti+Ice+Maker+reviews"
+    },
+    {
+      "block_position": 1,
+      "query": "Mainstays Ice Maker manual",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&hl=en&gl=us&q=Mainstays+Ice+Maker+manual&sa=X&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mainstays+Ice+Maker+manual"
+    },
+    {
+      "block_position": 1,
+      "query": "Mainstays ice maker not making ice",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&hl=en&gl=us&q=Mainstays+ice+maker+not+making+ice&sa=X&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mainstays+ice+maker+not+making+ice"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=portable+ice+maker+review+complaints&sca_esv=44faa4fe2c212e0b&hl=en&gl=us&ei=7qbUac3AEO6viLMPwI6p0A0&start=10&sa=N&sstk=Af77f_fJhi1zseLAZYpb3BOe-l4SNtxA2Gq2_bAx40zUJNU7hSDnIGk5LW0FDeocVrine5HiaWUS9fhgb6QjjqKpTy2XTFuha1VZYQ&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ8NMDegQIDRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=portable+ice+maker+review+complaints&sca_esv=44faa4fe2c212e0b&hl=en&gl=us&ei=7qbUac3AEO6viLMPwI6p0A0&start=10&sa=N&sstk=Af77f_fJhi1zseLAZYpb3BOe-l4SNtxA2Gq2_bAx40zUJNU7hSDnIGk5LW0FDeocVrine5HiaWUS9fhgb6QjjqKpTy2XTFuha1VZYQ&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=portable+ice+maker+review+complaints&sca_esv=44faa4fe2c212e0b&hl=en&gl=us&ei=7qbUac3AEO6viLMPwI6p0A0&start=20&sa=N&sstk=Af77f_fJhi1zseLAZYpb3BOe-l4SNtxA2Gq2_bAx40zUJNU7hSDnIGk5LW0FDeocVrine5HiaWUS9fhgb6QjjqKpTy2XTFuha1VZYQ&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=portable+ice+maker+review+complaints&sca_esv=44faa4fe2c212e0b&hl=en&gl=us&ei=7qbUac3AEO6viLMPwI6p0A0&start=30&sa=N&sstk=Af77f_fJhi1zseLAZYpb3BOe-l4SNtxA2Gq2_bAx40zUJNU7hSDnIGk5LW0FDeocVrine5HiaWUS9fhgb6QjjqKpTy2XTFuha1VZYQ&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ8tMDegQIDRAI",
+      "5": "https://www.google.com/search?q=portable+ice+maker+review+complaints&sca_esv=44faa4fe2c212e0b&hl=en&gl=us&ei=7qbUac3AEO6viLMPwI6p0A0&start=40&sa=N&sstk=Af77f_fJhi1zseLAZYpb3BOe-l4SNtxA2Gq2_bAx40zUJNU7hSDnIGk5LW0FDeocVrine5HiaWUS9fhgb6QjjqKpTy2XTFuha1VZYQ&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ8tMDegQIDRAK",
+      "6": "https://www.google.com/search?q=portable+ice+maker+review+complaints&sca_esv=44faa4fe2c212e0b&hl=en&gl=us&ei=7qbUac3AEO6viLMPwI6p0A0&start=50&sa=N&sstk=Af77f_fJhi1zseLAZYpb3BOe-l4SNtxA2Gq2_bAx40zUJNU7hSDnIGk5LW0FDeocVrine5HiaWUS9fhgb6QjjqKpTy2XTFuha1VZYQ&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ8tMDegQIDRAM",
+      "7": "https://www.google.com/search?q=portable+ice+maker+review+complaints&sca_esv=44faa4fe2c212e0b&hl=en&gl=us&ei=7qbUac3AEO6viLMPwI6p0A0&start=60&sa=N&sstk=Af77f_fJhi1zseLAZYpb3BOe-l4SNtxA2Gq2_bAx40zUJNU7hSDnIGk5LW0FDeocVrine5HiaWUS9fhgb6QjjqKpTy2XTFuha1VZYQ&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ8tMDegQIDRAO",
+      "8": "https://www.google.com/search?q=portable+ice+maker+review+complaints&sca_esv=44faa4fe2c212e0b&hl=en&gl=us&ei=7qbUac3AEO6viLMPwI6p0A0&start=70&sa=N&sstk=Af77f_fJhi1zseLAZYpb3BOe-l4SNtxA2Gq2_bAx40zUJNU7hSDnIGk5LW0FDeocVrine5HiaWUS9fhgb6QjjqKpTy2XTFuha1VZYQ&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ8tMDegQIDRAQ",
+      "9": "https://www.google.com/search?q=portable+ice+maker+review+complaints&sca_esv=44faa4fe2c212e0b&hl=en&gl=us&ei=7qbUac3AEO6viLMPwI6p0A0&start=80&sa=N&sstk=Af77f_fJhi1zseLAZYpb3BOe-l4SNtxA2Gq2_bAx40zUJNU7hSDnIGk5LW0FDeocVrine5HiaWUS9fhgb6QjjqKpTy2XTFuha1VZYQ&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ8tMDegQIDRAS",
+      "10": "https://www.google.com/search?q=portable+ice+maker+review+complaints&sca_esv=44faa4fe2c212e0b&hl=en&gl=us&ei=7qbUac3AEO6viLMPwI6p0A0&start=90&sa=N&sstk=Af77f_fJhi1zseLAZYpb3BOe-l4SNtxA2Gq2_bAx40zUJNU7hSDnIGk5LW0FDeocVrine5HiaWUS9fhgb6QjjqKpTy2XTFuha1VZYQ&ved=2ahUKEwjN76SBkduTAxXuF2IAHUBHCtoQ8tMDegQIDRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=portable+ice+maker+review+complaints&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=portable+ice+maker+review+complaints&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=portable+ice+maker+review+complaints&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=portable+ice+maker+review+complaints&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=portable+ice+maker+review+complaints&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=portable+ice+maker+review+complaints&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=portable+ice+maker+review+complaints&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=portable+ice+maker+review+complaints&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=portable+ice+maker+review+complaints&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=portable+ice+maker+review+complaints&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=portable+ice+maker+review+complaints&start=90"
+    }
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "search_metadata": {
+    "id": "69d4a6be1dcfe2c325b1711a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9a1KMVugmjO0RF2YrrYovg/69d4a6be1dcfe2c325b1711a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/9a1KMVugmjO0RF2YrrYovg/69d4a6be1dcfe2c325b1711a.json_with_pixel_position",
+    "created_at": "2026-04-07 06:39:58 UTC",
+    "processed_at": "2026-04-07 06:39:58 UTC",
+    "google_url": "https://www.google.com/search?q=Eismaschine+Test+Erfahrungen&oq=Eismaschine+Test+Erfahrungen&hl=de&lr=lang_de&gl=de&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9a1KMVugmjO0RF2YrrYovg/69d4a6be1dcfe2c325b1711a.html",
+    "total_time_taken": 1.75
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Eismaschine Test Erfahrungen",
+    "google_domain": "google.com",
+    "hl": "de",
+    "lr": "lang_de",
+    "gl": "de",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Eismaschine Test Erfahrungen",
+    "total_results": 228000,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Diese Eismaschinen lohnen sich – und diese nicht | Preiswert ...",
+      "link": "https://www.youtube.com/watch?v=3zrjmYf6cCU",
+      "thumbnail": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5xteBnyMwKG2onIo6cgCLsOYQxhuEDcFijozVHu3BWw.jpeg",
+      "channel": "ARD Marktcheck",
+      "platform": "YouTube",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Einführung: Eis selbst machen – lohnt sich das?",
+          "link": "https://www.youtube.com/watch?v=3zrjmYf6cCU&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGLvxlWaeDqLXe9J9SYEUp-NGpMlp9GpaWwlpJsbu2Q&s"
+        },
+        {
+          "time": "03:55",
+          "title": "Nice-Cream & Fruchteis: Rezepte für Einsteiger",
+          "link": "https://www.youtube.com/watch?v=3zrjmYf6cCU&t=235",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJyT_2k5_HkTkLZ1mFxRyN8S0DKxBrali1RF_WpDyn7g&s"
+        },
+        {
+          "time": "12:22",
+          "title": "Eismaschinen: Beratung im Fachgeschäft",
+          "link": "https://www.youtube.com/watch?v=3zrjmYf6cCU&t=742",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLAjxK1DsNXGRVlhOUy6WORn6J16rRgExnCIe0kLNrw&s"
+        },
+        {
+          "time": "18:50",
+          "title": "Erste Runde: der große Eismaschinen-Test",
+          "link": "https://www.youtube.com/watch?v=3zrjmYf6cCU&t=1130",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyKc-GpkuKDAzAtPGA2bnpLHNk1fgy-j8vceGtg-o3g&s"
+        },
+        {
+          "time": "27:47",
+          "title": "Was unterscheidet Wassereis, Milcheis, Fruchteis und Sorbet?",
+          "link": "https://www.youtube.com/watch?v=3zrjmYf6cCU&t=1667",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuajwsKD1VxBvZQWa1W21DpJIosqdzz_qtltfNWOsdCw&s"
+        },
+        {
+          "time": "30:43",
+          "title": "Labor-Check: Was steckt in Supermarkteis?",
+          "link": "https://www.youtube.com/watch?v=3zrjmYf6cCU&t=1843",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ276LTN5Ioaj8QjSXffAuLBvdpX_RrXGvUhdeuZz3yw&s"
+        },
+        {
+          "time": "34:18",
+          "title": "Eismaschinen-Check: Zweite Runde und Ranking",
+          "link": "https://www.youtube.com/watch?v=3zrjmYf6cCU&t=2058",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzd0ny0vXAr9f6Wp2kmbKBVI9Rqeoage9GLl1nZqQIlA&s"
+        },
+        {
+          "time": "42:05",
+          "title": "Fazit: Unsere Gewinner-Eismaschine",
+          "link": "https://www.youtube.com/watch?v=3zrjmYf6cCU&t=2525",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr92E83VuxPuOuS8tRofHYvgqNFElRYJcacLhbK3EahA&s"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Mach's dir selbst! Eismaschinen im XXL-Vergleich",
+      "link": "https://www.youtube.com/watch?v=OckYAASXyTc",
+      "thumbnail": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/-4OSMJZQqgzA9aeblmCQNFiimqBXUil5dso0K0zdBuE.jpeg",
+      "channel": "OwnGalaxy",
+      "platform": "YouTube"
+    },
+    {
+      "position": 3,
+      "title": "Ninja CREAMi Deluxe im Test | Das beste Eis für zuhause?",
+      "link": "https://www.youtube.com/watch?v=xbF3r8SB_Lw",
+      "thumbnail": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/gKNTqhTGCPmMAXuHyUkGoMG_MYB2b9EqMoYZUt7c6oY.jpeg",
+      "channel": "Der Patrick",
+      "platform": "YouTube"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Welche Eismaschine ist die beste für zu Hause?",
+      "type": "featured_snippet",
+      "snippet": "Gute Kompressor-Eismaschinen sind die Unold Gusto, die Unold Snow, die Unold Uno und die Klarstein Dolce Bacio Smart. Bei Eismaschinen ohne Kompressor musst du die Eisbehälter zunächst für 12 bis 24 Stunden einfrieren. Gute Modelle ohne Kompressor sind die Ninja Creami und die Ninja Creami Deluxe.",
+      "title": "Beste Eismaschinen in Tests: Aktueller Vergleich 2026",
+      "date": "17.06.2025",
+      "link": "https://www.mediamarkt.de/de/content/heim-garten/kueche/eismaschinen-in-tests#:~:text=Gute%20Kompressor%2DEismaschinen%20sind%20die,und%20die%20Ninja%20Creami%20Deluxe.",
+      "displayed_link": "https://www.mediamarkt.de › ... › Heim & Garten › Küche",
+      "source_logo": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/weSt8SMhs88oUdKnW7ZLNe1WOZnNyhVbGOHYs17v2F8.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVU1uVlRORFZ1TTJJNWRIZERSSE5FWHpOUmVUWlljMTlvUm1FeFR6YzJZak56TkcxSVJEaEdhRmxDUW1WMlMyY3pUVjkwZFZob2EwdGZOMlZJUVZGMFpYQjJNRzVRYkVWb1NERnBORFpKY0dJdGQwTnBOV3B4U0VjNWR4SVhkalppVldGaVF6bERjWGxHZUdNNFVESkthbEJyVVRBYUlrRktTMHhHYlVwNlExaG1ieTFPTUc1YWRUQlNVbXBXYnpWMWJVOTJNR1JyT0hjIiwiZmN2IjoiMyIsImVpIjoidjZiVWFiQzlDcXlGeGM4UDJKalBrUTAiLCJxYyI6IkNoeGxhWE50WVhOamFHbHVaU0IwWlhOMElHVnlabUZvY25WdVoyVnVFQVY5NVpRU1B3IiwicXVlc3Rpb24iOiJXZWxjaGUgRWlzbWFzY2hpbmUgaXN0IGRpZSBiZXN0ZSBmw7xyIHp1IEhhdXNlPyIsImxrIjoiR2k1M1pXeGphR1VnWldsemJXRnpZMmhwYm1VZ2FYTjBJR1JwWlNCaVpYTjBaU0Jtdzd4eUlIcDFJR2hoZFhObCIsImJzIjoiYzRYUE1RdkNNQkFGWUZ3ek9VcW5XMFhRbXMycFU4SGRvWE5hcjAwd3B0QmNEUGpiM0p6OFY4YVdRaXNSOV92dXZjZHF0aXRRVnhJaFZfWXFiQ1dWUVZDVzRLd1FTclNFVUQ4Zkhkd2RISVd6bUsxZWtxZkoxZzhLX3lyNVVVeXl3NDhjTFJ6QmlWUk56alJRaUE0TjRmUlR4amZKZXZnNVRldWRIWjBmSGF2Q0ltSGgwZ1pBUVlUVHh0RThkNzZvbnhNakdDSERuSWJ0aTlEdnBsQ0h5aFNLdEZyM0loWW5SWWttNHp4Sl9ZaDhGT0UzV2k3ZSIsImlkIjoiZmNfdjZiVWFiQzlDcXlGeGM4UDJKalBrUTBfNyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVU1uVlRORFZ1TTJJNWRIZERSSE5FWHpOUmVUWlljMTlvUm1FeFR6YzJZak56TkcxSVJEaEdhRmxDUW1WMlMyY3pUVjkwZFZob2EwdGZOMlZJUVZGMFpYQjJNRzVRYkVWb1NERnBORFpKY0dJdGQwTnBOV3B4U0VjNWR4SVhkalppVldGaVF6bERjWGxHZUdNNFVESkthbEJyVVRBYUlrRktTMHhHYlVwNlExaG1ieTFPTUc1YWRUQlNVbXBXYnpWMWJVOTJNR1JyT0hjIiwiZmN2IjoiMyIsImVpIjoidjZiVWFiQzlDcXlGeGM4UDJKalBrUTAiLCJxYyI6IkNoeGxhWE50WVhOamFHbHVaU0IwWlhOMElHVnlabUZvY25WdVoyVnVFQVY5NVpRU1B3IiwicXVlc3Rpb24iOiJXZWxjaGUgRWlzbWFzY2hpbmUgaXN0IGRpZSBiZXN0ZSBmw7xyIHp1IEhhdXNlPyIsImxrIjoiR2k1M1pXeGphR1VnWldsemJXRnpZMmhwYm1VZ2FYTjBJR1JwWlNCaVpYTjBaU0Jtdzd4eUlIcDFJR2hoZFhObCIsImJzIjoiYzRYUE1RdkNNQkFGWUZ3ek9VcW5XMFhRbXMycFU4SGRvWE5hcjAwd3B0QmNEUGpiM0p6OFY4YVdRaXNSOV92dXZjZHF0aXRRVnhJaFZfWXFiQ1dWUVZDVzRLd1FTclNFVUQ4Zkhkd2RISVd6bUsxZWtxZkoxZzhLX3lyNVVVeXl3NDhjTFJ6QmlWUk56alJRaUE0TjRmUlR4amZKZXZnNVRldWRIWjBmSGF2Q0ltSGgwZ1pBUVlUVHh0RThkNzZvbnhNakdDSERuSWJ0aTlEdnBsQ0h5aFNLdEZyM0loWW5SWWttNHp4Sl9ZaDhGT0UzV2k3ZSIsImlkIjoiZmNfdjZiVWFiQzlDcXlGeGM4UDJKalBrUTBfNyJ9"
+    },
+    {
+      "question": "Welche Eismaschine ist laut Stiftung Warentest die beste?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFdmNCQ3JjQlFVMXVNeTE1VkVOdE5tVTVjWEJPWW5oRFYxRlJVM0JEYTFKWmJXOVlVekJtTkdkNVdFUktjVnBPZVc4M1VIVmlZemxmY0Zob1VFSlZiazU0WjNNNWRpMWpaRzU1UTNsdWEyNUhWa3RVZGxGQmQzZzNiVmhDZW5Gd1pGRnZXVEpGT1ZwblEwNHlNVGd6YTJoTFVrTmhXa3MzWjFKd05ETkZiM05RZVVkd09VbFVTbFZ3T0VsT1UzbHFTMmhTZUhSSFdYTXdTRUZqYldaWGQzSkljRGwwTm5kaFExVnZkMDlXYkhObU5YQjNSbGxFTVhKcFUwczRFaGQyTm1KVllXSkRPVU54ZVVaNFl6aFFNa3BxVUd0Uk1Cb2lRVXBMVEVadFNqRllPWFIzTVZGaVNuRmpSbDlzYldZMFVIQjNMV2x1UXkxUGR3IiwiZmN2IjoiMyIsImVpIjoidjZiVWFiQzlDcXlGeGM4UDJKalBrUTAiLCJxYyI6IkNoeGxhWE50WVhOamFHbHVaU0IwWlhOMElHVnlabUZvY25WdVoyVnVFQVY5NVpRU1B3IiwicXVlc3Rpb24iOiJXZWxjaGUgRWlzbWFzY2hpbmUgaXN0IGxhdXQgU3RpZnR1bmcgV2FyZW50ZXN0IGRpZSBiZXN0ZT8iLCJsayI6IkdpbGlaWE4wWlNCbGFYTnRZWE5qYUdsdVpTQnNZWFYwSUhOMGFXWjBkVzVuSUhkaGNtVnVkR1Z6ZEEiLCJicyI6ImM0WFBNUXZDTUJBRllGd3pPVXFuVzBYUW1zMnBVOEhkb1hOYXIwMHdwdEJjRFBqYjNKejhWOGFXUWlzUjlfdnV2Y2RxdGl0UVZ4SWhWX1lxYkNXVlFWQ1c0S3dRU3JTRVVEOGZIZHdkSElXem1LMWVrcWZKMWc4S195cjVVVXl5dzQ4Y0xSekJpVlJOempSUWlBNE40ZlJUeGpmSmV2ZzVUZXVkSFowZkhhdkNJbUhoMGdaQVFZVFR4dEU4ZDc2b254TWpHQ0hEbklidGk5RHZwbENIeWhTS3RGcjNJaFluUllrbTR6eEpfWWg4Rk9FM1dpN2UiLCJpZCI6ImZjX3Y2YlVhYkM5Q3F5RnhjOFAySmpQa1EwXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFdmNCQ3JjQlFVMXVNeTE1VkVOdE5tVTVjWEJPWW5oRFYxRlJVM0JEYTFKWmJXOVlVekJtTkdkNVdFUktjVnBPZVc4M1VIVmlZemxmY0Zob1VFSlZiazU0WjNNNWRpMWpaRzU1UTNsdWEyNUhWa3RVZGxGQmQzZzNiVmhDZW5Gd1pGRnZXVEpGT1ZwblEwNHlNVGd6YTJoTFVrTmhXa3MzWjFKd05ETkZiM05RZVVkd09VbFVTbFZ3T0VsT1UzbHFTMmhTZUhSSFdYTXdTRUZqYldaWGQzSkljRGwwTm5kaFExVnZkMDlXYkhObU5YQjNSbGxFTVhKcFUwczRFaGQyTm1KVllXSkRPVU54ZVVaNFl6aFFNa3BxVUd0Uk1Cb2lRVXBMVEVadFNqRllPWFIzTVZGaVNuRmpSbDlzYldZMFVIQjNMV2x1UXkxUGR3IiwiZmN2IjoiMyIsImVpIjoidjZiVWFiQzlDcXlGeGM4UDJKalBrUTAiLCJxYyI6IkNoeGxhWE50WVhOamFHbHVaU0IwWlhOMElHVnlabUZvY25WdVoyVnVFQVY5NVpRU1B3IiwicXVlc3Rpb24iOiJXZWxjaGUgRWlzbWFzY2hpbmUgaXN0IGxhdXQgU3RpZnR1bmcgV2FyZW50ZXN0IGRpZSBiZXN0ZT8iLCJsayI6IkdpbGlaWE4wWlNCbGFYTnRZWE5qYUdsdVpTQnNZWFYwSUhOMGFXWjBkVzVuSUhkaGNtVnVkR1Z6ZEEiLCJicyI6ImM0WFBNUXZDTUJBRllGd3pPVXFuVzBYUW1zMnBVOEhkb1hOYXIwMHdwdEJjRFBqYjNKejhWOGFXUWlzUjlfdnV2Y2RxdGl0UVZ4SWhWX1lxYkNXVlFWQ1c0S3dRU3JTRVVEOGZIZHdkSElXem1LMWVrcWZKMWc4S195cjVVVXl5dzQ4Y0xSekJpVlJOempSUWlBNE40ZlJUeGpmSmV2ZzVUZXVkSFowZkhhdkNJbUhoMGdaQVFZVFR4dEU4ZDc2b254TWpHQ0hEbklidGk5RHZwbENIeWhTS3RGcjNJaFluUllrbTR6eEpfWWg4Rk9FM1dpN2UiLCJpZCI6ImZjX3Y2YlVhYkM5Q3F5RnhjOFAySmpQa1EwXzQifQ%3D%3D"
+    },
+    {
+      "question": "Was kostet eine gute Eismaschine für zu Hause?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFdmNCQ3JjQlFVMXVNeTE1VkZWdVUzRnVaVkJJY205MFptd3RkRzlMTlhodVpYQkZZa0pMWDJKa1ZHRjJVRlJSVDBwWE0wMW1jaTFNVHpKUE9EVlRVRkpxUWxCbGRXbEdVMk55UTJ0YU9WRjNORlF3VkZKMlQyUlFVVEpsY2s0dGQwUXlkVWRXZUhsR05XRnBURE4wVDFKU05GWjJibWg1WmpsdWJucDJORzlmV1ZNeFIwRlFhRWhXTkhKclRXaEVWMUJ4ZEZSNVZsZDNMWHBTV21aNFVGRTVRMGxpYTNrMlVVVmZOVGxOVFhSS01XMUtTbGx3Y1VSeVluTm5FaGQyTm1KVllXSkRPVU54ZVVaNFl6aFFNa3BxVUd0Uk1Cb2lRVXBMVEVadFNWUkJSWEp4TkUxd2RrTjRNVzVXZDJReGNFUlFNRWhWTW5kUGR3IiwiZmN2IjoiMyIsImVpIjoidjZiVWFiQzlDcXlGeGM4UDJKalBrUTAiLCJxYyI6IkNoeGxhWE50WVhOamFHbHVaU0IwWlhOMElHVnlabUZvY25WdVoyVnVFQVY5NVpRU1B3IiwicXVlc3Rpb24iOiJXYXMga29zdGV0IGVpbmUgZ3V0ZSBFaXNtYXNjaGluZSBmw7xyIHp1IEhhdXNlPyIsImxrIjoiYzVQU0swOHNWc2pPTHk1SkxWRkl6Y3hMVlVndkxVa0Zzb3B6RTR1VE0wQUNhWWYzRkNsVWxTcGtKSllXcHdJQSIsImJzIjoiYzRYUE1RdkNNQkFGWUZ3ek9VcW5XMFhRbXMycFU4SGRvWE5hcjAwd3B0QmNEUGpiM0p6OFY4YVdRaXNSOV92dXZjZHF0aXRRVnhJaFZfWXFiQ1dWUVZDVzRLd1FTclNFVUQ4Zkhkd2RISVd6bUsxZWtxZkoxZzhLX3lyNVVVeXl3NDhjTFJ6QmlWUk56alJRaUE0TjRmUlR4amZKZXZnNVRldWRIWjBmSGF2Q0ltSGgwZ1pBUVlUVHh0RThkNzZvbnhNakdDSERuSWJ0aTlEdnBsQ0h5aFNLdEZyM0loWW5SWWttNHp4Sl9ZaDhGT0UzV2k3ZSIsImlkIjoiZmNfdjZiVWFiQzlDcXlGeGM4UDJKalBrUTBfNiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFdmNCQ3JjQlFVMXVNeTE1VkZWdVUzRnVaVkJJY205MFptd3RkRzlMTlhodVpYQkZZa0pMWDJKa1ZHRjJVRlJSVDBwWE0wMW1jaTFNVHpKUE9EVlRVRkpxUWxCbGRXbEdVMk55UTJ0YU9WRjNORlF3VkZKMlQyUlFVVEpsY2s0dGQwUXlkVWRXZUhsR05XRnBURE4wVDFKU05GWjJibWg1WmpsdWJucDJORzlmV1ZNeFIwRlFhRWhXTkhKclRXaEVWMUJ4ZEZSNVZsZDNMWHBTV21aNFVGRTVRMGxpYTNrMlVVVmZOVGxOVFhSS01XMUtTbGx3Y1VSeVluTm5FaGQyTm1KVllXSkRPVU54ZVVaNFl6aFFNa3BxVUd0Uk1Cb2lRVXBMVEVadFNWUkJSWEp4TkUxd2RrTjRNVzVXZDJReGNFUlFNRWhWTW5kUGR3IiwiZmN2IjoiMyIsImVpIjoidjZiVWFiQzlDcXlGeGM4UDJKalBrUTAiLCJxYyI6IkNoeGxhWE50WVhOamFHbHVaU0IwWlhOMElHVnlabUZvY25WdVoyVnVFQVY5NVpRU1B3IiwicXVlc3Rpb24iOiJXYXMga29zdGV0IGVpbmUgZ3V0ZSBFaXNtYXNjaGluZSBmw7xyIHp1IEhhdXNlPyIsImxrIjoiYzVQU0swOHNWc2pPTHk1SkxWRkl6Y3hMVlVndkxVa0Zzb3B6RTR1VE0wQUNhWWYzRkNsVWxTcGtKSllXcHdJQSIsImJzIjoiYzRYUE1RdkNNQkFGWUZ3ek9VcW5XMFhRbXMycFU4SGRvWE5hcjAwd3B0QmNEUGpiM0p6OFY4YVdRaXNSOV92dXZjZHF0aXRRVnhJaFZfWXFiQ1dWUVZDVzRLd1FTclNFVUQ4Zkhkd2RISVd6bUsxZWtxZkoxZzhLX3lyNVVVeXl3NDhjTFJ6QmlWUk56alJRaUE0TjRmUlR4amZKZXZnNVRldWRIWjBmSGF2Q0ltSGgwZ1pBUVlUVHh0RThkNzZvbnhNakdDSERuSWJ0aTlEdnBsQ0h5aFNLdEZyM0loWW5SWWttNHp4Sl9ZaDhGT0UzV2k3ZSIsImlkIjoiZmNfdjZiVWFiQzlDcXlGeGM4UDJKalBrUTBfNiJ9"
+    },
+    {
+      "question": "Wie viel Watt sollte eine gute Eismaschine haben?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VVdOSU4zSjRTVmRMU0ZwcFIzVlJUVmhaVVY5bFdXMW1NWGRNVldwVGJqZE1VVzkyWWtGaWVIVjFZbmQzV2pKRlVFVXlhMGhsTW1OSmVXdzRjVUZUT0dabGExa3pXRWhwU3kxNU4yTk5PRzFLVG5KQmFEbHhaVlEyWW5reFdVWTFlSEZVYWxoYVYxaE9SM1pCTTBKUk56TmpXbmRSTTBSaWMyWm9OM0JWYzFocWVVRTVja0pyV0VSTGVXMUlZa1EzWlU1alJISkZjVFV6VVRKUkVoZDJObUpWWVdKRE9VTnhlVVo0WXpoUU1rcHFVR3RSTUJvaVFVcExURVp0UzBoRk5EZHhkMkZ5U21WaWFVNVNRemRRVDJ0dFVtbHpXbEJOWnciLCJmY3YiOiIzIiwiZWkiOiJ2NmJVYWJDOUNxeUZ4YzhQMkpqUGtRMCIsInFjIjoiQ2h4bGFYTnRZWE5qYUdsdVpTQjBaWE4wSUdWeVptRm9jblZ1WjJWdUVBVjk1WlFTUHciLCJxdWVzdGlvbiI6IldpZSB2aWVsIFdhdHQgc29sbHRlIGVpbmUgZ3V0ZSBFaXNtYXNjaGluZSBoYWJlbj8iLCJsayI6ImM1TXlLTTlNVlNqTFRNMVJLRThzS1ZFb3pzX0pLVWxWU00zTVMxVklMd1d6aW5NVGk1TXpRQUlaaVVtcGVRQSIsImJzIjoiYzRYUE1RdkNNQkFGWUZ3ek9VcW5XMFhRbXMycFU4SGRvWE5hcjAwd3B0QmNEUGpiM0p6OFY4YVdRaXNSOV92dXZjZHF0aXRRVnhJaFZfWXFiQ1dWUVZDVzRLd1FTclNFVUQ4Zkhkd2RISVd6bUsxZWtxZkoxZzhLX3lyNVVVeXl3NDhjTFJ6QmlWUk56alJRaUE0TjRmUlR4amZKZXZnNVRldWRIWjBmSGF2Q0ltSGgwZ1pBUVlUVHh0RThkNzZvbnhNakdDSERuSWJ0aTlEdnBsQ0h5aFNLdEZyM0loWW5SWWttNHp4Sl9ZaDhGT0UzV2k3ZSIsImlkIjoiZmNfdjZiVWFiQzlDcXlGeGM4UDJKalBrUTBfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VVdOSU4zSjRTVmRMU0ZwcFIzVlJUVmhaVVY5bFdXMW1NWGRNVldwVGJqZE1VVzkyWWtGaWVIVjFZbmQzV2pKRlVFVXlhMGhsTW1OSmVXdzRjVUZUT0dabGExa3pXRWhwU3kxNU4yTk5PRzFLVG5KQmFEbHhaVlEyWW5reFdVWTFlSEZVYWxoYVYxaE9SM1pCTTBKUk56TmpXbmRSTTBSaWMyWm9OM0JWYzFocWVVRTVja0pyV0VSTGVXMUlZa1EzWlU1alJISkZjVFV6VVRKUkVoZDJObUpWWVdKRE9VTnhlVVo0WXpoUU1rcHFVR3RSTUJvaVFVcExURVp0UzBoRk5EZHhkMkZ5U21WaWFVNVNRemRRVDJ0dFVtbHpXbEJOWnciLCJmY3YiOiIzIiwiZWkiOiJ2NmJVYWJDOUNxeUZ4YzhQMkpqUGtRMCIsInFjIjoiQ2h4bGFYTnRZWE5qYUdsdVpTQjBaWE4wSUdWeVptRm9jblZ1WjJWdUVBVjk1WlFTUHciLCJxdWVzdGlvbiI6IldpZSB2aWVsIFdhdHQgc29sbHRlIGVpbmUgZ3V0ZSBFaXNtYXNjaGluZSBoYWJlbj8iLCJsayI6ImM1TXlLTTlNVlNqTFRNMVJLRThzS1ZFb3pzX0pLVWxWU00zTVMxVklMd1d6aW5NVGk1TXpRQUlaaVVtcGVRQSIsImJzIjoiYzRYUE1RdkNNQkFGWUZ3ek9VcW5XMFhRbXMycFU4SGRvWE5hcjAwd3B0QmNEUGpiM0p6OFY4YVdRaXNSOV92dXZjZHF0aXRRVnhJaFZfWXFiQ1dWUVZDVzRLd1FTclNFVUQ4Zkhkd2RISVd6bUsxZWtxZkoxZzhLX3lyNVVVeXl3NDhjTFJ6QmlWUk56alJRaUE0TjRmUlR4amZKZXZnNVRldWRIWjBmSGF2Q0ltSGgwZ1pBUVlUVHh0RThkNzZvbnhNakdDSERuSWJ0aTlEdnBsQ0h5aFNLdEZyM0loWW5SWWttNHp4Sl9ZaDhGT0UzV2k3ZSIsImlkIjoiZmNfdjZiVWFiQzlDcXlGeGM4UDJKalBrUTBfNSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Die beste Eismaschine | Test 04/2026",
+      "link": "https://www.faz.net/kaufkompass/test/die-beste-eismaschine/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.faz.net/kaufkompass/test/die-beste-eismaschine/&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQFnoECCEQAQ",
+      "displayed_link": "https://www.faz.net › ... › Küchenmaschinen",
+      "favicon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7R5du31BzzlVABHVk2uGiHFA.png",
+      "date": "06.10.2025",
+      "snippet": "Wir haben 50 Eismaschinen getestet. Testsieger DeLonghi Gelataio ICK 6000 kühlt hervorragend, ist leicht zu bedienen und macht klasse Eis.",
+      "snippet_highlighted_words": [
+        "Testsieger DeLonghi Gelataio ICK 6000"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Gelateria für zuhause...",
+            "link": "https://www.faz.net/kaufkompass/test/die-beste-eismaschine/#gelateriafuerzuhauseeismaschinenimtest-count-2"
+          },
+          {
+            "title": "Eismaschinen mit Kompressor",
+            "link": "https://www.faz.net/kaufkompass/test/die-beste-eismaschine/#eismaschinenmitkompressor-count-3"
+          },
+          {
+            "title": "Außerdem getestet",
+            "link": "https://www.faz.net/kaufkompass/test/die-beste-eismaschine/#ausserdemgetestet-count-11"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Wir haben 50 Eismaschinen getestet. Testsieger DeLonghi Gelataio ICK 6000 kühlt hervorragend, ist leicht zu bedienen und macht klasse Eis.",
+          "source_info_link": "https://www.faz.net/kaufkompass/test/die-beste-eismaschine/",
+          "icon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7R_qEbS9bDhT7pG5XDhyU2EaRtyFuPpEXjTjbd41eMJzu.png"
+        },
+        "languages": [
+          "de"
+        ],
+        "regions": [
+          "DE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.faz.net/kaufkompass/test/die-beste-eismaschine/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.faz.net%2Fkaufkompass%2Ftest%2Fdie-beste-eismaschine%2F",
+      "source": "FAZ"
+    },
+    {
+      "position": 2,
+      "title": "Eismaschinen Test 2026: Eisgenuss auf Knopfdruck",
+      "link": "https://www.chip.de/artikel/Eismaschinen-Test-Die-besten-Eismaschinen_169883129.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chip.de/artikel/Eismaschinen-Test-Die-besten-Eismaschinen_169883129.html&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQFnoECB0QAQ",
+      "displayed_link": "https://www.chip.de › ... › Haushalt & Garten",
+      "favicon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7R-jeqEROWVl4PEfzzMAKh3k.png",
+      "date": "15.01.2026",
+      "snippet": "Im Eismaschinen-Test finden Sie unsere Empfehlungen mit Kühlakku und mit Kompressor. Reicht eigentlich ein günstiges Gerät aus?",
+      "snippet_highlighted_words": [
+        "Eismaschinen",
+        "Test"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Im Eismaschinen-Test finden Sie unsere Empfehlungen mit Kühlakku und mit Kompressor. Reicht eigentlich ein günstiges Gerät aus?",
+          "source_info_link": "https://www.chip.de/artikel/Eismaschinen-Test-Die-besten-Eismaschinen_169883129.html",
+          "icon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7R3KkLIVmd40VXIles15k33kwmSO_qZtMrVHufSt_8zWx.png"
+        },
+        "languages": [
+          "de"
+        ],
+        "regions": [
+          "DE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.chip.de/artikel/Eismaschinen-Test-Die-besten-Eismaschinen_169883129.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.chip.de%2Fartikel%2FEismaschinen-Test-Die-besten-Eismaschinen_169883129.html",
+      "source": "CHIP"
+    },
+    {
+      "position": 3,
+      "title": "Eismaschinentest: Fünf Produkte im Praxis-Vergleich",
+      "link": "https://www.stern.de/kaufkosmos/eismaschinentest--fuenf-produkte-im-praxis-vergleich-36073168.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.stern.de/kaufkosmos/eismaschinentest--fuenf-produkte-im-praxis-vergleich-36073168.html&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQFnoECBsQAQ",
+      "displayed_link": "https://www.stern.de › eismaschi...",
+      "favicon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7RzXYlZ4JJ4Lg3_dUubG7WmE.png",
+      "date": "vor 4 Tagen",
+      "snippet": "1. Das schicke Upgrade: Kitchenaid Eisbereiteraufsatz · 2. Der platzsparende Sieger: Cuisinart Freeze Wand · 3. Für den kleinen Hunger: WMF ...",
+      "about_this_result": {
+        "source": {
+          "description": "1. Das schicke Upgrade: Kitchenaid Eisbereiteraufsatz · 2. Der platzsparende Sieger: Cuisinart Freeze Wand · 3. Für den kleinen Hunger: WMF ...",
+          "source_info_link": "https://www.stern.de/kaufkosmos/eismaschinentest--fuenf-produkte-im-praxis-vergleich-36073168.html",
+          "icon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7RzGYte5_Nm-nw0DSumytjiyLEoUtwvPbliiVwqpHU4iu.png"
+        },
+        "languages": [
+          "de"
+        ],
+        "regions": [
+          "DE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.stern.de/kaufkosmos/eismaschinentest--fuenf-produkte-im-praxis-vergleich-36073168.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.stern.de%2Fkaufkosmos%2Feismaschinentest--fuenf-produkte-im-praxis-vergleich-36073168.html",
+      "source": "STERN.de"
+    },
+    {
+      "position": 4,
+      "title": "Die besten Eismaschinen für Familien (Test)",
+      "link": "https://wunschkind-community.de/eismaschinen/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wunschkind-community.de/eismaschinen/&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQFnoECCsQAQ",
+      "displayed_link": "https://wunschkind-community.de › Ratgeber",
+      "favicon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7RyhQ8vU9CpKUKQMNZxTLLUY.png",
+      "date": "09.03.2026",
+      "snippet": "Folgende Eismaschinen wurden von den Mamas aufgrund ihrer eigenen Erfahrung empfohlen. Wir haben sie nach Maschinentyp sortiert ...",
+      "snippet_highlighted_words": [
+        "Eismaschinen",
+        "Erfahrung"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Unsere Favoriten für...",
+            "link": "https://wunschkind-community.de/eismaschinen/#Unsere_Favoriten_fuer_Eismaschinen"
+          },
+          {
+            "title": "Bestseller: Eismaschine",
+            "link": "https://wunschkind-community.de/eismaschinen/#Bestseller_Eismaschine"
+          },
+          {
+            "title": "Darauf musst du bei einer...",
+            "link": "https://wunschkind-community.de/eismaschinen/#Darauf_musst_du_bei_einer_Eismaschine_achten"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "reviews": 65
+          },
+          "extensions": [
+            "4,5(65)",
+            "Weitere Informationen zu den Bewertungen.Rezensionen werden von der Google Suche nicht überprüft"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Folgende Eismaschinen wurden von den Mamas aufgrund ihrer eigenen Erfahrung empfohlen. Wir haben sie nach Maschinentyp sortiert ...",
+          "source_info_link": "https://wunschkind-community.de/eismaschinen/",
+          "icon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7RwkZDDaHqlXy4woUYD4fZp1pzeLWuD0gJBtnuB36NpUL.png"
+        },
+        "languages": [
+          "de"
+        ],
+        "regions": [
+          "DE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://wunschkind-community.de/eismaschinen/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwunschkind-community.de%2Feismaschinen%2F",
+      "source": "WUNSCHKIND Community"
+    },
+    {
+      "position": 5,
+      "title": "3 Eismaschinen ohne Kompressor im Test: Krups ...",
+      "link": "https://www.technikzuhause.de/testbericht/3-eismaschinen-ohne-kompressor-im-test/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.technikzuhause.de/testbericht/3-eismaschinen-ohne-kompressor-im-test/&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQFnoECCYQAQ",
+      "displayed_link": "https://www.technikzuhause.de › testbericht › 3-eismasch...",
+      "favicon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7R5yMcJ9TMRnbezJr3824NEw.png",
+      "date": "08.07.2022",
+      "snippet": "Wir wollen herausfinden, wie gut sich die Testkandidaten von Krups, Rommelsbacher und WMF in der praktischen Eisproduktion bewähren. Eisbehälter ...",
+      "snippet_highlighted_words": [
+        "Testkandidaten"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Wir wollen herausfinden, wie gut sich die Testkandidaten von Krups, Rommelsbacher und WMF in der praktischen Eisproduktion bewähren. Eisbehälter ...",
+          "source_info_link": "https://www.technikzuhause.de/testbericht/3-eismaschinen-ohne-kompressor-im-test/",
+          "icon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7R4Q8GKgi1d-rZnmKYUQQyrw-kCu1ITXITPxamm1rI9KM.png"
+        },
+        "languages": [
+          "de"
+        ],
+        "regions": [
+          "DE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.technikzuhause.de/testbericht/3-eismaschinen-ohne-kompressor-im-test/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.technikzuhause.de%2Ftestbericht%2F3-eismaschinen-ohne-kompressor-im-test%2F",
+      "source": "Technik zu Hause"
+    },
+    {
+      "position": 6,
+      "title": "Eis selber machen: Der große Eismaschinen Test",
+      "link": "https://eismaschine.gastrodirekt.net/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eismaschine.gastrodirekt.net/&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQFnoECCgQAQ",
+      "displayed_link": "https://eismaschine.gastrodirekt.net",
+      "favicon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7R_YSvgsNq92Z3DwPtYb13YA.png",
+      "snippet": "Die Cube 750 ist die beste Eismaschine in unserem Test. Daran besteht kein Zweifel. Die Qualität, die Konsistenz und der Geschmack hat uns alle überzeugt!",
+      "snippet_highlighted_words": [
+        "Die Cube 750 ist die beste Eismaschine in unserem Test"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Die Cube 750 ist die beste Eismaschine in unserem Test. Daran besteht kein Zweifel. Die Qualität, die Konsistenz und der Geschmack hat uns alle überzeugt!",
+          "source_info_link": "https://eismaschine.gastrodirekt.net/",
+          "icon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7R1v4x5BKSnUlza9owsWqMybjD2XMp_2bKu1F99Oy2OC3.png"
+        },
+        "languages": [
+          "de"
+        ],
+        "regions": [
+          "DE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://eismaschine.gastrodirekt.net/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Feismaschine.gastrodirekt.net%2F",
+      "source": "gastrodirekt.net"
+    },
+    {
+      "position": 7,
+      "title": "Beste Eismaschinen in Tests: Aktueller Vergleich 2026",
+      "link": "https://www.mediamarkt.de/de/content/heim-garten/kueche/eismaschinen-in-tests?srsltid=AfmBOorepymY0kPJzeyDkPV29QlLtzb3PleeohG0mFFLe-ksPvmyn-Dz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mediamarkt.de/de/content/heim-garten/kueche/eismaschinen-in-tests%3Fsrsltid%3DAfmBOorepymY0kPJzeyDkPV29QlLtzb3PleeohG0mFFLe-ksPvmyn-Dz&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQFnoECCkQAQ",
+      "displayed_link": "https://www.mediamarkt.de › ... › Heim & Garten › Küche",
+      "favicon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7R30lMYppBirK5jk-nbMAVlw.png",
+      "date": "vor 8 Tagen",
+      "snippet": "Entdecke die besten Eismaschinen laut Tests! ✓ Gelato ✓ Sorbet ✓ Slushi ▻ Jetzt bei MediaMarkt vergleichen!",
+      "snippet_highlighted_words": [
+        "Eismaschinen",
+        "Tests"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Die beste Eismaschine ohne...",
+            "link": "https://www.mediamarkt.de/de/content/heim-garten/kueche/eismaschinen-in-tests#beste-eismaschine-ohne-kompressor"
+          },
+          {
+            "title": "Vielseitige Trend-Eismaschine...",
+            "link": "https://www.mediamarkt.de/de/content/heim-garten/kueche/eismaschinen-in-tests#ninja-creami-trend-eismaschine"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Entdecke die besten Eismaschinen laut Tests! ✓ Gelato ✓ Sorbet ✓ Slushi ▻ Jetzt bei MediaMarkt vergleichen!",
+          "source_info_link": "https://www.mediamarkt.de/de/content/heim-garten/kueche/eismaschinen-in-tests?srsltid=AfmBOorepymY0kPJzeyDkPV29QlLtzb3PleeohG0mFFLe-ksPvmyn-Dz",
+          "icon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7R5oKYbMpfYzwbbR8jG8OfRol8O-MU3ML2CKXlPtvveq8.png"
+        },
+        "languages": [
+          "de"
+        ],
+        "regions": [
+          "DE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.mediamarkt.de/de/content/heim-garten/kueche/eismaschinen-in-tests?srsltid=AfmBOorepymY0kPJzeyDkPV29QlLtzb3PleeohG0mFFLe-ksPvmyn-Dz&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.mediamarkt.de%2Fde%2Fcontent%2Fheim-garten%2Fkueche%2Feismaschinen-in-tests%3Fsrsltid%3DAfmBOorepymY0kPJzeyDkPV29QlLtzb3PleeohG0mFFLe-ksPvmyn-Dz",
+      "source": "MediaMarkt"
+    },
+    {
+      "position": 8,
+      "title": "Günstigstes Gerät siegt im Eismaschinen-Test",
+      "link": "https://www.n-tv.de/shopping-und-service/Guenstigstes-Geraet-siegt-im-Eismaschinen-Test-article25778130.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.n-tv.de/shopping-und-service/Guenstigstes-Geraet-siegt-im-Eismaschinen-Test-article25778130.html&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQFnoECDEQAQ",
+      "displayed_link": "https://www.n-tv.de › Shopping & Service",
+      "favicon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7R3ORu7bIuYBw3SIGYkWp3Nw.png",
+      "date": "28.05.2025",
+      "snippet": "Das waren die Eismaschinen im Test · Eismaschine Silvercrest Kitchentools SECM 12 D1 von Lidl für circa 24.99 Euro* · Eismaschine WMF Küchenminis ...",
+      "snippet_highlighted_words": [
+        "Eismaschine Silvercrest Kitchentools SECM 12 D1 von Lidl für circa 24.99 Euro"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Das waren die Eismaschinen im Test · Eismaschine Silvercrest Kitchentools SECM 12 D1 von Lidl für circa 24.99 Euro* · Eismaschine WMF Küchenminis ...",
+          "source_info_link": "https://www.n-tv.de/shopping-und-service/Guenstigstes-Geraet-siegt-im-Eismaschinen-Test-article25778130.html",
+          "icon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7R7Iy1clgUKepDsfxUwq3i_nve4TkNFif6S5mlpBP4dDd.png"
+        },
+        "languages": [
+          "de"
+        ],
+        "regions": [
+          "DE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.n-tv.de/shopping-und-service/Guenstigstes-Geraet-siegt-im-Eismaschinen-Test-article25778130.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.n-tv.de%2Fshopping-und-service%2FGuenstigstes-Geraet-siegt-im-Eismaschinen-Test-article25778130.html",
+      "source": "Ntv"
+    },
+    {
+      "position": 9,
+      "title": "Ninja-Eismaschine-Test: Was kann die gehypte Creami ...",
+      "link": "https://www.gq-magazin.de/artikel/ninja-eismaschine-test",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gq-magazin.de/artikel/ninja-eismaschine-test&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQFnoECCoQAQ",
+      "displayed_link": "https://www.gq-magazin.de › ... › Shopping",
+      "favicon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7Rws4In9L8cxZHg1KQmSQPQ4.png",
+      "date": "24.04.2025",
+      "snippet": "Im Ninja-Eismaschine-Test 2025 zeigt die Creami Deluxe, was sie wirklich kann – alle Vorteile, Schwächen und unser Fazit für Ihren Eisgenuss ...",
+      "snippet_highlighted_words": [
+        "Eismaschine",
+        "Test"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Im Ninja-Eismaschine-Test 2025 zeigt die Creami Deluxe, was sie wirklich kann – alle Vorteile, Schwächen und unser Fazit für Ihren Eisgenuss ...",
+          "source_info_link": "https://www.gq-magazin.de/artikel/ninja-eismaschine-test",
+          "icon": "https://serpapi.com/searches/69d4a6be1dcfe2c325b1711a/images/5bJDjIWhw-OO8m41zIg7R_tzD5T0r_yfkUz_Bz1VOmueiYwHRbztLk9f-1OZQnJS.png"
+        },
+        "languages": [
+          "de"
+        ],
+        "regions": [
+          "DE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.gq-magazin.de/artikel/ninja-eismaschine-test&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gq-magazin.de%2Fartikel%2Fninja-eismaschine-test",
+      "source": "GQ Germany"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Beste Eismaschine Stiftung Warentest",
+      "link": "https://www.google.com/search?lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&q=Beste+Eismaschine+Stiftung+Warentest&sa=X&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ1QJ6BAgsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Beste+Eismaschine+Stiftung+Warentest&tbs=lr%3Alang_1de"
+    },
+    {
+      "block_position": 1,
+      "query": "Eismaschine mit Kompressor Stiftung Warentest",
+      "link": "https://www.google.com/search?lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&q=Eismaschine+mit+Kompressor+Stiftung+Warentest&sa=X&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+mit+Kompressor+Stiftung+Warentest&tbs=lr%3Alang_1de"
+    },
+    {
+      "block_position": 1,
+      "query": "Eismaschine mit Kompressor Test",
+      "link": "https://www.google.com/search?lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&q=Eismaschine+mit+Kompressor+Test&sa=X&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+mit+Kompressor+Test&tbs=lr%3Alang_1de"
+    },
+    {
+      "block_position": 1,
+      "query": "Eismaschine Test WDR",
+      "link": "https://www.google.com/search?lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&q=Eismaschine+Test+WDR&sa=X&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+Test+WDR&tbs=lr%3Alang_1de"
+    },
+    {
+      "block_position": 1,
+      "query": "Beste Eismaschine im Test",
+      "link": "https://www.google.com/search?lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&q=Beste+Eismaschine+im+Test&sa=X&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Beste+Eismaschine+im+Test&tbs=lr%3Alang_1de"
+    },
+    {
+      "block_position": 1,
+      "query": "Beste Eismaschine mit Kompressor",
+      "link": "https://www.google.com/search?lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&q=Beste+Eismaschine+mit+Kompressor&sa=X&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Beste+Eismaschine+mit+Kompressor&tbs=lr%3Alang_1de"
+    },
+    {
+      "block_position": 1,
+      "query": "Profi Eismaschine Testsieger",
+      "link": "https://www.google.com/search?lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&q=Profi+Eismaschine+Testsieger&sa=X&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Profi+Eismaschine+Testsieger&tbs=lr%3Alang_1de"
+    },
+    {
+      "block_position": 1,
+      "query": "Eismaschine mit oder ohne Kompressor",
+      "link": "https://www.google.com/search?lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&q=Eismaschine+mit+oder+ohne+Kompressor&sa=X&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ1QJ6BAgtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+mit+oder+ohne+Kompressor&tbs=lr%3Alang_1de"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Eismaschine+Test+Erfahrungen&lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&ei=v6bUabC9CqyFxc8P2JjPkQ0&start=10&sa=N&sstk=Af77f_fS1VTl_awcifTgAvkLgZOsIwfET2NZnGpxytJ0s9I2G7oGAzZf4w2vZODMLbUWtXqCEqvPNhDL42Ppx9-626OKDuabvS6mxg&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ8NMDegQIJRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Eismaschine+Test+Erfahrungen&lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&ei=v6bUabC9CqyFxc8P2JjPkQ0&start=10&sa=N&sstk=Af77f_fS1VTl_awcifTgAvkLgZOsIwfET2NZnGpxytJ0s9I2G7oGAzZf4w2vZODMLbUWtXqCEqvPNhDL42Ppx9-626OKDuabvS6mxg&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ8tMDegQIJRAE",
+      "3": "https://www.google.com/search?q=Eismaschine+Test+Erfahrungen&lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&ei=v6bUabC9CqyFxc8P2JjPkQ0&start=20&sa=N&sstk=Af77f_fS1VTl_awcifTgAvkLgZOsIwfET2NZnGpxytJ0s9I2G7oGAzZf4w2vZODMLbUWtXqCEqvPNhDL42Ppx9-626OKDuabvS6mxg&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ8tMDegQIJRAG",
+      "4": "https://www.google.com/search?q=Eismaschine+Test+Erfahrungen&lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&ei=v6bUabC9CqyFxc8P2JjPkQ0&start=30&sa=N&sstk=Af77f_fS1VTl_awcifTgAvkLgZOsIwfET2NZnGpxytJ0s9I2G7oGAzZf4w2vZODMLbUWtXqCEqvPNhDL42Ppx9-626OKDuabvS6mxg&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ8tMDegQIJRAI",
+      "5": "https://www.google.com/search?q=Eismaschine+Test+Erfahrungen&lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&ei=v6bUabC9CqyFxc8P2JjPkQ0&start=40&sa=N&sstk=Af77f_fS1VTl_awcifTgAvkLgZOsIwfET2NZnGpxytJ0s9I2G7oGAzZf4w2vZODMLbUWtXqCEqvPNhDL42Ppx9-626OKDuabvS6mxg&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ8tMDegQIJRAK",
+      "6": "https://www.google.com/search?q=Eismaschine+Test+Erfahrungen&lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&ei=v6bUabC9CqyFxc8P2JjPkQ0&start=50&sa=N&sstk=Af77f_fS1VTl_awcifTgAvkLgZOsIwfET2NZnGpxytJ0s9I2G7oGAzZf4w2vZODMLbUWtXqCEqvPNhDL42Ppx9-626OKDuabvS6mxg&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ8tMDegQIJRAM",
+      "7": "https://www.google.com/search?q=Eismaschine+Test+Erfahrungen&lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&ei=v6bUabC9CqyFxc8P2JjPkQ0&start=60&sa=N&sstk=Af77f_fS1VTl_awcifTgAvkLgZOsIwfET2NZnGpxytJ0s9I2G7oGAzZf4w2vZODMLbUWtXqCEqvPNhDL42Ppx9-626OKDuabvS6mxg&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ8tMDegQIJRAO",
+      "8": "https://www.google.com/search?q=Eismaschine+Test+Erfahrungen&lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&ei=v6bUabC9CqyFxc8P2JjPkQ0&start=70&sa=N&sstk=Af77f_fS1VTl_awcifTgAvkLgZOsIwfET2NZnGpxytJ0s9I2G7oGAzZf4w2vZODMLbUWtXqCEqvPNhDL42Ppx9-626OKDuabvS6mxg&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ8tMDegQIJRAQ",
+      "9": "https://www.google.com/search?q=Eismaschine+Test+Erfahrungen&lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&ei=v6bUabC9CqyFxc8P2JjPkQ0&start=80&sa=N&sstk=Af77f_fS1VTl_awcifTgAvkLgZOsIwfET2NZnGpxytJ0s9I2G7oGAzZf4w2vZODMLbUWtXqCEqvPNhDL42Ppx9-626OKDuabvS6mxg&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ8tMDegQIJRAS",
+      "10": "https://www.google.com/search?q=Eismaschine+Test+Erfahrungen&lr=lang_de&sca_esv=44faa4fe2c212e0b&gl=de&hl=de&tbs=lr:lang_1de&ei=v6bUabC9CqyFxc8P2JjPkQ0&start=90&sa=N&sstk=Af77f_fS1VTl_awcifTgAvkLgZOsIwfET2NZnGpxytJ0s9I2G7oGAzZf4w2vZODMLbUWtXqCEqvPNhDL42Ppx9-626OKDuabvS6mxg&ved=2ahUKEwjwmOrqkNuTAxWsQvEDHVjMM9IQ8tMDegQIJRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+Test+Erfahrungen&start=10&tbs=lr%3Alang_1de",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+Test+Erfahrungen&start=10&tbs=lr%3Alang_1de",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+Test+Erfahrungen&start=10&tbs=lr%3Alang_1de",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+Test+Erfahrungen&start=20&tbs=lr%3Alang_1de",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+Test+Erfahrungen&start=30&tbs=lr%3Alang_1de",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+Test+Erfahrungen&start=40&tbs=lr%3Alang_1de",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+Test+Erfahrungen&start=50&tbs=lr%3Alang_1de",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+Test+Erfahrungen&start=60&tbs=lr%3Alang_1de",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+Test+Erfahrungen&start=70&tbs=lr%3Alang_1de",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+Test+Erfahrungen&start=80&tbs=lr%3Alang_1de",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=de&google_domain=google.com&hl=de&lr=lang_de&q=Eismaschine+Test+Erfahrungen&start=90&tbs=lr%3Alang_1de"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+[package]
+name = "voc-collector"
+version = "1.5.0"
+description = "VOC Collector — 글로벌 VOC 수집 시스템"
+authors = []
+license = ""
+repository = ""
+default-run = "voc-collector"
+edition = "2021"
+rust-version = "1.77.2"
+
+[lib]
+name = "voc_collector_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[[bin]]
+name = "voc-collector"
+path = "src/main.rs"
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+tauri-plugin-shell = "2"
+tauri-plugin-updater = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[features]
+default = ["custom-protocol"]
+custom-protocol = ["tauri/custom-protocol"]

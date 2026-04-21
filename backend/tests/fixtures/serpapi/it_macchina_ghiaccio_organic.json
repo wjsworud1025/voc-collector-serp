@@ -1,0 +1,628 @@
+{
+  "search_metadata": {
+    "id": "69d4a6eff73581b3b9b2a904",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BsjXwYEeErYUpHjxbBdlig/69d4a6eff73581b3b9b2a904.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/BsjXwYEeErYUpHjxbBdlig/69d4a6eff73581b3b9b2a904.json_with_pixel_position",
+    "created_at": "2026-04-07 06:40:47 UTC",
+    "processed_at": "2026-04-07 06:40:47 UTC",
+    "google_url": "https://www.google.com/search?q=macchina+del+ghiaccio+portatile+opinioni&oq=macchina+del+ghiaccio+portatile+opinioni&hl=it&gl=it&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/BsjXwYEeErYUpHjxbBdlig/69d4a6eff73581b3b9b2a904.html",
+    "total_time_taken": 3.56
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "macchina del ghiaccio portatile opinioni",
+    "google_domain": "google.com",
+    "hl": "it",
+    "gl": "it",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "macchina del ghiaccio portatile opinioni",
+    "total_results": 112,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Ice Maker Macchina del ghiaccio Vevor test prova ...",
+      "link": "https://www.youtube.com/watch?v=OP9SSWWUFI0",
+      "thumbnail": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/lkQDZ_DnfJz50ZDBXqfbboe1sjZUtpyrxrJJlJkiwhg.jpeg",
+      "channel": "LE RECENSIONI DEL BARBA",
+      "platform": "YouTube"
+    },
+    {
+      "position": 2,
+      "title": "Macchina del ghiaccio, cosa devi sapere prima di utilizzarla",
+      "link": "https://www.youtube.com/watch?v=wHWF77CAN0Y",
+      "thumbnail": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/KAM8WJQf4UJ5WR7Bu3mBL7gVjeR46lcix-GFKpEWFyo.jpeg",
+      "channel": "Beper Official",
+      "platform": "YouTube"
+    },
+    {
+      "position": 3,
+      "title": "RECENSIONE: Cubetti pronti in un attimo con questa ...",
+      "link": "https://www.youtube.com/watch?v=ajr8IYMvWPc",
+      "thumbnail": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/l1aJjP4xR-_NRHY5VBdgtw5zTYqwuAz979_dI45Qd5M.jpeg",
+      "channel": "MSF Recensioni",
+      "platform": "YouTube"
+    }
+  ],
+  "immersive_products": [
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8uyzg5CUHq1UCUzH39y4zifp4ziElR0MMWL-w597VQMhzknJhKetaBARzIYPEHgqY_vvcpJ1YRFdYpiisd8BXeDoE1vIgzRBeV8VaadBSUS5-p-8FXTPo",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSwT3pQ3tMcgr_r2loKuTeY46_uTlRwV6mgCcXLBElIAjVZQ2WaDsU9aXhD1H_0BLVlRA66q_Qaqc8FtpzkCekcxQ",
+      "source": "Amazon.it - Seller",
+      "title": "H.Koenig Macchina per il ghiaccio",
+      "rating": 4.2,
+      "reviews": 146,
+      "price": "119,00 €",
+      "extracted_price": 119.0,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcwMDIzOTEwMjU5MzYwODQ3MzYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDg4MDI4ODYzNDM5MzgzMzIxMSIsImltYWdlRG9jaWQiOiI4MDk4MDk2NTUxNDc5MzY4NzY3IiwicmRzIjoiQ1NTX1BDXzU3MjI4MzE0OTcyMjI4MzI1MTd8UENfNTcyMjgzMTQ5NzIyMjgzMjUxN3xQUk9EX0NTU19QQ181NzIyODMxNDk3MjIyODMyNTE3fFBST0RfUENfNTcyMjgzMTQ5NzIyMjgzMjUxNyIsInF1ZXJ5IjoibWFjY2hpbmErZGVsK2doaWFjY2lvK3BvcnRhdGlsZStvcGluaW9uaSIsImdwY2lkIjoiNTcyMjgzMTQ5NzIyMjgzMjUxNyIsIm1pZCI6IjU3NjQ2MjcyODgzNzczNzcwNyIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJpdCIsImhsIjoiaXQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcwMDIzOTEwMjU5MzYwODQ3MzYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDg4MDI4ODYzNDM5MzgzMzIxMSIsImltYWdlRG9jaWQiOiI4MDk4MDk2NTUxNDc5MzY4NzY3IiwicmRzIjoiQ1NTX1BDXzU3MjI4MzE0OTcyMjI4MzI1MTd8UENfNTcyMjgzMTQ5NzIyMjgzMjUxN3xQUk9EX0NTU19QQ181NzIyODMxNDk3MjIyODMyNTE3fFBST0RfUENfNTcyMjgzMTQ5NzIyMjgzMjUxNyIsInF1ZXJ5IjoibWFjY2hpbmErZGVsK2doaWFjY2lvK3BvcnRhdGlsZStvcGluaW9uaSIsImdwY2lkIjoiNTcyMjgzMTQ5NzIyMjgzMjUxNyIsIm1pZCI6IjU3NjQ2MjcyODgzNzczNzcwNyIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJpdCIsImhsIjoiaXQifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQe7tqUkkDYRid-wdgP5HXBzMd7UbkoozqAg_9Z7H4zciMsHp4jnYQIng6zLAq-Mk_cx801px6eRIWzNlPPGl0jEE6qHEBsxdHP_OtIo0s",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTQqh1P0VPf2a-1-vZs3MgOV3xfAl-VTAt2Tfx0tR_lKO5COMSlScRgO0bwoH8s2rZmoW3yEhCYQll5BemjU0hxg4cSiMutOiPgcw",
+      "source": "Leroy Merlin",
+      "title": "Macchina del Ghiaccio Portatile 12kg/24h Macchina del Ghiaccio Cubetti con Cucchiaio Porzionatore e Cesto",
+      "rating": 4.6,
+      "reviews": 12,
+      "price": "82,99 €",
+      "extracted_price": 82.99,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgwNTQ4NzgzNjMxNTMxNzY4MzAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5MDE4MzM4NzI3OTM2Nzk4NTY1IiwiaW1hZ2VEb2NpZCI6IjYwMDM5Njc0NjYxOTY0ODc3NDIiLCJyZHMiOiJDU1NfUENfNzYxMjgwNjMyMTE0ODc4NzkzMnxQQ183NjEyODA2MzIxMTQ4Nzg3OTMyfFBST0RfQ1NTX1BDXzc2MTI4MDYzMjExNDg3ODc5MzJ8UFJPRF9QQ183NjEyODA2MzIxMTQ4Nzg3OTMyIiwicXVlcnkiOiJtYWNjaGluYStkZWwrZ2hpYWNjaW8rcG9ydGF0aWxlK29waW5pb25pIiwiZ3BjaWQiOiI3NjEyODA2MzIxMTQ4Nzg3OTMyIiwibWlkIjoiNTc2NDYyNzk2Njg5MDg4NDc2IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6Iml0IiwiaGwiOiJpdCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgwNTQ4NzgzNjMxNTMxNzY4MzAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5MDE4MzM4NzI3OTM2Nzk4NTY1IiwiaW1hZ2VEb2NpZCI6IjYwMDM5Njc0NjYxOTY0ODc3NDIiLCJyZHMiOiJDU1NfUENfNzYxMjgwNjMyMTE0ODc4NzkzMnxQQ183NjEyODA2MzIxMTQ4Nzg3OTMyfFBST0RfQ1NTX1BDXzc2MTI4MDYzMjExNDg3ODc5MzJ8UFJPRF9QQ183NjEyODA2MzIxMTQ4Nzg3OTMyIiwicXVlcnkiOiJtYWNjaGluYStkZWwrZ2hpYWNjaW8rcG9ydGF0aWxlK29waW5pb25pIiwiZ3BjaWQiOiI3NjEyODA2MzIxMTQ4Nzg3OTMyIiwibWlkIjoiNTc2NDYyNzk2Njg5MDg4NDc2IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6Iml0IiwiaGwiOiJpdCJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRIEBc59XcyTRAMeqUK_QVsXDfomd-Nh2n27MvulmwapdFE1Nmg6bWd4cixY8IKjYFQ5PLNh36F7WsXgO3sNyjJ48STT3fsB7OICJ9T34ShkV1vj1aG20FRYw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ1AZYyWi18j2qDW21ceXwxV6aq-0a7xxd-bO4Q8IZzvcy7yIUKAi_3fQN4nSF4qkRFYhz3uDL5bL9iCMUcKfInLna2tDrVCKTrKg",
+      "source": "MediaWorld",
+      "title": "Fabbricatore di ghiaccio Cecotec Chillin Ice 1200 Go 120W Capacità giornaliera 12 kg",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "90,99 €",
+      "extracted_price": 90.99,
+      "original_price": "100 €",
+      "extracted_original_price": 100,
+      "extensions": [
+        "IN PROMOZIONE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTQ1NTYxNTU1OTMxNzcxMDkxOCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU2MjU5OTI5NjA3Mzc5Mjg4NzAiLCJpbWFnZURvY2lkIjoiNzQwMDMyNjMxMzgzNDM2MDc0OCIsInJkcyI6IkNTU19QQ18xNDIxNjczMzY2ODMwOTg4NzN8UENfMTQyMTY3MzM2NjgzMDk4ODczfFBST0RfQ1NTX1BDXzE0MjE2NzMzNjY4MzA5ODg3M3xQUk9EX1BDXzE0MjE2NzMzNjY4MzA5ODg3MyIsInF1ZXJ5IjoibWFjY2hpbmErZGVsK2doaWFjY2lvK3BvcnRhdGlsZStvcGluaW9uaSIsImdwY2lkIjoiMTQyMTY3MzM2NjgzMDk4ODczIiwibWlkIjoiNTc2NDYyNzk2NjUxMDYyOTU4IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6Iml0IiwiaGwiOiJpdCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTQ1NTYxNTU1OTMxNzcxMDkxOCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU2MjU5OTI5NjA3Mzc5Mjg4NzAiLCJpbWFnZURvY2lkIjoiNzQwMDMyNjMxMzgzNDM2MDc0OCIsInJkcyI6IkNTU19QQ18xNDIxNjczMzY2ODMwOTg4NzN8UENfMTQyMTY3MzM2NjgzMDk4ODczfFBST0RfQ1NTX1BDXzE0MjE2NzMzNjY4MzA5ODg3M3xQUk9EX1BDXzE0MjE2NzMzNjY4MzA5ODg3MyIsInF1ZXJ5IjoibWFjY2hpbmErZGVsK2doaWFjY2lvK3BvcnRhdGlsZStvcGluaW9uaSIsImdwY2lkIjoiMTQyMTY3MzM2NjgzMDk4ODczIiwibWlkIjoiNTc2NDYyNzk2NjUxMDYyOTU4IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6Iml0IiwiaGwiOiJpdCJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR2hRXKi_8VtJP0QoKeTbtfKpkyxUqCkaIxG8fiQmBJo4WYazmTN5xUUTLSJT6O41BXdU35fiuBI0Uj1vQcFOB7xe6Ffc7rngXwZ3yVA0y1lW0nXm6GACME",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSwT3pQ3tMcgr_r2loKuTeY46_uTlRwV6mgCcXLBElIAjVZQ2WaDsU9aXhD1H_0BLVlRA66q_Qaqc8FtpzkCekcxQ",
+      "source": "Amazon.it - Seller",
+      "title": "Costway Macchina del Ghiaccio portatile con cucchiaio porzionatore e cesto",
+      "price": "82,99 €",
+      "extracted_price": 82.99,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDgwOTEzMzQxMjQ2Mjk3NTUxOSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMzE2MjA5Nzk2OTM4ODAxODMyIiwiaW1hZ2VEb2NpZCI6Ijg2OTk1OTA4ODc2OTM1MzI5MzAiLCJyZHMiOiIiLCJxdWVyeSI6Im1hY2NoaW5hK2RlbCtnaGlhY2Npbytwb3J0YXRpbGUrb3BpbmlvbmkiLCJncGNpZCI6IjM2Njc4OTk0OTE5ODU1NDc2MjAiLCJtaWQiOiI1NzY0NjI1NDI2NTU0NTQ4ODUiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDgwOTEzMzQxMjQ2Mjk3NTUxOSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMzE2MjA5Nzk2OTM4ODAxODMyIiwiaW1hZ2VEb2NpZCI6Ijg2OTk1OTA4ODc2OTM1MzI5MzAiLCJyZHMiOiIiLCJxdWVyeSI6Im1hY2NoaW5hK2RlbCtnaGlhY2Npbytwb3J0YXRpbGUrb3BpbmlvbmkiLCJncGNpZCI6IjM2Njc4OTk0OTE5ODU1NDc2MjAiLCJtaWQiOiI1NzY0NjI1NDI2NTU0NTQ4ODUiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-_twG8Eeoo343G9svqhBqOVjKgG5JnfmrB_OgGdyCQiz3A5i4q2bsb-RUV6_vAbdnq5mzBwRObljpnuaAJadOQh0I30gVe28jrJCAmSYSuBd4SB4Wby1WHw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSwT3pQ3tMcgr_r2loKuTeY46_uTlRwV6mgCcXLBElIAjVZQ2WaDsU9aXhD1H_0BLVlRA66q_Qaqc8FtpzkCekcxQ",
+      "source": "Amazon.it - Seller",
+      "title": "Macchina Ghiaccio 12kg/24h Autopulente Macchina del Ghiaccio Casa 1,5L",
+      "price": "80,74 €",
+      "extracted_price": 80.74,
+      "original_price": "130 €",
+      "extracted_original_price": 130,
+      "extensions": [
+        "IN PROMOZIONE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MjY0MjM2NTI3MzY4MzQxNjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3NjYyNTIxMjM5ODg5NDIwNTYyIiwiaW1hZ2VEb2NpZCI6Ijc5ODg3MDM0ODIzNzUxODMyMTUiLCJyZHMiOiIiLCJxdWVyeSI6Im1hY2NoaW5hK2RlbCtnaGlhY2Npbytwb3J0YXRpbGUrb3BpbmlvbmkiLCJncGNpZCI6IjIyMTQ1MzIwNzQ5NDgxMzIwNjciLCJtaWQiOiI1NzY0NjI4MzMxMTUyMjUyNjYiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MjY0MjM2NTI3MzY4MzQxNjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3NjYyNTIxMjM5ODg5NDIwNTYyIiwiaW1hZ2VEb2NpZCI6Ijc5ODg3MDM0ODIzNzUxODMyMTUiLCJyZHMiOiIiLCJxdWVyeSI6Im1hY2NoaW5hK2RlbCtnaGlhY2Npbytwb3J0YXRpbGUrb3BpbmlvbmkiLCJncGNpZCI6IjIyMTQ1MzIwNzQ5NDgxMzIwNjciLCJtaWQiOiI1NzY0NjI4MzMxMTUyMjUyNjYiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSrRUzpT-EiUy2FR2l-eYc4rUFvXMRuMmCiGuY4Thn3s4YTgFlp1qY_r1SHu2EhrlNsy8qOFUzqp6M3hqpLZMbT8MfFAWDl2EsdbDJv-Bztb_6eWOXCbB_76A",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTjpCzH27Kwy2S65Owyy6l8F1BX4oBx1BThvdx1NLTY3JtQ5hq7FeHzdMo5wEDECqR5r84jPHE_2eqYIaKn46Yt8Q4bZRJz0A",
+      "source": "Klarna",
+      "title": "Fabbricatore di ghiaccio da banco,capacità VEVOR 11,8 kg/24h,portatile,autopulente,con paletta e cestello,per casa,ristorante,bar",
+      "rating": 4.5,
+      "reviews": 54,
+      "price": "83,90 €",
+      "extracted_price": 83.9,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDkyMDA1MDk4NjM5MDEzMjUyMCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk0MzY1NDQzMTMzNzA2MjQzMjYiLCJpbWFnZURvY2lkIjoiMTM1OTQ3NzAyOTcyOTk1MTgzMDUiLCJyZHMiOiJDU1NfUENfMjA5NDUyNDgwODYzODIwNzkyNHxQQ18yMDk0NTI0ODA4NjM4MjA3OTI0fFBST0RfQ1NTX1BDXzIwOTQ1MjQ4MDg2MzgyMDc5MjR8UFJPRF9QQ18yMDk0NTI0ODA4NjM4MjA3OTI0IiwicXVlcnkiOiJtYWNjaGluYStkZWwrZ2hpYWNjaW8rcG9ydGF0aWxlK29waW5pb25pIiwiZ3BjaWQiOiIyMDk0NTI0ODA4NjM4MjA3OTI0IiwibWlkIjoiNTc2NDYyODc4NDMzMTA3ODQ1IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6Iml0IiwiaGwiOiJpdCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDkyMDA1MDk4NjM5MDEzMjUyMCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk0MzY1NDQzMTMzNzA2MjQzMjYiLCJpbWFnZURvY2lkIjoiMTM1OTQ3NzAyOTcyOTk1MTgzMDUiLCJyZHMiOiJDU1NfUENfMjA5NDUyNDgwODYzODIwNzkyNHxQQ18yMDk0NTI0ODA4NjM4MjA3OTI0fFBST0RfQ1NTX1BDXzIwOTQ1MjQ4MDg2MzgyMDc5MjR8UFJPRF9QQ18yMDk0NTI0ODA4NjM4MjA3OTI0IiwicXVlcnkiOiJtYWNjaGluYStkZWwrZ2hpYWNjaW8rcG9ydGF0aWxlK29waW5pb25pIiwiZ3BjaWQiOiIyMDk0NTI0ODA4NjM4MjA3OTI0IiwibWlkIjoiNTc2NDYyODc4NDMzMTA3ODQ1IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6Iml0IiwiaGwiOiJpdCJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQTZ4R_eOM0frnXiIoY6zpGu6EEjA6py8Kn_RPOoWyh5m8C4zh8c4mDbId2XezdnN1lFsm9mUfKC7x0AFVGdRLShhfT8DdQKIPXrU0SXR0hWDX7upgBz3-",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTQqh1P0VPf2a-1-vZs3MgOV3xfAl-VTAt2Tfx0tR_lKO5COMSlScRgO0bwoH8s2rZmoW3yEhCYQll5BemjU0hxg4cSiMutOiPgcw",
+      "source": "Leroy Merlin",
+      "title": "Macchina del ghiaccio H.Koenig KUB12",
+      "price": "79,90 €",
+      "extracted_price": 79.9,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY0NjM5MDI4MTc4NjQzNTYwODYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODI2OTI2Mzg3MzMyMDIxNDQwMCIsImltYWdlRG9jaWQiOiI4OTk3NjgxNzc4MDA5NTA1MjI0IiwicmRzIjoiIiwicXVlcnkiOiJtYWNjaGluYStkZWwrZ2hpYWNjaW8rcG9ydGF0aWxlK29waW5pb25pIiwiZ3BjaWQiOiI2ODk0NjA4OTI3NjQyMjQwNjc3IiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6Iml0IiwiaGwiOiJpdCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY0NjM5MDI4MTc4NjQzNTYwODYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODI2OTI2Mzg3MzMyMDIxNDQwMCIsImltYWdlRG9jaWQiOiI4OTk3NjgxNzc4MDA5NTA1MjI0IiwicmRzIjoiIiwicXVlcnkiOiJtYWNjaGluYStkZWwrZ2hpYWNjaW8rcG9ydGF0aWxlK29waW5pb25pIiwiZ3BjaWQiOiI2ODk0NjA4OTI3NjQyMjQwNjc3IiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6Iml0IiwiaGwiOiJpdCJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRVol6Wl1BtsP7C8OlYCSSI0ifd1KDQkHwPcLQ56ygckjUwEPMpirEPJi6hwtFjaKlkQpbRPEvgsEtMhK_qvB0YMnfsXwAwv2tj78MfQN6dTXFePBWNxMdx",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSwT3pQ3tMcgr_r2loKuTeY46_uTlRwV6mgCcXLBElIAjVZQ2WaDsU9aXhD1H_0BLVlRA66q_Qaqc8FtpzkCekcxQ",
+      "source": "Amazon.it - Seller",
+      "title": "Mini fabbricatore di ghiaccio, portatile da 12 V, 8 cubi in 10-15 minuti, macchina per ghiaccio compatta per casa, ufficio, campeggio",
+      "price": "38,99 €",
+      "extracted_price": 38.99,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiNTQ4OTY5NzI5MTQ5Mzk3MDE1NCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU0ODk2OTcyOTE0OTM5NzAxNTQiLCJpbWFnZURvY2lkIjoiNDcyOTM3NjE1NzQ2MTM3MzY3NCIsInJkcyI6IiIsInF1ZXJ5IjoibWFjY2hpbmErZGVsK2doaWFjY2lvK3BvcnRhdGlsZStvcGluaW9uaSIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6Iml0IiwiaGwiOiJpdCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiNTQ4OTY5NzI5MTQ5Mzk3MDE1NCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU0ODk2OTcyOTE0OTM5NzAxNTQiLCJpbWFnZURvY2lkIjoiNDcyOTM3NjE1NzQ2MTM3MzY3NCIsInJkcyI6IiIsInF1ZXJ5IjoibWFjY2hpbmErZGVsK2doaWFjY2lvK3BvcnRhdGlsZStvcGluaW9uaSIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6Iml0IiwiaGwiOiJpdCJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQTKNWxeGNXa85ww9lRfmIpF1e0qRHjZ9rAMmpdvT-O-VsNaJDvwXQIqci18SUPkxISXqTb3axX63VF8VSLcxWvMxAmRufb4MGqW4RoVsk-829guTIpkca3mA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSCxX8RmFhQQCYHL1RE6W29s04HwUw4HeNa4j5iT48IDXSSmI6h3-JfnJPNZ2D4SJS8VQa1IEYglPv5VgUms8RLTVjoI6c33PDcNlY",
+      "source": "Trovaprezzi",
+      "title": "G3 Ferrari ARTIKO Fabbricatore di ghiaccio G20139",
+      "rating": 5.0,
+      "reviews": 7,
+      "price": "99,49 €",
+      "extracted_price": 99.49,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTY2MjE3NzcwNTIzNDcxNzIxNCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYzNDUwMTg2MjA5NDA2MDkxNjgiLCJpbWFnZURvY2lkIjoiODE0OTI5NjczMDI1NzYxODkyOCIsInJkcyI6IkNTU19QQ18xMTQzOTY0NDY1MzY4MDg5NDk5NnxQQ18xMTQzOTY0NDY1MzY4MDg5NDk5NnxQUk9EX0NTU19QQ18xMTQzOTY0NDY1MzY4MDg5NDk5NnxQUk9EX1BDXzExNDM5NjQ0NjUzNjgwODk0OTk2IiwicXVlcnkiOiJtYWNjaGluYStkZWwrZ2hpYWNjaW8rcG9ydGF0aWxlK29waW5pb25pIiwiZ3BjaWQiOiIxMTQzOTY0NDY1MzY4MDg5NDk5NiIsIm1pZCI6IjU3NjQ2MjczNzI3NDkzODk5MCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJpdCIsImhsIjoiaXQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTY2MjE3NzcwNTIzNDcxNzIxNCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYzNDUwMTg2MjA5NDA2MDkxNjgiLCJpbWFnZURvY2lkIjoiODE0OTI5NjczMDI1NzYxODkyOCIsInJkcyI6IkNTU19QQ18xMTQzOTY0NDY1MzY4MDg5NDk5NnxQQ18xMTQzOTY0NDY1MzY4MDg5NDk5NnxQUk9EX0NTU19QQ18xMTQzOTY0NDY1MzY4MDg5NDk5NnxQUk9EX1BDXzExNDM5NjQ0NjUzNjgwODk0OTk2IiwicXVlcnkiOiJtYWNjaGluYStkZWwrZ2hpYWNjaW8rcG9ydGF0aWxlK29waW5pb25pIiwiZ3BjaWQiOiIxMTQzOTY0NDY1MzY4MDg5NDk5NiIsIm1pZCI6IjU3NjQ2MjczNzI3NDkzODk5MCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJpdCIsImhsIjoiaXQifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRHbd6R_bUrKb5rxaX4voziyI5Hze5HpOPj56WwPDFI2sQLiqZ9FzTVU0V-0wf5WN674StaVMmItnRhQeUxmQYKivUMz_H9EJS-QNUTbSxlnUoaDZ8H2qtD",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQvV6T7wcfd2CMDmSCbU53xKG-Om5Rb_CabdkcsRN-sOVnvZO8ij0-ALHIt3aqN_KSrjzBT1zYD1Zh5shNAIe2OIIgS-6hX",
+      "source": "Pricsy.it",
+      "title": "Improve IMPMG18ZB Macchina del ghiaccio 10kg 150W 9 cubetti di ghiaccio in 9 minuti",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "99,00 €",
+      "extracted_price": 99.0,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzk2MzU2MDA3Njg3NzQwNjM4NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyNDE1MDg1MDM5MTkwNjAzNzUiLCJpbWFnZURvY2lkIjoiNjI3MzgwMjcyNDcxNTQ3MTA2OCIsInJkcyI6IkNTU19QQ18xMjQ3OTQ2ODQ4MTk1ODE3OTYwNXxQQ18xMjQ3OTQ2ODQ4MTk1ODE3OTYwNXxQUk9EX0NTU19QQ18xMjQ3OTQ2ODQ4MTk1ODE3OTYwNXxQUk9EX1BDXzEyNDc5NDY4NDgxOTU4MTc5NjA1IiwicXVlcnkiOiJtYWNjaGluYStkZWwrZ2hpYWNjaW8rcG9ydGF0aWxlK29waW5pb25pIiwiZ3BjaWQiOiIxMjQ3OTQ2ODQ4MTk1ODE3OTYwNSIsIm1pZCI6IjU3NjQ2MjY2MDc4ODQ4MDU1NCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJpdCIsImhsIjoiaXQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzk2MzU2MDA3Njg3NzQwNjM4NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyNDE1MDg1MDM5MTkwNjAzNzUiLCJpbWFnZURvY2lkIjoiNjI3MzgwMjcyNDcxNTQ3MTA2OCIsInJkcyI6IkNTU19QQ18xMjQ3OTQ2ODQ4MTk1ODE3OTYwNXxQQ18xMjQ3OTQ2ODQ4MTk1ODE3OTYwNXxQUk9EX0NTU19QQ18xMjQ3OTQ2ODQ4MTk1ODE3OTYwNXxQUk9EX1BDXzEyNDc5NDY4NDgxOTU4MTc5NjA1IiwicXVlcnkiOiJtYWNjaGluYStkZWwrZ2hpYWNjaW8rcG9ydGF0aWxlK29waW5pb25pIiwiZ3BjaWQiOiIxMjQ3OTQ2ODQ4MTk1ODE3OTYwNSIsIm1pZCI6IjU3NjQ2MjY2MDc4ODQ4MDU1NCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJpdCIsImhsIjoiaXQifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQm2lRYOlDoWHvjF4kvnryPVNQUw9w-50VUs2srctW5hmakYbOs1tLQfHeykTDk1Tw-SHINVJBREHt6nTy_Z5J4ES52TMN_L-ulHrb41WPigUwGjG1-ngb8mg",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQEOrTtkC-ayI6W4Owlrh3beEu6pkNb2cyP60PDFcqeouSUHMST8Iws2rlMjOLSrRE9BEQ_82b2Uuj4MKFJosIc",
+      "source": "FAVI.it",
+      "title": "HOMCOM Macchina del Ghiaccio da 9 Cubetti in 6-12 Minuti in PP e Rame con Cestello e Paletta",
+      "price": "76,09 €",
+      "extracted_price": 76.09,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA0NDcyNDc0NTc2OTExMjI3ODMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjYzMzM1NTUyNzk3NDg0MDcyMiIsImltYWdlRG9jaWQiOiIxMjkzNDc0MzEwMTEzNzEzMjU4NyIsInJkcyI6IiIsInF1ZXJ5IjoibWFjY2hpbmErZGVsK2doaWFjY2lvK3BvcnRhdGlsZStvcGluaW9uaSIsImdwY2lkIjoiMTE4MjI3NTk0OTI5Mjk5MjQ2MzciLCJtaWQiOiI1NzY0NjI4NDE1NjczNjk5MDYiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA0NDcyNDc0NTc2OTExMjI3ODMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjYzMzM1NTUyNzk3NDg0MDcyMiIsImltYWdlRG9jaWQiOiIxMjkzNDc0MzEwMTEzNzEzMjU4NyIsInJkcyI6IiIsInF1ZXJ5IjoibWFjY2hpbmErZGVsK2doaWFjY2lvK3BvcnRhdGlsZStvcGluaW9uaSIsImdwY2lkIjoiMTE4MjI3NTk0OTI5Mjk5MjQ2MzciLCJtaWQiOiI1NzY0NjI4NDE1NjczNjk5MDYiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9EdUrNSHbm6WD1i80u4WebXWSBmlcKsL8fwYWiObIHKGufoEFZ2kMcgNvo2KjiYbpSUZ56Y_jkXipCNNJ8Ef9Q6sNcm20dgSlBv1LNs7fLEV3BK9Mji5xcg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSwT3pQ3tMcgr_r2loKuTeY46_uTlRwV6mgCcXLBElIAjVZQ2WaDsU9aXhD1H_0BLVlRA66q_Qaqc8FtpzkCekcxQ",
+      "source": "Amazon.it - Seller",
+      "title": "Macchina per il ghiaccio da banco, rilascia tutti i cubetti di ghiaccio in un secondo, vassoi per 48 cubetti di ghiaccio con manico, pinze e cestino,",
+      "price": "22,59 €",
+      "extracted_price": 22.59,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiMTA3MzI2Mzk3MTU1NDA5NjAwODIiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDczMjYzOTcxNTU0MDk2MDA4MiIsImltYWdlRG9jaWQiOiIxNTExMTgwNDg4MDMwNDg5MDg4IiwicmRzIjoiIiwicXVlcnkiOiJtYWNjaGluYStkZWwrZ2hpYWNjaW8rcG9ydGF0aWxlK29waW5pb25pIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiMTA3MzI2Mzk3MTU1NDA5NjAwODIiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDczMjYzOTcxNTU0MDk2MDA4MiIsImltYWdlRG9jaWQiOiIxNTExMTgwNDg4MDMwNDg5MDg4IiwicmRzIjoiIiwicXVlcnkiOiJtYWNjaGluYStkZWwrZ2hpYWNjaW8rcG9ydGF0aWxlK29waW5pb25pIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRoxAITc9YrklV_k3nFwSl3xiwC8Z090FNDlQxsJcftM8rpCcqY24lpUoVPbxwP6L3iCOnA7N-2IfR92IcqVT1sbTHB1ZX7LvqRyANPy0z4VqRl2fpMZjXjsA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTQqh1P0VPf2a-1-vZs3MgOV3xfAl-VTAt2Tfx0tR_lKO5COMSlScRgO0bwoH8s2rZmoW3yEhCYQll5BemjU0hxg4cSiMutOiPgcw",
+      "source": "Leroy Merlin",
+      "title": "Macchina per ghiaccio Arctic 1,2 l",
+      "rating": 4.4,
+      "reviews": 16,
+      "price": "89,79 €",
+      "extracted_price": 89.79,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIyMjM5MDAxNDg0MzM0NjExODciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDk2MTE0NDYyMzczOTQxMzI0OCIsImltYWdlRG9jaWQiOiIxMjE1ODcwMTk4MDc2MDQ0Njc0NCIsInJkcyI6IkNTU19QQ18yMTMwMjk2MTc5NTA0Mjg4NDg0fFBDXzIxMzAyOTYxNzk1MDQyODg0ODR8UFJPRF9DU1NfUENfMjEzMDI5NjE3OTUwNDI4ODQ4NHxQUk9EX1BDXzIxMzAyOTYxNzk1MDQyODg0ODQiLCJxdWVyeSI6Im1hY2NoaW5hK2RlbCtnaGlhY2Npbytwb3J0YXRpbGUrb3BpbmlvbmkiLCJncGNpZCI6IjIxMzAyOTYxNzk1MDQyODg0ODQiLCJtaWQiOiI1NzY0NjI5MDAyNTMzMTU5MTIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIyMjM5MDAxNDg0MzM0NjExODciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDk2MTE0NDYyMzczOTQxMzI0OCIsImltYWdlRG9jaWQiOiIxMjE1ODcwMTk4MDc2MDQ0Njc0NCIsInJkcyI6IkNTU19QQ18yMTMwMjk2MTc5NTA0Mjg4NDg0fFBDXzIxMzAyOTYxNzk1MDQyODg0ODR8UFJPRF9DU1NfUENfMjEzMDI5NjE3OTUwNDI4ODQ4NHxQUk9EX1BDXzIxMzAyOTYxNzk1MDQyODg0ODQiLCJxdWVyeSI6Im1hY2NoaW5hK2RlbCtnaGlhY2Npbytwb3J0YXRpbGUrb3BpbmlvbmkiLCJncGNpZCI6IjIxMzAyOTYxNzk1MDQyODg0ODQiLCJtaWQiOiI1NzY0NjI5MDAyNTMzMTU5MTIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSRVBAa9zG9RFIot5-fmzdoNTRogfMIdkMMLv5QfZpBuBKWP7mZjyLoWu7j9gvczcsxvUWBUorfgXUc2EW_YUFzoNTci4daJjYVwILpcyTMfA5IhDEAuK0nUQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSnTUPMRnsF4HJbUXr22-MYfvKe9-gb-1rxCgzGhwhpRQ8GHH8H7URcUkfrvCR6TDzx8Tk_VlRmnePJi8wtzy0uWMJNdOqh",
+      "source": "idealo.it",
+      "title": "Macchina per cubetti di ghiaccio",
+      "rating": 4.6,
+      "reviews": 17,
+      "price": "206,53 €",
+      "extracted_price": 206.53,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTcxMjA5OTY2MDIzMTQ1NTA3MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYwNDg5ODQ5NDE1OTYyMTM5NDEiLCJpbWFnZURvY2lkIjoiMTYzMzM1MzE3MzE3NDI1OTM4MyIsInJkcyI6IkNTU19QQ181NTQyNzYxMTEwNTI4MzYwODB8UENfNTU0Mjc2MTExMDUyODM2MDgwfFBST0RfQ1NTX1BDXzU1NDI3NjExMTA1MjgzNjA4MHxQUk9EX1BDXzU1NDI3NjExMTA1MjgzNjA4MCIsInF1ZXJ5IjoibWFjY2hpbmErZGVsK2doaWFjY2lvK3BvcnRhdGlsZStvcGluaW9uaSIsImdwY2lkIjoiNTU0Mjc2MTExMDUyODM2MDgwIiwibWlkIjoiNTc2NDYyNzI3OTgzMDU5MTY2IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6Iml0IiwiaGwiOiJpdCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTcxMjA5OTY2MDIzMTQ1NTA3MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYwNDg5ODQ5NDE1OTYyMTM5NDEiLCJpbWFnZURvY2lkIjoiMTYzMzM1MzE3MzE3NDI1OTM4MyIsInJkcyI6IkNTU19QQ181NTQyNzYxMTEwNTI4MzYwODB8UENfNTU0Mjc2MTExMDUyODM2MDgwfFBST0RfQ1NTX1BDXzU1NDI3NjExMTA1MjgzNjA4MHxQUk9EX1BDXzU1NDI3NjExMTA1MjgzNjA4MCIsInF1ZXJ5IjoibWFjY2hpbmErZGVsK2doaWFjY2lvK3BvcnRhdGlsZStvcGluaW9uaSIsImdwY2lkIjoiNTU0Mjc2MTExMDUyODM2MDgwIiwibWlkIjoiNTc2NDYyNzI3OTgzMDU5MTY2IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6Iml0IiwiaGwiOiJpdCJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRghZMuHlQQcBBYdtjZG-nxsufYUl6po_wXAUCSqC0T5hHaV2mCzViij7w7VMq-CK_FT4D8aJbPSjjam6SpaQhm2blyXOz05bq7cOYC6KAjypAdtPuHYJxC7g",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcStaVXvuXeFYOhMdG4HTKApyzEA-c0btiiLEQO-nGf7XkO5lbTYiPBFKUjg764pHORCuwuV1jI6RP09LXgW2Y25qZ7jMcJ3kPu9",
+      "source": "klarstein.it",
+      "title": "Klarstein Eiszeit Crush macchina del ghiaccio 2 dimensioni ghiaccio tritato",
+      "rating": 4.1,
+      "reviews": 70,
+      "price": "395,99 €",
+      "extracted_price": 395.99,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjU0NjAwNzAzNDUwMzI0OTI1NiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NTEyMjk0MDgyMDMyMTEyOTg2IiwiaW1hZ2VEb2NpZCI6IjI2MDg0MTU4MjkzNjM4OTAwMTUiLCJyZHMiOiJDU1NfUENfMTM2ODI5Nzk1ODAxMzAyODIwMDB8UENfMTM2ODI5Nzk1ODAxMzAyODIwMDB8UFJPRF9DU1NfUENfMTM2ODI5Nzk1ODAxMzAyODIwMDB8UFJPRF9QQ18xMzY4Mjk3OTU4MDEzMDI4MjAwMCIsInF1ZXJ5IjoibWFjY2hpbmErZGVsK2doaWFjY2lvK3BvcnRhdGlsZStvcGluaW9uaSIsImdwY2lkIjoiMTM2ODI5Nzk1ODAxMzAyODIwMDAiLCJtaWQiOiI1NzY0NjI4MDk5MjE5MDgzNjQiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjU0NjAwNzAzNDUwMzI0OTI1NiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NTEyMjk0MDgyMDMyMTEyOTg2IiwiaW1hZ2VEb2NpZCI6IjI2MDg0MTU4MjkzNjM4OTAwMTUiLCJyZHMiOiJDU1NfUENfMTM2ODI5Nzk1ODAxMzAyODIwMDB8UENfMTM2ODI5Nzk1ODAxMzAyODIwMDB8UFJPRF9DU1NfUENfMTM2ODI5Nzk1ODAxMzAyODIwMDB8UFJPRF9QQ18xMzY4Mjk3OTU4MDEzMDI4MjAwMCIsInF1ZXJ5IjoibWFjY2hpbmErZGVsK2doaWFjY2lvK3BvcnRhdGlsZStvcGluaW9uaSIsImdwY2lkIjoiMTM2ODI5Nzk1ODAxMzAyODIwMDAiLCJtaWQiOiI1NzY0NjI4MDk5MjE5MDgzNjQiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSS7WtRpHw2sxQTqldcT4wtcRLjoHoTfLLrbCt11abjJ-P-7ozspjMW2al9Rbb1mRZSREz0p29DulfJUkXNECT1zHtx2GRMRYrCxc6v3uQWwRNWfMmo3nF-",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSITx7kv9MWBQbJKdU9PvRvI-UuzlUzowd3ecJyrr2j1wggmdJIOeuAgLKjmgz1rRJ4LDNNl5I6xm7GC8il3OBMtSGB3ZDOtKc",
+      "source": "Bestdigit.it",
+      "title": "Princess Macchina per il Ghiaccio portatile 12kg",
+      "rating": 5.0,
+      "reviews": 3,
+      "price": "69,99 €",
+      "extracted_price": 69.99,
+      "immersive_product_page_token": "eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODY2MTk3OTkzOTA0MDcyNTgxNyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUyNzgwMDA1MTY3NDY4NzI4NDkiLCJpbWFnZURvY2lkIjoiNTI0NDA2NjA2ODM4NTA1Njg2MyIsInJkcyI6IkNTU19QQ18yMjEwMTc3MjcwMDU2NjIyNTc2fFBDXzIyMTAxNzcyNzAwNTY2MjI1NzZ8UFJPRF9DU1NfUENfMjIxMDE3NzI3MDA1NjYyMjU3NnxQUk9EX1BDXzIyMTAxNzcyNzAwNTY2MjI1NzYiLCJxdWVyeSI6Im1hY2NoaW5hK2RlbCtnaGlhY2Npbytwb3J0YXRpbGUrb3BpbmlvbmkiLCJncGNpZCI6IjIyMTAxNzcyNzAwNTY2MjI1NzYiLCJtaWQiOiI1NzY0NjI4MDg4NDE3MjU0MDciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODY2MTk3OTkzOTA0MDcyNTgxNyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUyNzgwMDA1MTY3NDY4NzI4NDkiLCJpbWFnZURvY2lkIjoiNTI0NDA2NjA2ODM4NTA1Njg2MyIsInJkcyI6IkNTU19QQ18yMjEwMTc3MjcwMDU2NjIyNTc2fFBDXzIyMTAxNzcyNzAwNTY2MjI1NzZ8UFJPRF9DU1NfUENfMjIxMDE3NzI3MDA1NjYyMjU3NnxQUk9EX1BDXzIyMTAxNzcyNzAwNTY2MjI1NzYiLCJxdWVyeSI6Im1hY2NoaW5hK2RlbCtnaGlhY2Npbytwb3J0YXRpbGUrb3BpbmlvbmkiLCJncGNpZCI6IjIyMTAxNzcyNzAwNTY2MjI1NzYiLCJtaWQiOiI1NzY0NjI4MDg4NDE3MjU0MDciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoiaXQiLCJobCI6Iml0In0%3D"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Quanto tempo ci mette la macchina del ghiaccio a fare il ghiaccio?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VkZJeFRGQkRUR3ROTFZSaWMzUlpSVW81Y0cxc1VXdEdTRk5TVUdOdGFscEtaRUY2UW1wQlJVMVJRM1JoV2xKUWJ5MVdhVFpOT0VaNFkzUktkRWhMTUVsbWJsQnNaVzl4VWxSV1QxQnRTSEI2T1ZodVZ6VTVhRlZxVlhkRWNVWk9laTFWTlhKTVdIcDZkWGxWWDNrNFlsUnhTemhWWmxKSFdXMU5UalZPVlVFdGJVbHJXREp5VWpOU2FYVjVWWEJrYTBGSlkxWlZUMjl6ZWxWUkVoYzRjV0pWWVdWUVowWjFMVWQzT0dOUWFHSkhOWGRSVlJvaVFVcExURVp0VEVwTmVGa3RWV1IwVWxGdlEwTnFhMVUyU0VKUGNGZElSMEpZUVEiLCJmY3YiOiIzIiwiZWkiOiI4cWJVYWVQZ0Z1LUd3OGNQaGJHNXdRVSIsInFjIjoiQ2lodFlXTmphR2x1WVNCa1pXd2daMmhwWVdOamFXOGdjRzl5ZEdGMGFXeGxJRzl3YVc1cGIyNXBFQWQ5dHlZUlB3IiwicXVlc3Rpb24iOiJRdWFudG8gdGVtcG8gY2kgbWV0dGUgbGEgbWFjY2hpbmEgZGVsIGdoaWFjY2lvIGEgZmFyZSBpbCBnaGlhY2Npbz8iLCJsayI6ImMwWElzUTJBTUF3RXdEMm9maFZHZVprbnNSVEhnSno5b2FPODJfWjdjVmFpRkZmQ0hLRXFZUkJCcy02VE9EVFF1bl8wQkhIeUVmeXZGdyIsImJzIjoiYy1QcVpPUnlDaXhOekN2SlZ5aEp6UzNJVjBqT1ZNaE5MU2xKVmNoSlZNaE5URTdPeU14TFZFaEp6VkZJejhnRWNqUHpGUklWMGhLTFVoVXlFVUwyUnM1U2pvV1Vtc0xseGFVSWRVcHlmbkZKWWw2LWdxR0JRbmE2UWtvbXdpYUpseWxHU2xJS2hRVFVZVEhMR05Pc2VZcFl6TUpReDVYTFpSS1FXcFNjY1hnbGJ1X2s1ZWNCUFlRYUtLWlN4Z1drNnhOZ0JBQSIsImlkIjoiZmNfOHFiVWFlUGdGdS1HdzhjUGhiRzV3UVVfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VkZJeFRGQkRUR3ROTFZSaWMzUlpSVW81Y0cxc1VXdEdTRk5TVUdOdGFscEtaRUY2UW1wQlJVMVJRM1JoV2xKUWJ5MVdhVFpOT0VaNFkzUktkRWhMTUVsbWJsQnNaVzl4VWxSV1QxQnRTSEI2T1ZodVZ6VTVhRlZxVlhkRWNVWk9laTFWTlhKTVdIcDZkWGxWWDNrNFlsUnhTemhWWmxKSFdXMU5UalZPVlVFdGJVbHJXREp5VWpOU2FYVjVWWEJrYTBGSlkxWlZUMjl6ZWxWUkVoYzRjV0pWWVdWUVowWjFMVWQzT0dOUWFHSkhOWGRSVlJvaVFVcExURVp0VEVwTmVGa3RWV1IwVWxGdlEwTnFhMVUyU0VKUGNGZElSMEpZUVEiLCJmY3YiOiIzIiwiZWkiOiI4cWJVYWVQZ0Z1LUd3OGNQaGJHNXdRVSIsInFjIjoiQ2lodFlXTmphR2x1WVNCa1pXd2daMmhwWVdOamFXOGdjRzl5ZEdGMGFXeGxJRzl3YVc1cGIyNXBFQWQ5dHlZUlB3IiwicXVlc3Rpb24iOiJRdWFudG8gdGVtcG8gY2kgbWV0dGUgbGEgbWFjY2hpbmEgZGVsIGdoaWFjY2lvIGEgZmFyZSBpbCBnaGlhY2Npbz8iLCJsayI6ImMwWElzUTJBTUF3RXdEMm9maFZHZVprbnNSVEhnSno5b2FPODJfWjdjVmFpRkZmQ0hLRXFZUkJCcy02VE9EVFF1bl8wQkhIeUVmeXZGdyIsImJzIjoiYy1QcVpPUnlDaXhOekN2SlZ5aEp6UzNJVjBqT1ZNaE5MU2xKVmNoSlZNaE5URTdPeU14TFZFaEp6VkZJejhnRWNqUHpGUklWMGhLTFVoVXlFVUwyUnM1U2pvV1Vtc0xseGFVSWRVcHlmbkZKWWw2LWdxR0JRbmE2UWtvbXdpYUpseWxHU2xJS2hRVFVZVEhMR05Pc2VZcFl6TUpReDVYTFpSS1FXcFNjY1hnbGJ1X2s1ZWNCUFlRYUtLWlN4Z1drNnhOZ0JBQSIsImlkIjoiZmNfOHFiVWFlUGdGdS1HdzhjUGhiRzV3UVVfMSJ9"
+    },
+    {
+      "question": "Quanto costano 10 kg di ghiaccio?",
+      "type": "featured_snippet",
+      "snippet": "Confronta 7 offerte per 10kg Ghiaccio a partire da 79,99 €",
+      "title": "10kg Ghiaccio | Confronta prezzi | Trovaprezzi.it",
+      "link": "https://www.trovaprezzi.it/prezzo_elettrodomestici-cucina_10kg_ghiaccio.aspx#:~:text=Confronta%207%20offerte%20per%2010kg%20Ghiaccio%20a%20partire%20da%2079%2C99%20%E2%82%AC",
+      "displayed_link": "https://www.trovaprezzi.it › prezzo_elettrodomestici-cuci...",
+      "source_logo": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/tLk5t6hktl7IyAcDk7nk3QvXlucxPrh5sxIaW63_a1Y.png",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VkZJeFRGQkRUR3ROTFZSaWMzUlpSVW81Y0cxc1VXdEdTRk5TVUdOdGFscEtaRUY2UW1wQlJVMVJRM1JoV2xKUWJ5MVdhVFpOT0VaNFkzUktkRWhMTUVsbWJsQnNaVzl4VWxSV1QxQnRTSEI2T1ZodVZ6VTVhRlZxVlhkRWNVWk9laTFWTlhKTVdIcDZkWGxWWDNrNFlsUnhTemhWWmxKSFdXMU5UalZPVlVFdGJVbHJXREp5VWpOU2FYVjVWWEJrYTBGSlkxWlZUMjl6ZWxWUkVoYzRjV0pWWVdWUVowWjFMVWQzT0dOUWFHSkhOWGRSVlJvaVFVcExURVp0VEVwTmVGa3RWV1IwVWxGdlEwTnFhMVUyU0VKUGNGZElSMEpZUVEiLCJmY3YiOiIzIiwiZWkiOiI4cWJVYWVQZ0Z1LUd3OGNQaGJHNXdRVSIsInFjIjoiQ2lodFlXTmphR2x1WVNCa1pXd2daMmhwWVdOamFXOGdjRzl5ZEdGMGFXeGxJRzl3YVc1cGIyNXBFQWQ5dHlZUlB3IiwicXVlc3Rpb24iOiJRdWFudG8gY29zdGFubyAxMCBrZyBkaSBnaGlhY2Npbz8iLCJsayI6IkdpQnhkV0Z1ZEc4Z1kyOXpkR0Z1YnlBeE1DQnJaeUJrYVNCbmFHbGhZMk5wYnciLCJicyI6ImMtUHFaT1J5Q2l4TnpDdkpWeWhKelMzSVYwak9WTWhOTFNsSlZjaEpWTWhOVEU3T3lNeExWRWhKelZGSXo4Z0VjalB6RlJJVjBoS0xVaFV5RVVMMlJzNVNqb1dVbXNMbHhhVUlkVXB5Zm5GSllsNi1ncUdCUW5hNlFrb213aWFKbHlsR1NsSUtoUVRVWVRITEdOT3NlWXBZek1KUXg1WExaUktRV3BTY2NYZ2xidV9rNWVjQlBZUWFLS1pTeGdXazZ4TmdCQUEiLCJpZCI6ImZjXzhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VkZJeFRGQkRUR3ROTFZSaWMzUlpSVW81Y0cxc1VXdEdTRk5TVUdOdGFscEtaRUY2UW1wQlJVMVJRM1JoV2xKUWJ5MVdhVFpOT0VaNFkzUktkRWhMTUVsbWJsQnNaVzl4VWxSV1QxQnRTSEI2T1ZodVZ6VTVhRlZxVlhkRWNVWk9laTFWTlhKTVdIcDZkWGxWWDNrNFlsUnhTemhWWmxKSFdXMU5UalZPVlVFdGJVbHJXREp5VWpOU2FYVjVWWEJrYTBGSlkxWlZUMjl6ZWxWUkVoYzRjV0pWWVdWUVowWjFMVWQzT0dOUWFHSkhOWGRSVlJvaVFVcExURVp0VEVwTmVGa3RWV1IwVWxGdlEwTnFhMVUyU0VKUGNGZElSMEpZUVEiLCJmY3YiOiIzIiwiZWkiOiI4cWJVYWVQZ0Z1LUd3OGNQaGJHNXdRVSIsInFjIjoiQ2lodFlXTmphR2x1WVNCa1pXd2daMmhwWVdOamFXOGdjRzl5ZEdGMGFXeGxJRzl3YVc1cGIyNXBFQWQ5dHlZUlB3IiwicXVlc3Rpb24iOiJRdWFudG8gY29zdGFubyAxMCBrZyBkaSBnaGlhY2Npbz8iLCJsayI6IkdpQnhkV0Z1ZEc4Z1kyOXpkR0Z1YnlBeE1DQnJaeUJrYVNCbmFHbGhZMk5wYnciLCJicyI6ImMtUHFaT1J5Q2l4TnpDdkpWeWhKelMzSVYwak9WTWhOTFNsSlZjaEpWTWhOVEU3T3lNeExWRWhKelZGSXo4Z0VjalB6RlJJVjBoS0xVaFV5RVVMMlJzNVNqb1dVbXNMbHhhVUlkVXB5Zm5GSllsNi1ncUdCUW5hNlFrb213aWFKbHlsR1NsSUtoUVRVWVRITEdOT3NlWXBZek1KUXg1WExaUktRV3BTY2NYZ2xidV9rNWVjQlBZUWFLS1pTeGdXazZ4TmdCQUEiLCJpZCI6ImZjXzhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVXzEifQ%3D%3D"
+    },
+    {
+      "question": "Quanto costano 30 kg di ghiaccio?",
+      "type": "featured_snippet",
+      "snippet": "Confronta 11 offerte per Produttore Ghiaccio 30kg a partire da 995,13 €",
+      "title": "Produttore Ghiaccio 30kg | Confronta prezzi | Trovaprezzi.it",
+      "link": "https://www.trovaprezzi.it/prezzo_attrezzature-ristorazione_produttore_ghiaccio_30kg.aspx#:~:text=Confronta%2011%20offerte%20per%20Produttore,partire%20da%20995%2C13%20%E2%82%AC",
+      "displayed_link": "https://www.trovaprezzi.it › prezzo_attrezzature-ristorazi...",
+      "source_logo": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/tLk5t6hktl7IyAcDk7nk3W61Kf94MtG6HvYDYP99grE.png",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VkZJeFRGQkRUR3ROTFZSaWMzUlpSVW81Y0cxc1VXdEdTRk5TVUdOdGFscEtaRUY2UW1wQlJVMVJRM1JoV2xKUWJ5MVdhVFpOT0VaNFkzUktkRWhMTUVsbWJsQnNaVzl4VWxSV1QxQnRTSEI2T1ZodVZ6VTVhRlZxVlhkRWNVWk9laTFWTlhKTVdIcDZkWGxWWDNrNFlsUnhTemhWWmxKSFdXMU5UalZPVlVFdGJVbHJXREp5VWpOU2FYVjVWWEJrYTBGSlkxWlZUMjl6ZWxWUkVoYzRjV0pWWVdWUVowWjFMVWQzT0dOUWFHSkhOWGRSVlJvaVFVcExURVp0VEVwTmVGa3RWV1IwVWxGdlEwTnFhMVUyU0VKUGNGZElSMEpZUVEiLCJmY3YiOiIzIiwiZWkiOiI4cWJVYWVQZ0Z1LUd3OGNQaGJHNXdRVSIsInFjIjoiQ2lodFlXTmphR2x1WVNCa1pXd2daMmhwWVdOamFXOGdjRzl5ZEdGMGFXeGxJRzl3YVc1cGIyNXBFQWQ5dHlZUlB3IiwicXVlc3Rpb24iOiJRdWFudG8gY29zdGFubyAzMCBrZyBkaSBnaGlhY2Npbz8iLCJsayI6IkdpQnhkV0Z1ZEc4Z1kyOXpkR0Z1YnlBek1DQnJaeUJrYVNCbmFHbGhZMk5wYnciLCJicyI6ImMtUHFaT1J5Q2l4TnpDdkpWeWhKelMzSVYwak9WTWhOTFNsSlZjaEpWTWhOVEU3T3lNeExWRWhKelZGSXo4Z0VjalB6RlJJVjBoS0xVaFV5RVVMMlJzNVNqb1dVbXNMbHhhVUlkVXB5Zm5GSllsNi1ncUdCUW5hNlFrb213aWFKbHlsR1NsSUtoUVRVWVRITEdOT3NlWXBZek1KUXg1WExaUktRV3BTY2NYZ2xidV9rNWVjQlBZUWFLS1pTeGdXazZ4TmdCQUEiLCJpZCI6ImZjXzhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VkZJeFRGQkRUR3ROTFZSaWMzUlpSVW81Y0cxc1VXdEdTRk5TVUdOdGFscEtaRUY2UW1wQlJVMVJRM1JoV2xKUWJ5MVdhVFpOT0VaNFkzUktkRWhMTUVsbWJsQnNaVzl4VWxSV1QxQnRTSEI2T1ZodVZ6VTVhRlZxVlhkRWNVWk9laTFWTlhKTVdIcDZkWGxWWDNrNFlsUnhTemhWWmxKSFdXMU5UalZPVlVFdGJVbHJXREp5VWpOU2FYVjVWWEJrYTBGSlkxWlZUMjl6ZWxWUkVoYzRjV0pWWVdWUVowWjFMVWQzT0dOUWFHSkhOWGRSVlJvaVFVcExURVp0VEVwTmVGa3RWV1IwVWxGdlEwTnFhMVUyU0VKUGNGZElSMEpZUVEiLCJmY3YiOiIzIiwiZWkiOiI4cWJVYWVQZ0Z1LUd3OGNQaGJHNXdRVSIsInFjIjoiQ2lodFlXTmphR2x1WVNCa1pXd2daMmhwWVdOamFXOGdjRzl5ZEdGMGFXeGxJRzl3YVc1cGIyNXBFQWQ5dHlZUlB3IiwicXVlc3Rpb24iOiJRdWFudG8gY29zdGFubyAzMCBrZyBkaSBnaGlhY2Npbz8iLCJsayI6IkdpQnhkV0Z1ZEc4Z1kyOXpkR0Z1YnlBek1DQnJaeUJrYVNCbmFHbGhZMk5wYnciLCJicyI6ImMtUHFaT1J5Q2l4TnpDdkpWeWhKelMzSVYwak9WTWhOTFNsSlZjaEpWTWhOVEU3T3lNeExWRWhKelZGSXo4Z0VjalB6RlJJVjBoS0xVaFV5RVVMMlJzNVNqb1dVbXNMbHhhVUlkVXB5Zm5GSllsNi1ncUdCUW5hNlFrb213aWFKbHlsR1NsSUtoUVRVWVRITEdOT3NlWXBZek1KUXg1WExaUktRV3BTY2NYZ2xidV9rNWVjQlBZUWFLS1pTeGdXazZ4TmdCQUEiLCJpZCI6ImZjXzhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVXzEifQ%3D%3D"
+    },
+    {
+      "question": "Perché la macchina del ghiaccio non fa il ghiaccio?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VVZOZlFUQk1WR0phWlZWUFVEaEZhbTl4YkdsS2F6UXdNMjl3YkZwNE1VUkdjVGxIY0VwNFYwVmxlRmwxVWtsWFkyUkxTRWR5WlRnM04yNVdSbnAzTVc5SWFHcG9VRk5HYm5BdGNGZHFaSGx0TVU5clJtdE9TRmxUYjBwSmNWOU5jVVp2TjA1QlR5MWtWWEZPU0hKTWJGWjBNV2RsVGtWTmNsRnFPRlJJWTNKNFExa3RRWGR5YmtRM2JrSXdaV2wzUkdKcmN6aGlVMmxUWmw5bkVoYzRjV0pWWVdWUVowWjFMVWQzT0dOUWFHSkhOWGRSVlJvaVFVcExURVp0U2taWU9FODJiM1ZzVEdFNGFrTnBZVk5XTm5kQ1gxUjZSVzlwWnciLCJmY3YiOiIzIiwiZWkiOiI4cWJVYWVQZ0Z1LUd3OGNQaGJHNXdRVSIsInFjIjoiQ2lodFlXTmphR2x1WVNCa1pXd2daMmhwWVdOamFXOGdjRzl5ZEdGMGFXeGxJRzl3YVc1cGIyNXBFQWQ5dHlZUlB3IiwicXVlc3Rpb24iOiJQZXJjaMOpIGxhIG1hY2NoaW5hIGRlbCBnaGlhY2NpbyBub24gZmEgaWwgZ2hpYWNjaW8/IiwibGsiOiJjNU15TGtndFNzNDR2RkloSjFFaE56RTVPU016TDFFaEpUVkhJVDBqRThqTnpGZkl5ODlUU0V0VXlFUUlBUUEiLCJicyI6ImMtUHFaT1J5Q2l4TnpDdkpWeWhKelMzSVYwak9WTWhOTFNsSlZjaEpWTWhOVEU3T3lNeExWRWhKelZGSXo4Z0VjalB6RlJJVjBoS0xVaFV5RVVMMlJzNVNqb1dVbXNMbHhhVUlkVXB5Zm5GSllsNi1ncUdCUW5hNlFrb213aWFKbHlsR1NsSUtoUVRVWVRITEdOT3NlWXBZek1KUXg1WExaUktRV3BTY2NYZ2xidV9rNWVjQlBZUWFLS1pTeGdXazZ4TmdCQUEiLCJpZCI6ImZjXzhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VVZOZlFUQk1WR0phWlZWUFVEaEZhbTl4YkdsS2F6UXdNMjl3YkZwNE1VUkdjVGxIY0VwNFYwVmxlRmwxVWtsWFkyUkxTRWR5WlRnM04yNVdSbnAzTVc5SWFHcG9VRk5HYm5BdGNGZHFaSGx0TVU5clJtdE9TRmxUYjBwSmNWOU5jVVp2TjA1QlR5MWtWWEZPU0hKTWJGWjBNV2RsVGtWTmNsRnFPRlJJWTNKNFExa3RRWGR5YmtRM2JrSXdaV2wzUkdKcmN6aGlVMmxUWmw5bkVoYzRjV0pWWVdWUVowWjFMVWQzT0dOUWFHSkhOWGRSVlJvaVFVcExURVp0U2taWU9FODJiM1ZzVEdFNGFrTnBZVk5XTm5kQ1gxUjZSVzlwWnciLCJmY3YiOiIzIiwiZWkiOiI4cWJVYWVQZ0Z1LUd3OGNQaGJHNXdRVSIsInFjIjoiQ2lodFlXTmphR2x1WVNCa1pXd2daMmhwWVdOamFXOGdjRzl5ZEdGMGFXeGxJRzl3YVc1cGIyNXBFQWQ5dHlZUlB3IiwicXVlc3Rpb24iOiJQZXJjaMOpIGxhIG1hY2NoaW5hIGRlbCBnaGlhY2NpbyBub24gZmEgaWwgZ2hpYWNjaW8%2FIiwibGsiOiJjNU15TGtndFNzNDR2RkloSjFFaE56RTVPU016TDFFaEpUVkhJVDBqRThqTnpGZkl5ODlUU0V0VXlFUUlBUUEiLCJicyI6ImMtUHFaT1J5Q2l4TnpDdkpWeWhKelMzSVYwak9WTWhOTFNsSlZjaEpWTWhOVEU3T3lNeExWRWhKelZGSXo4Z0VjalB6RlJJVjBoS0xVaFV5RVVMMlJzNVNqb1dVbXNMbHhhVUlkVXB5Zm5GSllsNi1ncUdCUW5hNlFrb213aWFKbHlsR1NsSUtoUVRVWVRITEdOT3NlWXBZek1KUXg1WExaUktRV3BTY2NYZ2xidV9rNWVjQlBZUWFLS1pTeGdXazZ4TmdCQUEiLCJpZCI6ImZjXzhxYlVhZVBnRnUtR3c4Y1BoYkc1d1FVXzMifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "La migliore macchina per il ghiaccio portatile",
+      "link": "https://www.vevor.com/it/diy-ideas/best-portable-ice-machine/?srsltid=AfmBOop_G75hrpRo5TBVmOakDtdprqUajMrRVfM2T0L8swUD7vfMjK-l",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vevor.com/it/diy-ideas/best-portable-ice-machine/%3Fsrsltid%3DAfmBOop_G75hrpRo5TBVmOakDtdprqUajMrRVfM2T0L8swUD7vfMjK-l&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQFnoECB0QAQ",
+      "displayed_link": "https://www.vevor.com › ... › Casa › Essenziale in cucina",
+      "favicon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wYykghrEH7vcG-GzukCYf1c.png",
+      "date": "5 ago 2024",
+      "snippet": "Con ben 50 libbre di ghiaccio al giorno e sette minuti di tempo di produzione, insieme a un design elegante, questo è uno dei migliori piccoli ...",
+      "snippet_highlighted_words": [
+        "ghiaccio"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Cos'è una macchina per il...",
+            "link": "https://www.vevor.com/it/diy-ideas/best-portable-ice-machine/#h-what-is-a-portable-ice-machine"
+          },
+          {
+            "title": "Perché ogni casa ha bisogno...",
+            "link": "https://www.vevor.com/it/diy-ideas/best-portable-ice-machine/#h-why-every-home-needs-a-portable-ice-maker"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Con ben 50 libbre di ghiaccio al giorno e sette minuti di tempo di produzione, insieme a un design elegante, questo è uno dei migliori piccoli ...",
+          "source_info_link": "https://www.vevor.com/it/diy-ideas/best-portable-ice-machine/?srsltid=AfmBOop_G75hrpRo5TBVmOakDtdprqUajMrRVfM2T0L8swUD7vfMjK-l",
+          "icon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wc2CQQzLv65aP5m5E8dPVt7ancBFTpzIRd0vjwH4cuMT.png"
+        },
+        "languages": [
+          "it"
+        ],
+        "regions": [
+          "IT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.vevor.com/it/diy-ideas/best-portable-ice-machine/?srsltid=AfmBOop_G75hrpRo5TBVmOakDtdprqUajMrRVfM2T0L8swUD7vfMjK-l&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.vevor.com%2Fit%2Fdiy-ideas%2Fbest-portable-ice-machine%2F%3Fsrsltid%3DAfmBOop_G75hrpRo5TBVmOakDtdprqUajMrRVfM2T0L8swUD7vfMjK-l",
+      "source": "VEVOR"
+    },
+    {
+      "position": 2,
+      "title": "Test sulle macchine del ghiaccio 2026 » Confronto & guida",
+      "link": "https://www.klarstein.it/special/guida-macchine-del-ghiaccio/?srsltid=AfmBOorkq9iT_RdMymz9wUGu3GzR-g4ZbPVKHzpyF6_O2sLGKYBcnd-f",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.klarstein.it/special/guida-macchine-del-ghiaccio/%3Fsrsltid%3DAfmBOorkq9iT_RdMymz9wUGu3GzR-g4ZbPVKHzpyF6_O2sLGKYBcnd-f&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQFnoECBwQAQ",
+      "displayed_link": "https://www.klarstein.it › special › guida-macchine-del-...",
+      "favicon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wbY_E5tgDTBF5w2FOUanZ7U.png",
+      "snippet": "Design minimalista: in una raffinata tonalità argento ; Efficiente: 12 kg di cubetti in 2 dimensioni ; Funzionamento silenzioso. Svantaggi: Non produce ghiaccio ...",
+      "snippet_highlighted_words": [
+        "ghiaccio"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Design minimalista: in una raffinata tonalità argento ; Efficiente: 12 kg di cubetti in 2 dimensioni ; Funzionamento silenzioso. Svantaggi: Non produce ghiaccio ...",
+          "source_info_link": "https://www.klarstein.it/special/guida-macchine-del-ghiaccio/?srsltid=AfmBOorkq9iT_RdMymz9wUGu3GzR-g4ZbPVKHzpyF6_O2sLGKYBcnd-f",
+          "icon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5weUYizC-JHp7TCtBGMdGp21YSNlxFox-MOjFGhOGLGmi.png"
+        },
+        "languages": [
+          "it"
+        ],
+        "regions": [
+          "IT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.klarstein.it/special/guida-macchine-del-ghiaccio/?srsltid=AfmBOorkq9iT_RdMymz9wUGu3GzR-g4ZbPVKHzpyF6_O2sLGKYBcnd-f&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.klarstein.it%2Fspecial%2Fguida-macchine-del-ghiaccio%2F%3Fsrsltid%3DAfmBOorkq9iT_RdMymz9wUGu3GzR-g4ZbPVKHzpyF6_O2sLGKYBcnd-f",
+      "source": "klarstein.it"
+    },
+    {
+      "position": 3,
+      "title": "Macchina per il ghiaccio portatile con produzione veloce in ...",
+      "link": "https://www.amazon.it/Macchina-portatile-produzione-campeggio-lautomobile/dp/B0FDRSXH3Z",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.it/Macchina-portatile-produzione-campeggio-lautomobile/dp/B0FDRSXH3Z&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQFnoECDQQAQ",
+      "displayed_link": "https://www.amazon.it › Macchina-portatile-produzione...",
+      "favicon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wRvcS0LpC6zSs3JCykPIu1E.png",
+      "snippet": "Il pannello di controllo a un tasto consente di iniziare immediatamente a produrre ghiaccio, senza una configurazione complicata. Grazie al rivestimento ...",
+      "snippet_highlighted_words": [
+        "ghiaccio"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Il pannello di controllo a un tasto consente di iniziare immediatamente a produrre ghiaccio, senza una configurazione complicata. Grazie al rivestimento ...",
+          "source_info_link": "https://www.amazon.it/Macchina-portatile-produzione-campeggio-lautomobile/dp/B0FDRSXH3Z",
+          "icon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wajngkTdFIOd6xDmYMxBV8bJvj057JadA_0SA9DEPF6m.png"
+        },
+        "languages": [
+          "it"
+        ],
+        "regions": [
+          "IT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.amazon.it/Macchina-portatile-produzione-campeggio-lautomobile/dp/B0FDRSXH3Z&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.it%2FMacchina-portatile-produzione-campeggio-lautomobile%2Fdp%2FB0FDRSXH3Z",
+      "source": "Amazon.it"
+    },
+    {
+      "position": 4,
+      "title": "Macchina ghiaccio poratile uso domestico ...",
+      "link": "https://www.macchinedelgusto.it/fabbricatore-di-ghiaccio/1620-macchina-ghiaccio-portatile.html?srsltid=AfmBOoo7uaIAsKflYsUBQd3CKixqyF1H_bNKOlnJVvMRT1-Nbad-0mVJ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.macchinedelgusto.it/fabbricatore-di-ghiaccio/1620-macchina-ghiaccio-portatile.html%3Fsrsltid%3DAfmBOoo7uaIAsKflYsUBQd3CKixqyF1H_bNKOlnJVvMRT1-Nbad-0mVJ&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQFnoECDMQAQ",
+      "displayed_link": "https://www.macchinedelgusto.it › fabbricatore-di-ghiaccio",
+      "favicon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wWXH39WdUMv7T3ateB5fsAM.png",
+      "snippet": "Produttore di ghiaccio portatile, senza attacchi alla rete idrica, ridotte dimensioni per uso domestico o per negozi, uffici e altri ambienti di lavoro.",
+      "snippet_highlighted_words": [
+        "ghiaccio portatile"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Disponibile",
+            "Consegna gratuita",
+            "Resi entro 14 giorni"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Produttore di ghiaccio portatile, senza attacchi alla rete idrica, ridotte dimensioni per uso domestico o per negozi, uffici e altri ambienti di lavoro.",
+          "source_info_link": "https://www.macchinedelgusto.it/fabbricatore-di-ghiaccio/1620-macchina-ghiaccio-portatile.html?srsltid=AfmBOoo7uaIAsKflYsUBQd3CKixqyF1H_bNKOlnJVvMRT1-Nbad-0mVJ",
+          "icon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wdl1LngqMgm0LaVO2V8WqkHun6G3wmWd8XUOAv7GKfMn.png"
+        },
+        "languages": [
+          "it"
+        ],
+        "regions": [
+          "IT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.macchinedelgusto.it/fabbricatore-di-ghiaccio/1620-macchina-ghiaccio-portatile.html?srsltid=AfmBOoo7uaIAsKflYsUBQd3CKixqyF1H_bNKOlnJVvMRT1-Nbad-0mVJ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.macchinedelgusto.it%2Ffabbricatore-di-ghiaccio%2F1620-macchina-ghiaccio-portatile.html%3Fsrsltid%3DAfmBOoo7uaIAsKflYsUBQd3CKixqyF1H_bNKOlnJVvMRT1-Nbad-0mVJ",
+      "source": "Macchine del Gusto"
+    },
+    {
+      "position": 5,
+      "title": "Macchina del Ghiaccio - Recensioni delle Migliori Macchine ...",
+      "link": "https://macchinadelghiaccio.net/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://macchinadelghiaccio.net/&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQFnoECC8QAQ",
+      "displayed_link": "https://macchinadelghiaccio.net",
+      "favicon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wd2_fcd51g8u05irPIh0Pos.png",
+      "snippet": "In questa guida spieghiamo come scegliere la migliore macchina del ghiaccio da casa. Quando arriva la stagione calda, sentiamo sempre l'esigenza di dare ...",
+      "snippet_highlighted_words": [
+        "macchina del ghiaccio"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In questa guida spieghiamo come scegliere la migliore macchina del ghiaccio da casa. Quando arriva la stagione calda, sentiamo sempre l'esigenza di dare ...",
+          "source_info_link": "https://macchinadelghiaccio.net/",
+          "icon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wdn-tJ2HCJQrik7J7bfTcqdHfEi9AxOF2rUTx_upmeq1.png"
+        },
+        "languages": [
+          "it"
+        ],
+        "regions": [
+          "IT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://macchinadelghiaccio.net/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmacchinadelghiaccio.net%2F",
+      "source": "macchinadelghiaccio.net"
+    },
+    {
+      "position": 6,
+      "title": "7 macchine per il ghiaccio perfette per servire drink freschi ...",
+      "link": "https://www.wired.it/gallery/migliori-macchine-ghiaccio/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wired.it/gallery/migliori-macchine-ghiaccio/&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQFnoECDIQAQ",
+      "displayed_link": "https://www.wired.it › Gadget › Wired Consiglia",
+      "favicon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wWeaHjKy56VmDuSAqRICznw.png",
+      "date": "16 apr 2025",
+      "snippet": "Velocità di produzione: varia dai 6 ai 12 minuti per ciclo. · Capacità giornaliera: si va dai 12 Kg fino ai 20 Kg di ghiaccio al giorno.",
+      "snippet_highlighted_words": [
+        "ghiaccio"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Resi entro 14 giorni"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Velocità di produzione: varia dai 6 ai 12 minuti per ciclo. · Capacità giornaliera: si va dai 12 Kg fino ai 20 Kg di ghiaccio al giorno.",
+          "source_info_link": "https://www.wired.it/gallery/migliori-macchine-ghiaccio/",
+          "icon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wR0oxbq_DfoQ7iYms0FhNIqGUnXjyLZ8JlOWKM-65_Yr.png"
+        },
+        "languages": [
+          "it"
+        ],
+        "regions": [
+          "IT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.wired.it/gallery/migliori-macchine-ghiaccio/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.wired.it%2Fgallery%2Fmigliori-macchine-ghiaccio%2F",
+      "source": "Wired"
+    },
+    {
+      "position": 7,
+      "title": "Macchina per il ghiaccio: come funziona e i migliori modelli",
+      "link": "https://www.trovaprezzi.it/magazine/lifestyle/come-funziona-e-come-usare-la-macchina-per-il-ghiaccio",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.trovaprezzi.it/magazine/lifestyle/come-funziona-e-come-usare-la-macchina-per-il-ghiaccio&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQFnoECDgQAQ",
+      "displayed_link": "https://www.trovaprezzi.it › Magazine › Lifestyle",
+      "favicon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wX3HaryFhVsoqxZP_0xtCm4.png",
+      "date": "5 lug 2024",
+      "snippet": "RGV Mojito è in grado infatti di produrre 10-12 Kg di cubetti in 24 ore e permette di scegliere tra 3 diverse dimensioni del ghiaccio. La ...",
+      "snippet_highlighted_words": [
+        "RGV Mojito è in grado infatti di produrre 10-12 Kg di cubetti in 24 ore"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Come funziona la macchina...",
+            "link": "https://www.trovaprezzi.it/magazine/lifestyle/come-funziona-e-come-usare-la-macchina-per-il-ghiaccio#Come%20funziona%20la%20macchina%20per%20il%20ghiaccio?"
+          },
+          {
+            "title": "Come pulire la macchina per il...",
+            "link": "https://www.trovaprezzi.it/magazine/lifestyle/come-funziona-e-come-usare-la-macchina-per-il-ghiaccio#Come%20pulire%20la%20macchina%20per%20il%20ghiaccio?"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "RGV Mojito è in grado infatti di produrre 10-12 Kg di cubetti in 24 ore e permette di scegliere tra 3 diverse dimensioni del ghiaccio. La ...",
+          "source_info_link": "https://www.trovaprezzi.it/magazine/lifestyle/come-funziona-e-come-usare-la-macchina-per-il-ghiaccio",
+          "icon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wRn3AhJOomODPH7znuSARZIGoKhsFxqBSXhQgccz-TqC.png"
+        },
+        "languages": [
+          "it"
+        ],
+        "regions": [
+          "IT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.trovaprezzi.it/magazine/lifestyle/come-funziona-e-come-usare-la-macchina-per-il-ghiaccio&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.trovaprezzi.it%2Fmagazine%2Flifestyle%2Fcome-funziona-e-come-usare-la-macchina-per-il-ghiaccio",
+      "source": "Trovaprezzi.it"
+    },
+    {
+      "position": 8,
+      "title": "Macchina del ghiaccio: i migliori modelli del 2026",
+      "link": "https://shopping.giallozafferano.it/macchina-ghiaccio-migliori-modelli",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shopping.giallozafferano.it/macchina-ghiaccio-migliori-modelli&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQFnoECDEQAQ",
+      "displayed_link": "https://shopping.giallozafferano.it › macchina-ghiaccio-...",
+      "favicon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wdqnp6AGEyHuGZujTZSTdZY.png",
+      "snippet": "La macchina del ghiaccio Improve è perfetta sia per l'uso domestico che in ufficio. I cubetti di ghiaccio prodotti hanno un'elevata durezza e non si sciolgono ...",
+      "snippet_highlighted_words": [
+        "è perfetta sia per l'uso domestico che in ufficio"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 119.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "119,00 €"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "La macchina del ghiaccio Improve è perfetta sia per l'uso domestico che in ufficio. I cubetti di ghiaccio prodotti hanno un'elevata durezza e non si sciolgono ...",
+          "source_info_link": "https://shopping.giallozafferano.it/macchina-ghiaccio-migliori-modelli",
+          "icon": "https://serpapi.com/searches/69d4a6eff73581b3b9b2a904/images/R-n40w3ThdKL7NyErnY5wcsp8onXjZPBaE41y-UBwLC3rEkH9c9JWj7scyQI85G8.png"
+        },
+        "languages": [
+          "it"
+        ],
+        "regions": [
+          "IT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://shopping.giallozafferano.it/macchina-ghiaccio-migliori-modelli&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fshopping.giallozafferano.it%2Fmacchina-ghiaccio-migliori-modelli",
+      "source": "Giallo Zafferano"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Migliore macchina del ghiaccio per casa",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&gl=it&hl=it&q=Migliore+macchina+del+ghiaccio+per+casa&sa=X&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=it&google_domain=google.com&hl=it&q=Migliore+macchina+del+ghiaccio+per+casa"
+    },
+    {
+      "block_position": 1,
+      "query": "Macchina ghiaccio professionale",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&gl=it&hl=it&q=Macchina+ghiaccio+professionale&sa=X&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=it&google_domain=google.com&hl=it&q=Macchina+ghiaccio+professionale"
+    },
+    {
+      "block_position": 1,
+      "query": "Macchina per il ghiaccio lidl",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&gl=it&hl=it&q=Macchina+per+il+ghiaccio+lidl&sa=X&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=it&google_domain=google.com&hl=it&q=Macchina+per+il+ghiaccio+lidl"
+    },
+    {
+      "block_position": 1,
+      "query": "Migliore macchina ghiaccio professionale",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&gl=it&hl=it&q=Migliore+macchina+ghiaccio+professionale&sa=X&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=it&google_domain=google.com&hl=it&q=Migliore+macchina+ghiaccio+professionale"
+    },
+    {
+      "block_position": 1,
+      "query": "Macchina per il ghiaccio Unieuro",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&gl=it&hl=it&q=Macchina+per+il+ghiaccio+Unieuro&sa=X&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=it&google_domain=google.com&hl=it&q=Macchina+per+il+ghiaccio+Unieuro"
+    },
+    {
+      "block_position": 1,
+      "query": "Macchina per il ghiaccio mediaworld",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&gl=it&hl=it&q=Macchina+per+il+ghiaccio+mediaworld&sa=X&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=it&google_domain=google.com&hl=it&q=Macchina+per+il+ghiaccio+mediaworld"
+    },
+    {
+      "block_position": 1,
+      "query": "Macchine per il ghiaccio da casa",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&gl=it&hl=it&q=Macchine+per+il+ghiaccio+da+casa&sa=X&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=it&google_domain=google.com&hl=it&q=Macchine+per+il+ghiaccio+da+casa"
+    },
+    {
+      "block_position": 1,
+      "query": "Macchina ghiaccio incasso",
+      "link": "https://www.google.com/search?sca_esv=44faa4fe2c212e0b&gl=it&hl=it&q=Macchina+ghiaccio+incasso&sa=X&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=it&google_domain=google.com&hl=it&q=Macchina+ghiaccio+incasso"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=macchina+del+ghiaccio+portatile+opinioni&sca_esv=44faa4fe2c212e0b&gl=it&hl=it&ei=8qbUaePgFu-Gw8cPhbG5wQU&start=10&sa=N&sstk=Af77f_f6yo916UCR8tJYenFnwXt7s3yiphmUKnuijnRYBZ1yQYi64HRuhpQ91Bn9OHzXHG0n5bRJWtDeQqexK2kSw6wBAvZjLO-7wQ&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQ8NMDegQITBAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=macchina+del+ghiaccio+portatile+opinioni&sca_esv=44faa4fe2c212e0b&gl=it&hl=it&ei=8qbUaePgFu-Gw8cPhbG5wQU&start=10&sa=N&sstk=Af77f_f6yo916UCR8tJYenFnwXt7s3yiphmUKnuijnRYBZ1yQYi64HRuhpQ91Bn9OHzXHG0n5bRJWtDeQqexK2kSw6wBAvZjLO-7wQ&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQ8tMDegQITBAE",
+      "3": "https://www.google.com/search?q=macchina+del+ghiaccio+portatile+opinioni&sca_esv=44faa4fe2c212e0b&gl=it&hl=it&ei=8qbUaePgFu-Gw8cPhbG5wQU&start=20&sa=N&sstk=Af77f_f6yo916UCR8tJYenFnwXt7s3yiphmUKnuijnRYBZ1yQYi64HRuhpQ91Bn9OHzXHG0n5bRJWtDeQqexK2kSw6wBAvZjLO-7wQ&ved=2ahUKEwjjoZ-DkduTAxVvw_ACHYVYLlgQ8tMDegQITBAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=it&google_domain=google.com&hl=it&q=macchina+del+ghiaccio+portatile+opinioni&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=it&google_domain=google.com&hl=it&q=macchina+del+ghiaccio+portatile+opinioni&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=it&google_domain=google.com&hl=it&q=macchina+del+ghiaccio+portatile+opinioni&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=it&google_domain=google.com&hl=it&q=macchina+del+ghiaccio+portatile+opinioni&start=20"
+    }
+  }
+}

@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8"/>
+<title>Premium VOC 인사이트 — {{ project_name }}</title>
+<style>
+  @font-face { font-family: Freesentation; src: url('Freesentation-4Regular.ttf'); }
+  @font-face { font-family: Freesentation; src: url('Freesentation-7Bold.ttf'); font-weight: bold; }
+  @font-face { font-family: Freesentation-Bold; src: url('Freesentation-7Bold.ttf'); }
+  @font-face { font-family: MultiCJK; src: url('malgun.ttf'); }
+  @font-face { font-family: MultiCJK; src: url('malgunbd.ttf'); font-weight: bold; }
+  @font-face { font-family: MultiSWA; src: url('tahoma.ttf'); }
+  .lang-ko  { font-family: Freesentation, MultiCJK, Helvetica, sans-serif; }
+  .lang-cjk { font-family: MultiCJK, Freesentation, Helvetica, sans-serif; }
+  .lang-swa { font-family: MultiSWA, Helvetica, sans-serif; }
+  .lang-cyr { font-family: MultiSWA, Freesentation, Helvetica, sans-serif; }
+
+  @page { size: A4; margin: 15mm 15mm 20mm 15mm; }
+
+  body {
+    font-family: Freesentation, MultiCJK, Helvetica, sans-serif;
+    font-size: 10pt;
+    color: #1F2937;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+  }
+  .page-break { page-break-before: always; }
+
+  /* ── 커버 ── */
+  .cover {
+    border-top: 6px solid #1D4ED8;
+    padding: 36px 0 28px 0;
+    margin-bottom: 8px;
+  }
+  .cover-top {
+    display: table;
+    width: 100%;
+    margin-bottom: 18px;
+  }
+  .cover-logo-cell { display: table-cell; vertical-align: middle; }
+  .cover-badge-cell { display: table-cell; text-align: right; vertical-align: middle; }
+  .cover-logo {
+    font-size: 14pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #1D4ED8;
+    letter-spacing: -0.03em;
+  }
+  .badge {
+    background-color: #EFF6FF;
+    color: #2563EB;
+    font-size: 7.5pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    padding: 3px 8px;
+    display: inline-block;
+    margin-left: 4px;
+  }
+  .badge-danger  { background-color: #FEF2F2; color: #DC2626; }
+  .badge-success { background-color: #ECFDF5; color: #059669; }
+  .badge-warning { background-color: #FFFBEB; color: #D97706; }
+
+  .cover-title {
+    font-size: 26pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #111827;
+    margin: 0 0 6px 0;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover-subtitle {
+    font-size: 13pt;
+    color: #4B5563;
+    margin-bottom: 18px;
+    font-family: Freesentation, MultiCJK, Helvetica, sans-serif;
+  }
+  .cover-divider {
+    border: none;
+    border-top: 1px solid #E5E7EB;
+    margin: 14px 0;
+  }
+  .cover-meta {
+    font-size: 9pt;
+    color: #6B7280;
+    line-height: 1.9;
+    display: table;
+    width: 100%;
+  }
+  .cover-meta-left  { display: table-cell; vertical-align: top; }
+  .cover-meta-right { display: table-cell; text-align: right; vertical-align: top; }
+  .cover-request-label {
+    font-size: 8pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #374151;
+    margin-bottom: 4px;
+    margin-top: 14px;
+  }
+  .cover-request-box {
+    background-color: #F9FAFB;
+    border-left: 4px solid #1D4ED8;
+    padding: 10px 14px;
+    font-size: 9.5pt;
+    color: #1F2937;
+    line-height: 1.6;
+  }
+
+  /* ── 섹션 공통 ── */
+  .section { padding: 10px 0; }
+
+  .section-title {
+    font-size: 14pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #111827;
+    margin: 0 0 14px 0;
+    padding-left: 10px;
+    border-left: 4px solid #1D4ED8;
+    line-height: 1.3;
+  }
+  .section-subtitle {
+    font-size: 9pt;
+    color: #6B7280;
+    margin-bottom: 14px;
+    margin-top: -8px;
+    padding-left: 14px;
+  }
+  .sub-title {
+    font-size: 10.5pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #374151;
+    margin: 18px 0 8px 0;
+    padding-left: 10px;
+    border-left: 3px solid #BFDBFE;
+  }
+  .divider { border: none; border-top: 1px solid #E5E7EB; margin: 10px 0; }
+  .page-num {
+    font-size: 7.5pt;
+    color: #9CA3AF;
+    font-family: Freesentation, Helvetica, sans-serif;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  /* ── KPI 카드 ── */
+  .kpi-grid {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 6px;
+    margin: 10px 0;
+  }
+  .kpi-row { }
+  .kpi-cell { width: 25%; vertical-align: top; }
+  .kpi-card {
+    background-color: #F9FAFB;
+    border: 1px solid #E5E7EB;
+    padding: 14px 10px;
+    text-align: center;
+  }
+  .kpi-value {
+    font-size: 22pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #111827;
+    line-height: 1;
+  }
+  .kpi-unit { font-size: 11pt; color: #6B7280; }
+  .kpi-title {
+    font-size: 8pt;
+    color: #6B7280;
+    margin: 5px 0 2px;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+  .kpi-trend-up   { font-size: 7.5pt; color: #059669; font-family: Freesentation-Bold, Helvetica, sans-serif; }
+  .kpi-trend-down { font-size: 7.5pt; color: #DC2626; font-family: Freesentation-Bold, Helvetica, sans-serif; }
+  .kpi-trend-neu  { font-size: 7.5pt; color: #6B7280; }
+
+  /* ── 감성 분포 ── */
+  .sentiment-row { width: 100%; border-collapse: collapse; margin: 10px 0; }
+  .sentiment-cell { padding: 10px 8px; text-align: center; }
+  .sent-pos { background-color: #ECFDF5; }
+  .sent-neg { background-color: #FEF2F2; }
+  .sent-neu { background-color: #FFFBEB; }
+  .sent-num {
+    font-size: 18pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    line-height: 1;
+  }
+  .sent-num-pos { color: #059669; }
+  .sent-num-neg { color: #DC2626; }
+  .sent-num-neu { color: #D97706; }
+  .sent-label { font-size: 8pt; margin-top: 3px; }
+  .sent-label-pos { color: #065F46; }
+  .sent-label-neg { color: #991B1B; }
+  .sent-label-neu { color: #92400E; }
+
+  /* ── 패러다임 박스 ── */
+  .paradigm-box {
+    background-color: #EFF6FF;
+    border-left: 4px solid #2563EB;
+    padding: 14px 16px;
+    margin: 12px 0;
+  }
+  .paradigm-box h3 {
+    font-size: 10.5pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #1D4ED8;
+    margin: 0 0 8px 0;
+  }
+  .paradigm-point {
+    font-size: 9pt;
+    color: #374151;
+    margin: 5px 0;
+    padding-left: 12px;
+    line-height: 1.5;
+  }
+
+  /* ── 페르소나 ── */
+  .persona-grid { width: 100%; border-collapse: separate; border-spacing: 8px; margin: 10px 0; }
+  .persona-cell { width: 33%; vertical-align: top; }
+  .persona-card {
+    border: 1px solid #E5E7EB;
+    padding: 14px;
+    page-break-inside: avoid;
+    background-color: #FAFAFA;
+  }
+  .persona-name {
+    font-size: 10.5pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #111827;
+    border-bottom: 2px solid #1D4ED8;
+    padding-bottom: 6px;
+    margin-bottom: 8px;
+  }
+  .persona-label {
+    font-size: 7.5pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #2563EB;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    margin-top: 8px;
+    margin-bottom: 2px;
+  }
+  .persona-text { font-size: 8.5pt; color: #374151; line-height: 1.5; }
+  .persona-quote {
+    background-color: #FFFBEB;
+    border-left: 3px solid #D97706;
+    padding: 6px 8px;
+    margin-top: 8px;
+    font-size: 8pt;
+    color: #92400E;
+    font-style: italic;
+  }
+
+  /* ── 구매 여정 ── */
+  .journey-table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 8.5pt; }
+  .journey-table th {
+    background-color: #1D4ED8;
+    color: #ffffff;
+    padding: 7px 10px;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    font-size: 8pt;
+    text-align: left;
+  }
+  .journey-table td {
+    padding: 7px 10px;
+    border-bottom: 1px solid #E5E7EB;
+    color: #374151;
+    vertical-align: top;
+  }
+  .journey-table tr:nth-child(even) td { background-color: #F9FAFB; }
+  .stage-name {
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #1D4ED8;
+    white-space: nowrap;
+  }
+  .opp-cell { color: #059669; font-size: 8pt; }
+
+  /* ── 제품 형태 비교 ── */
+  .form-grid { width: 100%; border-collapse: separate; border-spacing: 8px; margin: 10px 0; }
+  .form-cell { vertical-align: top; }
+  .form-card {
+    border: 1px solid #E5E7EB;
+    padding: 14px;
+    page-break-inside: avoid;
+    background-color: #FAFAFA;
+  }
+  .form-badge {
+    font-size: 7.5pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    padding: 2px 8px;
+    display: inline-block;
+    margin-bottom: 6px;
+  }
+  .form-badge-success { background-color: #ECFDF5; color: #065F46; }
+  .form-badge-warning { background-color: #FFFBEB; color: #92400E; }
+  .form-badge-danger  { background-color: #FEF2F2; color: #991B1B; }
+  .form-name {
+    font-size: 11pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #111827;
+    margin-bottom: 2px;
+  }
+  .form-subtitle { font-size: 8pt; color: #6B7280; margin-bottom: 8px; }
+  .form-products { font-size: 8pt; color: #2563EB; margin-bottom: 8px; }
+  .pros-title { font-family: Freesentation-Bold, Helvetica, sans-serif; color: #059669; font-size: 8.5pt; }
+  .cons-title { font-family: Freesentation-Bold, Helvetica, sans-serif; color: #DC2626; font-size: 8.5pt; margin-top: 6px; }
+  .detail-text { font-size: 8pt; color: #374151; line-height: 1.5; margin: 2px 0; }
+  .form-voc {
+    background-color: #F9FAFB;
+    border-left: 3px solid #D1D5DB;
+    padding: 5px 8px;
+    margin-top: 8px;
+    font-size: 7.5pt;
+    color: #4B5563;
+    font-style: italic;
+  }
+
+  /* ── 브랜드 지형도 ── */
+  .brand-table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 8.5pt; }
+  .brand-table th {
+    background-color: #F3F4F6;
+    color: #374151;
+    padding: 7px 10px;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    text-align: left;
+    border-bottom: 2px solid #E5E7EB;
+  }
+  .brand-table td { padding: 7px 10px; border-bottom: 1px solid #F3F4F6; color: #374151; }
+  .brand-name { font-family: Freesentation-Bold, Helvetica, sans-serif; color: #111827; }
+
+  /* ── 딥다이브 ── */
+  .deepdive-card {
+    border: 1px solid #E5E7EB;
+    border-left: 4px solid #93C5FD;
+    padding: 12px 14px;
+    margin-bottom: 8px;
+    page-break-inside: avoid;
+    background-color: #FAFAFA;
+  }
+  .deepdive-title {
+    font-size: 10pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #1D4ED8;
+    margin-bottom: 5px;
+  }
+  .deepdive-body { font-size: 8.5pt; color: #374151; line-height: 1.6; }
+
+  /* ── 스포트라이트 VOC ── */
+  .spotlight {
+    border: 1px solid #E5E7EB;
+    background-color: #FFFBEB;
+    border-left: 4px solid #D97706;
+    padding: 12px 14px;
+    margin-bottom: 10px;
+    page-break-inside: avoid;
+  }
+  .spotlight.neutral {
+    background-color: #F9FAFB;
+    border-left-color: #D1D5DB;
+  }
+  .spotlight.negative {
+    background-color: #FEF2F2;
+    border-left-color: #DC2626;
+  }
+  .spotlight-header { display: table; width: 100%; margin-bottom: 6px; }
+  .spotlight-title-cell { display: table-cell; vertical-align: middle; }
+  .spotlight-score-cell { display: table-cell; text-align: right; vertical-align: middle; white-space: nowrap; }
+  .spotlight-title {
+    font-size: 10pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #111827;
+  }
+  .spotlight-source {
+    font-size: 7.5pt;
+    color: #6B7280;
+    margin-top: 1px;
+    font-family: MultiSWA, Helvetica, sans-serif;
+    background-color: #E5E7EB;
+    padding: 1px 5px;
+    display: inline-block;
+  }
+  .score-badge {
+    display: inline-block;
+    background-color: #1D4ED8;
+    color: #ffffff;
+    font-size: 7.5pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    padding: 2px 8px;
+    margin-left: 4px;
+  }
+  .score-sub { font-size: 7pt; color: #6B7280; margin-top: 2px; }
+  .spotlight-text { font-size: 8.5pt; color: #374151; line-height: 1.6; margin: 6px 0; }
+  .spotlight-url { font-size: 7pt; color: #2563EB; word-break: break-all; font-family: MultiSWA, Helvetica, sans-serif; }
+
+  /* ── 전략적 인사이트 ── */
+  .insight-card {
+    border: 1px solid #E5E7EB;
+    padding: 12px 14px;
+    margin-bottom: 8px;
+    page-break-inside: avoid;
+    background-color: #FAFAFA;
+  }
+  .insight-header { display: table; width: 100%; margin-bottom: 4px; }
+  .insight-num-cell { display: table-cell; width: 36px; vertical-align: top; }
+  .insight-text-cell { display: table-cell; vertical-align: top; }
+  .insight-num {
+    font-size: 20pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #BFDBFE;
+    line-height: 1;
+  }
+  .insight-title {
+    font-size: 10.5pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #111827;
+  }
+  .insight-impact { font-size: 8.5pt; color: #374151; line-height: 1.5; margin-top: 3px; }
+  .priority-critical { color: #DC2626; font-family: Freesentation-Bold, Helvetica, sans-serif; font-size: 7.5pt; }
+  .priority-high     { color: #D97706; font-family: Freesentation-Bold, Helvetica, sans-serif; font-size: 7.5pt; }
+  .priority-mid      { color: #2563EB; font-family: Freesentation-Bold, Helvetica, sans-serif; font-size: 7.5pt; }
+
+  /* ── 마케팅 전략 ── */
+  .strategy-table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 8.5pt; }
+  .strategy-table th {
+    background-color: #1D4ED8;
+    color: #ffffff;
+    padding: 7px 10px;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    font-size: 8pt;
+    text-align: left;
+  }
+  .strategy-table td {
+    padding: 7px 10px;
+    border-bottom: 1px solid #E5E7EB;
+    vertical-align: top;
+    color: #374151;
+  }
+  .strategy-table tr:nth-child(even) td { background-color: #F9FAFB; }
+  .perspective-cell { font-family: Freesentation-Bold, Helvetica, sans-serif; color: #111827; width: 22%; }
+  .old-approach { color: #9CA3AF; text-decoration: line-through; font-size: 8pt; }
+  .new-approach { color: #059669; font-family: Freesentation-Bold, Helvetica, sans-serif; }
+
+  /* ── 제품 개발 방향 ── */
+  .reco-card {
+    border: 1px solid #E5E7EB;
+    padding: 14px;
+    margin-bottom: 8px;
+    page-break-inside: avoid;
+    background-color: #FAFAFA;
+  }
+  .reco-header { display: table; width: 100%; margin-bottom: 6px; }
+  .reco-label-cell { display: table-cell; white-space: nowrap; padding-right: 12px; vertical-align: middle; }
+  .reco-title-cell { display: table-cell; vertical-align: middle; }
+  .reco-label {
+    background-color: #1D4ED8;
+    color: #ffffff;
+    font-size: 7.5pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    padding: 3px 10px;
+    white-space: nowrap;
+  }
+  .reco-title {
+    font-size: 10.5pt;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    color: #111827;
+  }
+  .reco-body { font-size: 8.5pt; color: #374151; line-height: 1.6; }
+
+  /* ── 키워드 분포 ── */
+  .kw-table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 9pt; }
+  .kw-table th {
+    background-color: #F3F4F6;
+    color: #374151;
+    padding: 7px 10px;
+    font-family: Freesentation-Bold, Helvetica, sans-serif;
+    font-size: 8pt;
+    text-align: left;
+    border-bottom: 2px solid #E5E7EB;
+  }
+  .kw-table td { padding: 5px 10px; border-bottom: 1px solid #F3F4F6; color: #374151; }
+  .kw-rank { color: #9CA3AF; text-align: center; font-size: 8pt; }
+  .kw-word { font-family: Freesentation-Bold, Helvetica, sans-serif; color: #111827; }
+  .kw-count { text-align: center; color: #1D4ED8; font-family: Freesentation-Bold, Helvetica, sans-serif; }
+  .kw-pct { text-align: center; color: #6B7280; font-size: 8pt; }
+  .kw-bar-bg { background-color: #F3F4F6; height: 10px; }
+  .kw-bar-fill { height: 10px; display: block; }
+  .emotion-pos { background-color: #ECFDF5; color: #065F46; font-size: 7.5pt; padding: 1px 5px; }
+  .emotion-neg { background-color: #FEF2F2; color: #991B1B; font-size: 7.5pt; padding: 1px 5px; }
+  .emotion-neu { background-color: #F3F4F6; color: #6B7280;  font-size: 7.5pt; padding: 1px 5px; }
+
+  /* ── 하이라이트 박스 ── */
+  .highlight-box {
+    background-color: #EFF6FF;
+    border-left: 4px solid #2563EB;
+    padding: 10px 14px;
+    margin: 10px 0;
+  }
+  .highlight-item { font-size: 9pt; color: #1E40AF; line-height: 1.6; margin: 3px 0; padding-left: 12px; }
+  .highlight-num  { color: #1D4ED8; font-family: Freesentation-Bold, Helvetica, sans-serif; }
+
+  /* ── 푸터 ── */
+  .footer-note {
+    text-align: center;
+    color: #9CA3AF;
+    font-size: 7.5pt;
+    padding-top: 12px;
+    border-top: 1px solid #E5E7EB;
+    margin-top: 16px;
+    page-break-inside: avoid;
+  }
+</style>
+</head>
+<body>
+
+<!-- ══ 커버 ══ -->
+<div class="cover">
+  <div class="cover-top">
+    <div class="cover-logo-cell">
+      <span class="cover-logo">VOC COLLECTOR</span>
+    </div>
+    <div class="cover-badge-cell">
+      <span class="badge">PREMIUM</span>
+      <span class="badge">{{ analysis.market }}</span>
+    </div>
+  </div>
+
+  <div class="cover-title">소비자 경험 인사이트 보고서</div>
+  <div class="cover-subtitle">{{ project_name }}</div>
+
+  <hr class="cover-divider"/>
+
+  <div class="cover-meta">
+    <div class="cover-meta-left">
+      생성일시 : {{ generated_at }}<br/>
+      수집 VOC : {{ total }}건 (승인 완료)<br/>
+      시장 / 제품 : {{ analysis.market }} &nbsp;/&nbsp; {{ analysis.product_category }}
+    </div>
+    <div class="cover-meta-right">
+      프로젝트 ID : {{ project_id[:12] }}...
+    </div>
+  </div>
+
+  <div class="cover-request-label">조사 요청 내용</div>
+  <div class="cover-request-box">{{ user_request }}</div>
+</div>
+
+<!-- ══ Page 1: KPI 대시보드 ══ -->
+<div class="section page-break">
+  <div class="page-num">PAGE 01 — Dashboard</div>
+  <div class="section-title">핵심 수치 대시보드</div>
+  <div class="section-subtitle">{{ analysis.market }} {{ analysis.product_category }} VOC 수집 결과 핵심 지표</div>
+  <hr class="divider"/>
+
+  <!-- KPI 카드 -->
+  <table class="kpi-grid">
+    <tr class="kpi-row">
+      {% for card in analysis.kpi_cards %}
+      <td class="kpi-cell">
+        <div class="kpi-card">
+          <div class="kpi-value">{{ card.value }}<span class="kpi-unit">{{ card.unit }}</span></div>
+          <div class="kpi-title">{{ card.title }}</div>
+          {% if card.trend_text %}
+          <div class="{{ 'kpi-trend-up' if card.trend_type == 'up' else ('kpi-trend-down' if card.trend_type == 'down' else 'kpi-trend-neu') }}">
+            {{ '▲' if card.trend_type == 'up' else ('▼' if card.trend_type == 'down' else '—') }} {{ card.trend_text }}
+          </div>
+          {% endif %}
+        </div>
+      </td>
+      {% endfor %}
+    </tr>
+  </table>
+
+  <!-- 감성 분포 -->
+  <table class="sentiment-row">
+    <tr>
+      <td class="sentiment-cell sent-pos" style="width:33%;">
+        <div class="sent-num sent-num-pos">{{ sentiment_counts.positive }}</div>
+        <div class="sent-label sent-label-pos">긍정 {{ (sentiment_counts.positive / total * 100)|int if total > 0 else 0 }}%</div>
+      </td>
+      <td class="sentiment-cell sent-neg" style="width:33%;">
+        <div class="sent-num sent-num-neg">{{ sentiment_counts.negative }}</div>
+        <div class="sent-label sent-label-neg">부정 {{ (sentiment_counts.negative / total * 100)|int if total > 0 else 0 }}%</div>
+      </td>
+      <td class="sentiment-cell sent-neu" style="width:33%;">
+        <div class="sent-num sent-num-neu">{{ sentiment_counts.neutral }}</div>
+        <div class="sent-label sent-label-neu">중립 {{ (sentiment_counts.neutral / total * 100)|int if total > 0 else 0 }}%</div>
+      </td>
+    </tr>
+  </table>
+
+  <!-- 패러다임 -->
+  {% if analysis.paradigm_title %}
+  <div class="paradigm-box">
+    <h3>{{ analysis.paradigm_title }}</h3>
+    {% for pt in analysis.paradigm_points %}
+    <div class="paradigm-point">&#9658; {{ pt }}</div>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+
+<!-- ══ Page 3: 구매자 페르소나 ══ -->
+{% if analysis.personas %}
+<div class="section page-break">
+  <div class="page-num">PAGE 03 — Buyer Personas</div>
+  <div class="section-title">구매자 페르소나</div>
+  <div class="section-subtitle">{{ analysis.audience_intro }}</div>
+  <hr class="divider"/>
+
+  <table class="persona-grid">
+    <tr>
+      {% for persona in analysis.personas %}
+      <td class="persona-cell">
+        <div class="persona-card">
+          <div class="persona-name">{{ persona.name }}</div>
+          <div class="persona-label">정의</div>
+          <div class="persona-text">{{ persona.definition }}</div>
+          <div class="persona-label">행동 패턴</div>
+          <div class="persona-text">{{ persona.behavior }}</div>
+          {% if persona.spotlight_quote %}
+          <div class="persona-quote">
+            "{{ persona.spotlight_quote }}"
+            {% if persona.spotlight_source %}<br/><span style="font-size:7pt; color:#92400e;">— {{ persona.spotlight_source }}</span>{% endif %}
+          </div>
+          {% endif %}
+        </div>
+      </td>
+      {% endfor %}
+    </tr>
+  </table>
+</div>
+{% endif %}
+
+<!-- ══ Page 4: 구매 여정 ══ -->
+{% if analysis.journey_stages %}
+<div class="section page-break">
+  <div class="page-num">PAGE 04 — Consumer Journey</div>
+  <div class="section-title">소비자 구매 여정</div>
+  <div class="section-subtitle">{{ analysis.journey_intro }}</div>
+  <hr class="divider"/>
+
+  <table class="journey-table">
+    <tr>
+      <th style="width:10%;">단계</th>
+      <th style="width:15%;">감정 상태</th>
+      <th style="width:20%;">트리거 요인</th>
+      <th style="width:25%;">소비자 행동</th>
+      <th style="width:30%;">마케팅 기회</th>
+    </tr>
+    {% for stage in analysis.journey_stages %}
+    <tr>
+      <td><span class="stage-name">{{ stage.stage }}</span></td>
+      <td style="color:#6B7280; font-size:8pt;">{{ stage.emotion }}</td>
+      <td>{{ stage.trigger }}</td>
+      <td>{{ stage.behavior }}</td>
+      <td class="opp-cell">{{ stage.opportunity }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+{% endif %}
+
+<!-- ══ Page 5: 제품 형태 비교 ══ -->
+{% if analysis.form_comparisons %}
+<div class="section page-break">
+  <div class="page-num">PAGE 05 — Product Comparison</div>
+  <div class="section-title">제품 형태별 소비자 반응 비교</div>
+  <div class="section-subtitle">{{ analysis.product_category }} 주요 제품 형태 비교 분석</div>
+  <hr class="divider"/>
+
+  <table class="form-grid">
+    <tr>
+      {% for fc in analysis.form_comparisons %}
+      <td class="form-cell">
+        <div class="form-card">
+          <div class="form-badge form-badge-{{ fc.badge_color }}">{{ fc.badge_color | upper }}</div>
+          <div class="form-name">{{ fc.form_name }}</div>
+          <div class="form-subtitle">{{ fc.form_subtitle }}</div>
+          <div class="form-products">{{ fc.products }}</div>
+          <div class="pros-title">+ {{ fc.pros_title }}</div>
+          <div class="detail-text">{{ fc.pros_detail }}</div>
+          <div class="cons-title">- {{ fc.cons_title }}</div>
+          <div class="detail-text">{{ fc.cons_detail }}</div>
+          {% if fc.representative_voc %}
+          <div class="form-voc">"{{ fc.representative_voc[:150] }}{% if fc.representative_voc|length > 150 %}...{% endif %}"</div>
+          {% endif %}
+        </div>
+      </td>
+      {% endfor %}
+    </tr>
+  </table>
+
+  {% if analysis.brand_landscape %}
+  <div class="sub-title">브랜드 지형도</div>
+  <table class="brand-table">
+    <tr><th>브랜드</th><th>소비자 인식 특성</th></tr>
+    {% for bl in analysis.brand_landscape %}
+    <tr>
+      <td class="brand-name">{{ bl.brand }}</td>
+      <td>{{ bl.description }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+  {% endif %}
+
+  {% if analysis.deep_dives %}
+  <div class="sub-title">심층 분석</div>
+  {% for dd in analysis.deep_dives %}
+  <div class="deepdive-card">
+    <div class="deepdive-title">{{ dd.title }}</div>
+    <div class="deepdive-body">{{ dd.body }}</div>
+  </div>
+  {% endfor %}
+  {% endif %}
+</div>
+{% endif %}
+
+<!-- ══ Page 6: 하이시그널 VOC 스포트라이트 ══ -->
+{% if analysis.spotlight_vocs %}
+<div class="section page-break">
+  <div class="page-num">PAGE 06 — High-Signal VOC</div>
+  <div class="section-title">하이시그널 VOC 스포트라이트</div>
+  <div class="section-subtitle">{{ analysis.spotlight_intro }}</div>
+  <hr class="divider"/>
+
+  {% for sv in analysis.spotlight_vocs %}
+  <div class="spotlight {{ sv.spotlight_type }}">
+    <div class="spotlight-header">
+      <div class="spotlight-title-cell">
+        <div class="spotlight-title">{{ sv.title_text }}</div>
+        <div style="margin-top:3px;"><span class="spotlight-source">{{ sv.source }}</span></div>
+      </div>
+      <div class="spotlight-score-cell">
+        <span class="score-badge">Score {{ sv.score_total }}</span>
+        <div class="score-sub">Quality {{ sv.score_quality }} &middot; Engagement {{ sv.score_engagement }}</div>
+      </div>
+    </div>
+    <div class="spotlight-text">{{ sv.excerpt }}</div>
+    <div class="spotlight-url">{{ sv.url }}</div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+<!-- ══ Page 7: 전략적 인사이트 ══ -->
+{% if analysis.strategic_insights %}
+<div class="section page-break">
+  <div class="page-num">PAGE 07 — Strategic Insights</div>
+  <div class="section-title">전략적 인사이트</div>
+  <div class="section-subtitle">VOC 데이터에서 도출된 핵심 전략 방향</div>
+  <hr class="divider"/>
+
+  {% for insight in analysis.strategic_insights %}
+  <div class="insight-card">
+    <div class="insight-header">
+      <div class="insight-num-cell">
+        <div class="insight-num">{{ '%02d' % insight.number }}</div>
+      </div>
+      <div class="insight-text-cell">
+        <div class="insight-title">{{ insight.title }}</div>
+        <div class="insight-impact">{{ insight.impact }}</div>
+      </div>
+    </div>
+    <div style="text-align:right; margin-top:4px;">
+      <span class="priority-{{ insight.priority }}">
+        {{ 'Critical' if insight.priority == 'critical' else ('High' if insight.priority == 'high' else 'Mid') }}
+      </span>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+<!-- ══ Page 8: 마케팅 전략 전환 ══ -->
+{% if analysis.marketing_strategies %}
+<div class="section page-break">
+  <div class="page-num">PAGE 08 — Marketing Strategy</div>
+  <div class="section-title">마케팅 전략 전환 방향</div>
+  <div class="section-subtitle">기존 접근법에서 VOC 기반 신규 접근법으로의 전환</div>
+  <hr class="divider"/>
+
+  <table class="strategy-table">
+    <tr>
+      <th>관점</th>
+      <th>기존 접근법</th>
+      <th>새로운 접근법</th>
+      <th style="width:12%; text-align:center;">우선순위</th>
+    </tr>
+    {% for strat in analysis.marketing_strategies %}
+    <tr>
+      <td class="perspective-cell">{{ strat.perspective }}</td>
+      <td><span class="old-approach">{{ strat.old_approach }}</span></td>
+      <td><span class="new-approach">{{ strat.new_approach }}</span></td>
+      <td style="text-align:center;">
+        <span class="{{ 'priority-high' if strat.priority == 'high' else 'priority-mid' }}">
+          {{ 'High' if strat.priority == 'high' else 'Mid' }}
+        </span>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+{% endif %}
+
+<!-- ══ Page 9: 제품 개발 방향 ══ -->
+{% if analysis.product_recommendations %}
+<div class="section page-break">
+  <div class="page-num">PAGE 09 — Product Roadmap</div>
+  <div class="section-title">제품 개발 방향 제안</div>
+  <div class="section-subtitle">단기 / 중기 / 장기 제품 개발 로드맵</div>
+  <hr class="divider"/>
+
+  {% for reco in analysis.product_recommendations %}
+  <div class="reco-card">
+    <div class="reco-header">
+      <div class="reco-label-cell">
+        <span class="reco-label">{{ reco.label }}</span>
+      </div>
+      <div class="reco-title-cell">
+        <div class="reco-title">{{ reco.title }}</div>
+      </div>
+    </div>
+    <div class="reco-body">{{ reco.body }}</div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+<!-- ══ Appendix 1: 키워드 분포 ══ -->
+{% if analysis.keyword_distributions %}
+<div class="section page-break">
+  <div class="page-num">APPENDIX 01 — Keyword Distribution</div>
+  <div class="section-title">키워드 분포 분석</div>
+  <div class="section-subtitle">수집된 VOC에서 추출된 주요 키워드 빈도 및 감성 분류</div>
+  <hr class="divider"/>
+
+  <table class="kw-table">
+    <tr>
+      <th style="width:6%; text-align:center;">#</th>
+      <th style="width:22%;">키워드</th>
+      <th style="width:10%; text-align:center;">빈도</th>
+      <th style="width:10%; text-align:center;">비율</th>
+      <th style="width:42%;">분포</th>
+      <th style="width:10%; text-align:center;">감성</th>
+    </tr>
+    {% for kd in analysis.keyword_distributions %}
+    <tr>
+      <td class="kw-rank">{{ kd.rank }}</td>
+      <td class="kw-word">{{ kd.keyword }}</td>
+      <td class="kw-count">{{ kd.count }}</td>
+      <td class="kw-pct">{{ kd.percentage }}%</td>
+      <td>
+        <div class="kw-bar-bg">
+          <span class="kw-bar-fill" style="width:{{ kd.bar_width_percent }}%; background-color:{{ kd.bar_color }};"></span>
+        </div>
+      </td>
+      <td style="text-align:center;">
+        <span class="{{ 'emotion-pos' if kd.emotion_tag == '긍정' else ('emotion-neg' if kd.emotion_tag == '부정' else 'emotion-neu') }}">
+          {{ kd.emotion_tag }}
+        </span>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+{% endif %}
+
+<!-- ══ 푸터 ══ -->
+<div class="footer-note">
+  이 보고서는 VOC Collector Premium 분석 시스템에 의해 생성되었습니다.<br/>
+  수집된 데이터는 L1~L4 검증을 통과한 항목만 포함되며, 전략 분석은 AI 기반 인사이트입니다.
+</div>
+
+</body>
+</html>

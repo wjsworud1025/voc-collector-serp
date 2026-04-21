@@ -1,0 +1,56 @@
+{
+  "search_metadata": {"id": "amazon_us_dry_run", "status": "Success", "created_at": "2026-04-07"},
+  "search_parameters": {"engine": "amazon", "k": "portable ice maker", "amazon_domain": "amazon.com"},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "IKICH Portable Ice Maker Machine for Countertop, Ice Cubes Ready in 6 Mins",
+      "link": "https://www.amazon.com/dp/B07KQVZZ4N",
+      "asin": "B07KQVZZ4N",
+      "rating": 4.4,
+      "reviews": 15234,
+      "price": {"symbol": "$", "value": 89.99, "currency": "USD"},
+      "thumbnail": "https://m.media-amazon.com/images/I/abc123.jpg"
+    },
+    {
+      "position": 2,
+      "title": "Silonn Ice Maker Countertop, 9 Cubes Ready in 6 Mins, 26lbs in 24Hrs",
+      "link": "https://www.amazon.com/dp/B08QTMP3XF",
+      "asin": "B08QTMP3XF",
+      "rating": 4.5,
+      "reviews": 8743,
+      "price": {"symbol": "$", "value": 79.99, "currency": "USD"},
+      "thumbnail": "https://m.media-amazon.com/images/I/def456.jpg"
+    },
+    {
+      "position": 3,
+      "title": "Antarctic Star Portable Ice Maker Machine for Counter Top, 26 Lbs/Day",
+      "link": "https://www.amazon.com/dp/B08TC1R89P",
+      "asin": "B08TC1R89P",
+      "rating": 3.8,
+      "reviews": 4521,
+      "price": {"symbol": "$", "value": 69.99, "currency": "USD"},
+      "thumbnail": "https://m.media-amazon.com/images/I/ghi789.jpg"
+    },
+    {
+      "position": 4,
+      "title": "GE Profile Opal 2.0 Nugget Ice Maker | Countertop Ice Maker with WiFi",
+      "link": "https://www.amazon.com/dp/B09XGRZ6H3",
+      "asin": "B09XGRZ6H3",
+      "rating": 4.3,
+      "reviews": 6892,
+      "price": {"symbol": "$", "value": 499.00, "currency": "USD"},
+      "thumbnail": "https://m.media-amazon.com/images/I/jkl012.jpg"
+    },
+    {
+      "position": 5,
+      "title": "Portable Ice Maker Countertop, Self-Cleaning, 9 Ice Cubes in 6-8 Minutes",
+      "link": "https://www.amazon.com/dp/B0C1FAKE01",
+      "asin": "B0C1FAKE01",
+      "rating": 3.5,
+      "reviews": 2134,
+      "price": {"symbol": "$", "value": 64.99, "currency": "USD"},
+      "thumbnail": "https://m.media-amazon.com/images/I/mno345.jpg"
+    }
+  ]
+}
