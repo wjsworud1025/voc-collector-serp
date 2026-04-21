@@ -27,7 +27,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 os.environ["SERPAPI_DRY_RUN"] = "1"
 os.environ["SERPAPI_KEY"] = "test_key_dry_run"
 os.environ["SERPAPI_MIN_CREDITS_GUARD"] = "5"
-os.environ["GEMINI_API_KEY"] = "AIzaSy_fake_test_key_for_unit_test_only"
+os.environ["GEMINI_API_KEY"] = "fake-test-key-for-unit-test-only"  # noqa: dummy placeholder, not a real key
 
 from collectors.serpapi_search import SerpApiSearchCollector
 from collectors.serpapi_models import parse_serpapi_response
