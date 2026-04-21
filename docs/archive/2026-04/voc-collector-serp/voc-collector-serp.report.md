@@ -21,7 +21,7 @@
 | 시작일 | 2026-04-02 |
 | 완료일 | 2026-04-07 |
 | 소요기간 | 5일 |
-| 경로 | C:\Users\admin\Desktop\Cowork_Project\voc-collector-serp |
+| 경로 | (로컬 작업 경로) |
 
 ### 1.2 결과 요약
 

@@ -87,3 +87,4 @@ logs/
 # ===== Claude / bkit =====
 .claude/
 docs/.pdca-status.json
+docs/.bkit-memory.json
